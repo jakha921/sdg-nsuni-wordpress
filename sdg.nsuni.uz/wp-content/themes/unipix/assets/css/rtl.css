@@ -1,0 +1,166 @@
+/* .rts-bread-crumb-area .wrapper .title{
+	position: relative;
+}
+
+.rtl .react-sideabr .recent-post-widget .post-desc{
+	margin-left: 0;
+	margin-right: 20px;
+}
+
+.rtl .react-sideabr .widget_search button, .rtl .react-sideabr .bs-search button{
+	left:0;
+	right: unset;
+}
+
+.rtl .react-sideabr .widget_search input, .rtl .react-sideabr .bs-search input{
+	padding-right: 20px;
+	padding-left: 65px;
+}
+.rtl .reactheme-blog-details .news-details-inner{
+	margin-right: 0;
+	margin-left: 30px;
+}
+.rtl .arrow-rotate .rt-arrow-right-regular:before{
+	transform: rotate(-90deg);
+}
+
+.rtl .rts-btn.btn-primary-4-border.arrow-rotate:hover .rt-arrow-right-regular:before{
+	transform: rotate(-180deg);
+}
+.rtl .mf-input-wrapper .mf-input{
+	text-align: right;
+}
+.rtl .elementor-widget-rt-price-table .elementor-widget-container .rt-pricing-table-body .rt-pricing-table-features-list li i{
+	margin-right: 0;
+	margin-left: 6px;
+}
+.single-testimonials-area .quote-image {
+    left: 15%;
+    right: inherit;
+}
+.menu-area .navbar ul li a {
+    padding-right: 0;
+    padding-left: 20px;
+}
+.menu-area .icon2 .navbar ul > li.menu-item-has-children > a:before {
+    right: auto;
+    left: 0;
+}
+.menu-area .navbar ul li ul.sub-menu li {
+    text-align: right;
+}
+.menu-area .navbar ul li.menu-item-has-children ul li.menu-item-has-children > a:before {
+    right: auto !important;
+    left: 5px !important;
+}
+.primary-menu ul li:last-child {
+    padding-left: 0 !important;
+}
+.menu-area .icon2 .navbar ul > li.menu-item-has-children > a {
+    margin-left: 20px;
+}
+.menu-area .navbar ul li .sub-menu {
+    right: 0;
+}
+#reactheme-header .menu-area .navbar ul li ul li .sub-menu {
+    right: 100%;
+}
+.menu-area .icon2 .navbar ul > li.menu-item-has-children > a {
+    margin-right: 0;
+}
+.menu-area .icon2 .navbar ul > li.menu-item-has-children .sub-menu li.menu-item-has-children > a {
+    margin-left: 0;
+}
+.menu-area .navbar ul li {
+    padding: 35px 10px;
+}
+.portfolio-item .portfolio-content .porfolio_icon a i {
+    transform: rotate(280deg) !important;
+    display: inline-block;
+}
+.rts-accordion .accordion-item .accordion-header .accordion-icon, 
+.rts-accordion .accordion-item .accordion-header .accordion-icon-active {
+    left: 32px;
+    right: inherit;
+}
+.rts-accordion .accordion-item .accordion-header .accordion-icon i, 
+.rts-accordion .accordion-item .accordion-header .accordion-icon-active i{
+    transform: rotate(180deg);
+    display: inline-block;
+}
+.single-service-style-two .btn-border-bottom i {
+    margin: 0;
+    transform: rotate(180deg);
+}
+.rts-accordion.style2 .accordion-item .accordion-header .accordion-icon, 
+.rts-accordion.style2 .accordion-item .accordion-header .accordion-icon-active, 
+.rts-accordion.style3 .accordion-item .accordion-header .accordion-icon, 
+.rts-accordion.style3 .accordion-item .accordion-header .accordion-icon-active {
+    right: inherit;
+    left: 0;
+}
+
+.rts-accordion.style3 .accordion-item .accordion-header .title_icon {
+    margin-left: 20px;
+}
+.rts-accordion.style3 .accordion-item .accordion-header .accordion-icon.number {
+    right: inherit;
+    left: 0;
+}
+.elementor-widget-rt-price-table .elementor-widget-container .rt-pricing-table-subtitle {
+    right: inherit;
+    left: 25px;
+}
+.single-product-8 .thumbnail .icon-top-right i {
+    transform: rotate(-130deg);
+}
+.siongle-portfolio-box-style.style-four .right a i {
+    transform: rotate(260deg);
+}
+.ps-navigation .rts-left-write-blog-wrapper-main .left-icon-area .icon-1 i, 
+.ps-navigation .rts-left-write-blog-wrapper-main .right-icon-area .icon-1 i {
+    transform: rotate(180deg);
+    display: inline-block;
+} */
+
+.rtl .sticky_form.rts-search-popup button{
+  right: unset;
+  left: 0;
+  top:20px
+}
+
+.rtl .rts-nbg-btn.btn-arrow span,
+.rtl  .rts__round--btn i ,
+.rtl .react_button span, .rtl .rt_slider_btn span, .rtl .load span{
+  transform: rotate(210deg);
+}
+.rtl  .rts-nbg-btn.btn-arrow:hover span, .rtl .react_button:hover span, .rtl .rt_slider_btn:hover span, .rtl .load:hover span{
+  transform: rotate(180deg);
+}
+.rtl .swipper-navigation.testimonial.style1{
+  left:unset;
+  right: -66%;
+}
+.rtl #top-to-bottom{
+  right: unset;
+  left: 28px;
+}
+.rtl .program__single--item--list--item i{
+  transform: rotate(180deg);
+}
+.rtl .menu-wrap-off{
+  right:unset;
+  left: 0;
+  transform: translate3d(-520px, 0, 0);
+}
+.rtl .menu-ofcn.off-open {
+  transform: translate3d(0, 0, 0);
+  transition: transform .8s;
+  transition-timing-function: ease;
+  transition-timing-function: cubic-bezier(.9,0,.3,1);
+  z-index: 10000;
+}
+.rtl .menu-wrap-off .inner-offcan .nav-link-container{
+  left: unset;
+  right: 0;
+}

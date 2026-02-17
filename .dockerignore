@@ -1,0 +1,8 @@
+sdg-files.tar.gz
+sdg-db.sql
+.git
+.gitignore
+*.md
+docker-compose*.yml
+Dockerfile
+.env

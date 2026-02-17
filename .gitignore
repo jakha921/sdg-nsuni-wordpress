@@ -1,0 +1,23 @@
+# WordPress uploads (too large)
+sdg.nsuni.uz/wp-content/uploads/
+
+# WordPress cache
+sdg.nsuni.uz/wp-content/cache/
+sdg.nsuni.uz/wp-content/upgrade/
+sdg.nsuni.uz/wp-content/backup/
+
+# Debug logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+.env.local

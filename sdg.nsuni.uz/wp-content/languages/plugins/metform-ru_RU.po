@@ -1,0 +1,4492 @@
+# Translation of Plugins - MetForm &#8211; Contact Form, Survey, Quiz, &amp; Custom Form Builder for Elementor - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - MetForm &#8211; Contact Form, Survey, Quiz, &amp; Custom Form Builder for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-02 15:06:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - MetForm &#8211; Contact Form, Survey, Quiz, &amp; Custom Form Builder for Elementor - Stable (latest release)\n"
+
+#: widgets/date/date.php:540
+msgid "Time Background Color"
+msgstr "Цвет фона таймера"
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:175
+msgid "Continue"
+msgstr "Продолжить"
+
+#: core/integrations/onboard/views/onboard-steps/step-06.php:18
+msgid "Go to WP Dashboard"
+msgstr "Перейдите на консоль WP"
+
+#: core/integrations/onboard/views/onboard-steps/step-06.php:5
+msgid "Here’s an overview of everything that is setup."
+msgstr "Вот обзор всех выполненных настроек."
+
+#: core/integrations/onboard/views/onboard-steps/step-06.php:2
+msgid "Great! You’re All Set!"
+msgstr "Отлично! У Вас все готово!"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:33
+msgid "Complete Setup"
+msgstr "Завершить настройку"
+
+#: core/integrations/onboard/classes/ajax.php:106
+msgid "Plugin Activated"
+msgstr "Плагин активирован"
+
+#. Plugin URI of the plugin
+#: metform.php
+msgid "http://wpmet.com/plugin/metform/"
+msgstr "http://wpmet.com/plugin/metform/"
+
+#: widgets/manifest.php:108
+msgid "Text Editor"
+msgstr "Текстовый редактор"
+
+#: widgets/manifest.php:102
+msgid "Simple Repeater"
+msgstr "Простой повторитель"
+
+#: widgets/manifest.php:96
+msgid "Signature"
+msgstr "Подпись"
+
+#: widgets/manifest.php:90
+msgid "Prev Step"
+msgstr "Предыдущий шаг"
+
+#: widgets/manifest.php:84
+msgid "Payment Method"
+msgstr "Способы оплаты"
+
+#: widgets/manifest.php:72
+msgid "Mobile Number"
+msgstr "Мобильный"
+
+#: widgets/manifest.php:60
+msgid "Like Dislike"
+msgstr "Лайки Дизлайки"
+
+#: widgets/manifest.php:54
+msgid "Image Select"
+msgstr "Выбор изображения"
+
+#: widgets/manifest.php:48
+msgid "Credit Card"
+msgstr "Кредитная карта"
+
+#: widgets/manifest.php:42
+msgid "Color Picker"
+msgstr "Выбор цвета"
+
+#: widgets/manifest.php:36
+msgid "Calculation"
+msgstr "Расчет"
+
+#: core/integrations/emailkit-builder.php:37
+msgid "Access denied."
+msgstr "Доступ запрещен."
+
+#: core/admin/views/settings.php:1038
+msgid "Google Sheet Integration is a premium feature—get Pro to use it!"
+msgstr "Интеграция с листами Google - это премиум-функция, получите Pro, чтобы использовать ее!"
+
+#: core/admin/views/settings.php:843
+msgid "Redirect Page Settings "
+msgstr "Настройки страницы переадресации "
+
+#: core/admin/views/settings.php:622
+msgid "Smart Form is a premium feature—get Pro to use it!"
+msgstr "Smart Form - это премиум-функция - получите Pro, чтобы использовать ее!"
+
+#: core/admin/views/settings.php:607
+msgid "widgets like radio buttons, multi-select, select, image select, toggle select, checkboxes, and simple repeater."
+msgstr "такие виджеты, как селективные кнопки, мультивыбор, выбор, выбор изображения, выбор тумблера, флажки и простой повторитель."
+
+#: core/admin/views/settings.php:607
+msgid "Turn this feature on if you want the input field title to be shown along with the value. By default, only the value is displayed. This feature works for"
+msgstr "Включите эту функцию, если хотите, чтобы название поля ввода отображалось вместе со значением. По умолчанию отображается только значение. Эта функция работает для"
+
+#: core/admin/views/settings.php:575 core/admin/views/settings.php:617
+msgid "Smart Form Settings"
+msgstr "Настройки интеллектуальной формы"
+
+#: core/admin/views/settings.php:552 core/admin/views/settings.php:623
+#: core/admin/views/settings.php:1039
+msgid "Get full access to premium features by upgrading today."
+msgstr "Получите полный доступ к премиум-функциям, обновившись сегодня."
+
+#: core/admin/views/settings.php:551
+msgid "Map is a premium feature—get Pro to use it!"
+msgstr "Карта - это премиум-функция - получите Pro, чтобы использовать ее!"
+
+#: core/admin/views/settings.php:448
+msgid "ReCaptcha Settings"
+msgstr "Настройки reCAPTCHA"
+
+#: core/admin/views/settings.php:88 core/admin/views/settings.php:159
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: widgets/simple-message/simple-message.php:78
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: widgets/simple-message/simple-message.php:55
+#: widgets/simple-message/simple-message.php:71
+msgid "Message"
+msgstr "Сообщение"
+
+#: widgets/simple-message/simple-message.php:21
+msgid "Simple Message"
+msgstr "Простое сообщение"
+
+#: widgets/url/url.php:165
+msgid "Please enter a valid URL starting with http:// or https://"
+msgstr "Введите действительный URL-адрес, начинающийся с http:// или https://"
+
+#: core/integrations/crm/hubspot/loader.php:112
+msgid "Connect Zoho "
+msgstr "Подключите Zoho "
+
+#: core/integrations/crm/hubspot/loader.php:43
+msgid "CRM & Marketing"
+msgstr "CRM и маркетинг"
+
+#: core/entries/api.php:154
+msgid "Invalid_api_key."
+msgstr "Invalid_api_key."
+
+#: core/entries/api.php:143 core/integrations/emailkit-builder.php:30
+msgid "Nonce mismatch."
+msgstr "Несоответствие одноразового кода."
+
+#: core/integrations/onboard/views/onboard-steps/step-02.php:11
+msgid "(We Never Spam)"
+msgstr "(Мы никогда не спамим)"
+
+#: plugin.php:320
+msgid "AI-powered text-to-image generator for WordPress with OpenAI’s DALL-E 2 technology to generate high-quality images in one click."
+msgstr "Генератор текста в изображения на основе ИИ для WordPress с технологией DALL-E 2 от OpenAI для создания высококачественных изображений по одному щелчку."
+
+#: plugin.php:313
+msgid "All in one WooCommerce solution for Gutenberg! Build your WooCommerce pages in a block editor with full customization."
+msgstr "Все в одном решении WooCommerce для Gutenberg! Создавайте свои страницы WooCommerce в редакторе блоков с полной настройкой."
+
+#: plugin.php:306
+msgid "Create fundraising, crowdfunding, and donation websites with PayPal and Stripe payment gateway integration."
+msgstr "Создавайте веб-сайты по сбору средств, краудфандингу и пожертвованиям с помощью интеграции платежного шлюза PayPal и Stripe."
+
+#: plugin.php:299
+msgid "Collect and showcase reviews on your website to build brand credibility and social proof with the easiest solution."
+msgstr "Собирайте и демонстрируйте отзывы на своем сайте, чтобы повысить авторитет бренда и социальную значимость с помощью самого простого решения."
+
+#: plugin.php:292
+msgid "Add social share, login, and engagement counter — unified solution for all social media with tons of different styles for your website."
+msgstr "Добавьте счетчик социальной активности, авторизации и взаимодействия - единое решение для всех социальных сетей с множеством различных стилей для вашего сайта."
+
+#: plugin.php:285
+msgid "Advanced email customizer for WooCommerce and WordPress. Build, customize, and send emails from WordPress to boost your sales!"
+msgstr "Расширенный настройщик электронной почты для WooCommerce и WordPress. Создавайте, настраивайте и отправляйте электронные письма из WordPress, чтобы увеличить свои продажи!"
+
+#: plugin.php:282
+msgid "EmailKit"
+msgstr "EmailKit"
+
+#: plugin.php:277
+msgid ""
+"Complete WooCommerce solution for Elementor to fully customize any pages including cart, checkout, shop page, and so on.\n"
+"                "
+msgstr ""
+"Полноценное решение WooCommerce для Elementor, позволяющее полностью настроить любые страницы, включая корзину, оформление заказа, страницу магазина и т.д.\n"
+"                "
+
+#: plugin.php:270
+msgid "Gutenberg blocks, patterns, and templates that extend the page-building experience using the WordPress block editor."
+msgstr "Блоки, паттерны и шаблоны Gutenberg, расширяющие возможности создания страниц с помощью редактора блоков WordPress."
+
+#: plugin.php:267
+msgid "GutenKit"
+msgstr "GutenKit"
+
+#: plugin.php:263
+msgid "Your personal AI assistant for content and SEO. Write content that ranks on Google with NLP keywords and SERP analysis data."
+msgstr "Ваш личный ИИ-помощник для содержимого и SEO. Пишите содержимое, который ранжируется в Google, используя ключевые слова NLP и данные анализа SERP."
+
+#: plugin.php:256
+msgid "All-in-one Elementor addon trusted by 1 Million+ users, makes your website builder process easier with ultimate freedom."
+msgstr "Универсальное дополнение к Elementor, которому доверяют 1 миллион с лишним пользователей, облегчает процесс построения сайтов и обеспечивает максимальную свободу."
+
+#: core/integrations/onboard/views/onboard-steps/step-02.php:5
+msgid "Sign up to join a community of like-minded marketers, developers, and thought leaders in WordPress!"
+msgstr "Зарегистрируйтесь, чтобы присоединиться к сообществу единомышленников - маркетологов, разработчиков и лидеров мысли в WordPress!"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:30
+#: core/integrations/onboard/views/onboard-steps/step-02.php:17
+#: core/integrations/onboard/views/onboard-steps/step-04.php:30
+msgid "Next"
+msgstr "Далее"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:4
+msgid "Get Started with MetForm!"
+msgstr "Начало работы с MetForm!"
+
+#: core/integrations/onboard/views/layout-onboard.php:17
+msgid "Upgrade Your Site"
+msgstr "Обновите свой сайт"
+
+#: utils/apps/apps.php:443
+msgid "Read Docs"
+msgstr "Читать документацию"
+
+#: utils/apps/apps.php:426
+msgid "Activate"
+msgstr "Активировать"
+
+#: core/admin/views/settings.php:419
+msgid "Don't forget to rate MetForm!"
+msgstr "Не забудьте поставить рейтинг MetForm!"
+
+#: core/admin/views/settings.php:396
+msgid "Feature Request Thumb"
+msgstr "Избранное"
+
+#: core/admin/views/settings.php:388
+msgid "Support Thumb"
+msgstr "Поддержите большой палец"
+
+#: plugin.php:303
+msgid "FundEngine"
+msgstr "FundEngine"
+
+#: plugin.php:296
+msgid "WP Ultimate Review"
+msgstr "WP Ultimate Review"
+
+#: plugin.php:317
+msgid "Genie Image"
+msgstr "Genie Image"
+
+#: plugin.php:289
+msgid "Wp Social"
+msgstr "Wp Social"
+
+#: plugin.php:310
+msgid "Blocks for ShopEngine"
+msgstr "Блоки для ShopEngine"
+
+#: plugin.php:274
+msgid "ShopEngine"
+msgstr "ShopEngine"
+
+#: plugin.php:260
+msgid "GetGenie"
+msgstr "GetGenie"
+
+#: plugin.php:253
+msgid "ElementsKit"
+msgstr "ElementsKit"
+
+#: widgets/file-upload/file-upload.php:165
+msgid "You can increase your upload file size."
+msgstr "Вы можете увеличить размер загружаемого файла."
+
+#: widgets/file-upload/file-upload.php:163
+msgid "Deafult maximum upload file size: %s"
+msgstr "Максимальный размер загружаемого файла: %s"
+
+#: widgets/email/email.php:100
+msgid "Enable unique email address"
+msgstr "Включите уникальный адрес электронной почты"
+
+#: widgets/email/email.php:94
+msgid "Unique Email"
+msgstr "Уникальная электронная почта"
+
+#: core/entries/action.php:127
+msgid "%1$s %2$s already exist."
+msgstr "%1$s %2$s уже существует."
+
+#: core/entries/action.php:96
+msgid "File size exceeded."
+msgstr "Превышен размер файла."
+
+#: utils/user-consent-banner/consent-check-view.php:44
+msgid "Show update & fix related important messages, essential tutorials and promotional images on WP Dashboard"
+msgstr "Показывать важные сообщения об обновлениях и исправлениях, необходимые руководства и рекламные изображения в консоли WP"
+
+#: traits/common-controls.php:196
+msgid "Max Value"
+msgstr "Макс значение"
+
+#: traits/common-controls.php:184
+msgid "Min Value"
+msgstr "Мин значение"
+
+#: traits/common-controls.php:177
+msgid "By range"
+msgstr "По диапазону"
+
+#: plugin.php:409
+msgid "Minimum number should be "
+msgstr "Минимальное количество должно быть "
+
+#: plugin.php:408
+msgid "Maximum number should be "
+msgstr "Максимальное количество должно быть "
+
+#: plugin.php:407
+msgid "Maximum length should be "
+msgstr "Максимальная длина должна быть "
+
+#: plugin.php:406
+msgid " character long."
+msgstr " длиной в один символ."
+
+#: plugin.php:405
+msgid "Minimum length should be "
+msgstr "Минимальная длина должна быть "
+
+#: widgets/switch/switch.php:359 widgets/switch/switch.php:540
+msgctxt "Border Control"
+msgid "Circle Border Color"
+msgstr "Цвет рамки круга"
+
+#: widgets/switch/switch.php:345 widgets/switch/switch.php:526
+msgctxt "Border Control"
+msgid "Circle Border Width"
+msgstr "Ширина рамки круга"
+
+#: widgets/switch/switch.php:325 widgets/switch/switch.php:506
+msgctxt "Border Control"
+msgid "Circle Border Type"
+msgstr "Тип рамки круга"
+
+#: widgets/switch/switch.php:311 widgets/switch/switch.php:492
+msgid "Circle Background Color"
+msgstr "Фоновый цвет"
+
+#: widgets/switch/switch.php:302 widgets/switch/switch.php:482
+msgid "Input Slider:"
+msgstr "Входной слайдер:"
+
+#: widgets/switch/switch.php:275 widgets/switch/switch.php:456
+msgctxt "Border Control"
+msgid "Input Border Color"
+msgstr "Цвет рамки поля ввода"
+
+#: widgets/switch/switch.php:261 widgets/switch/switch.php:442
+msgctxt "Border Control"
+msgid "Input Border Width"
+msgstr "Ширина рамки ввода"
+
+#: widgets/switch/switch.php:241 widgets/switch/switch.php:422
+msgctxt "Border Control"
+msgid "Input Border Type"
+msgstr "Тип рамки ввода"
+
+#: widgets/switch/switch.php:186
+msgid "Active and Inactive:"
+msgstr "Активные и неактивные:"
+
+#: core/forms/views/modal-editor.php:755
+msgid "Delete"
+msgstr "Удалить"
+
+#: core/forms/views/modal-editor.php:750
+msgid "Select Zoho Form Field"
+msgstr "Выберите поле формы Zoho"
+
+#: core/forms/views/modal-editor.php:744
+msgid "Select Metform Field"
+msgstr "Выберите поле Метформы"
+
+#: core/forms/views/modal-editor.php:735
+msgid "Form Fields"
+msgstr "Поля Формы"
+
+#. translators: Error message for allowed file types. %1$s is the input name,
+#. %2$s is a list of allowed file types.
+#: core/entries/file-data-validation.php:104
+msgid "%1$s only allow %2$s file types."
+msgstr "%1$s допускает только %2$s типы файлов."
+
+#: core/entries/file-data-validation.php:55
+#: core/entries/file-data-validation.php:64
+msgid "%1$s size cannot exceed %2$u kb."
+msgstr "%1$s размер не должен превышать %2$u кб."
+
+#: core/entries/file-data-validation.php:40
+#: core/entries/file-data-validation.php:78
+msgid "No File found"
+msgstr "Файл не найден"
+
+#: core/entries/action.php:1065
+msgid "There was an error uploading your file."
+msgstr "При загрузке Вашего файла произошла ошибка."
+
+#: core/entries/action.php:73
+msgid "You are not permitted to access this form"
+msgstr "Вы не имеете права доступа к этой форме"
+
+#: traits/common-controls.php:98
+msgid "Fixed Field Name : "
+msgstr "Фиксированное имя поля : "
+
+#: core/forms/views/modal-editor.php:375
+msgid "Google Sheet list title"
+msgstr "Название списка Google Sheet"
+
+#: core/forms/views/modal-editor.php:366
+msgid "Sheets List:"
+msgstr "Список листов:"
+
+#: core/forms/views/modal-editor.php:363
+msgid "Google Spreadsheet list id"
+msgstr "ID списка Google Spreadsheet"
+
+#: core/forms/views/modal-editor.php:352
+msgid "Spreadsheets List:"
+msgstr "Список электронных таблиц:"
+
+#: core/admin/views/settings.php:600
+msgid "Display Input Field Name Alongside Value "
+msgstr "Отображение имени поля ввода рядом со значением "
+
+#: widgets/radio/radio.php:276
+msgctxt "Radio Control"
+msgid "Checked"
+msgstr "Отмечено"
+
+#: widgets/radio/radio.php:275
+msgctxt "Radio Control"
+msgid "Radio"
+msgstr "Селективная кнопка"
+
+#: widgets/radio/radio.php:272
+msgctxt "Radio Control"
+msgid "Input Type"
+msgstr "Тип ввода"
+
+#: core/entries/meta-data.php:115
+msgid "Visitor"
+msgstr "Посетитель"
+
+#: core/entries/meta-data.php:104
+msgid "Entry By"
+msgstr "Запись"
+
+#: base/shortcode.php:134 base/shortcode.php:138
+msgid "No entry found."
+msgstr "Запись не найдена."
+
+#: base/shortcode.php:100
+msgid "Thank you . Your payment status : "
+msgstr "Спасибо . Статус Вашего платежа : "
+
+#: base/shortcode.php:98
+msgid " Your transcation ID : "
+msgstr " Ваш ID транскрипции : "
+
+#: base/shortcode.php:98
+msgid " Thank you for your payment."
+msgstr " Спасибо за оплату."
+
+#: core/integrations/crm/hubspot/loader.php:251
+msgid "Enter Hubsopt token expires in here"
+msgstr "Введите здесь срок действия токена Hubsopt"
+
+#: core/integrations/crm/hubspot/loader.php:248
+msgid "Token Expires In"
+msgstr "Срок действия токена истекает"
+
+#: core/integrations/crm/hubspot/loader.php:243
+msgid "Enter Hubsopt token type here"
+msgstr "Введите здесь тип токена Hubsopt"
+
+#: core/integrations/crm/hubspot/loader.php:240
+msgid "Token Tyoe"
+msgstr "Токен Tyoe"
+
+#: core/integrations/crm/hubspot/loader.php:235
+msgid "Enter Hubsopt refresh token here"
+msgstr "Введите здесь токен обновления Hubsopt"
+
+#: core/integrations/crm/hubspot/loader.php:232
+msgid "Refresh Token"
+msgstr "Обновить токен"
+
+#: core/forms/action.php:136
+msgid "You must active at least one field of these fields \"store entries/ Confirmation/ Notification/ REST API/ MailChimp/ Slack/ Zapier\". "
+msgstr "Вы должны активировать хотя бы одно из этих полей \"записи в магазине/подтверждение/оповещение/ REST API/ MailChimp/ Slack/ Zapier\". "
+
+#: core/forms/action.php:132
+msgid "Form settings updated"
+msgstr "Обновлены настройки формы"
+
+#: core/entries/hooks.php:39
+msgid "Export Actions"
+msgstr "Действия при экспорте"
+
+#: utils/util.php:648
+msgid "Permalink Structure Updated!"
+msgstr "Структура постоянной ссылки обновлена!"
+
+#: utils/util.php:622
+msgid "Change Permalink"
+msgstr "Сменить постоянную ссылку"
+
+#: utils/util.php:616
+msgid "Plain permalink is not supported with MetForm. We recommend to use post name as your permalink settings."
+msgstr "Обычная постоянная ссылка не поддерживается в MetForm. Мы рекомендуем использовать название записи в качестве постоянной ссылки."
+
+#: core/entries/meta-data.php:371
+msgid "Order Details"
+msgstr "Детали заказа"
+
+#: core/entries/hooks.php:87
+msgid "PDF Export"
+msgstr "Экспорт PDF"
+
+#: core/entries/form-data.php:272 core/entries/form-data.php:505
+msgid "Type:"
+msgstr "Тип:"
+
+#: core/entries/form-data.php:268 core/entries/form-data.php:501
+msgid "Number:"
+msgstr "Число:"
+
+#: traits/quiz-control.php:629
+msgid "Image select Options"
+msgstr "Выбор изображения Параметры"
+
+#: traits/quiz-control.php:584
+msgid "Preview (Optional)"
+msgstr "Предварительный просмотр (Дополнительно)"
+
+#: traits/quiz-control.php:573
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: traits/quiz-control.php:565
+msgid "Title"
+msgstr "Заголовок"
+
+#: traits/quiz-control.php:531
+msgid "Toggle select Options"
+msgstr "Отключить выбор параметров"
+
+#: traits/quiz-control.php:486
+msgid "Add\t Icon"
+msgstr "Добавить\t Значок"
+
+#: traits/quiz-control.php:465 traits/quiz-control.php:608
+msgid "Select it default ?"
+msgstr "Выбрать его по умолчанию?"
+
+#: traits/quiz-control.php:448
+msgid "value"
+msgstr "значение"
+
+#: traits/quiz-control.php:439
+msgid "Enter toggle text"
+msgstr "Введите текст для переключения"
+
+#: traits/quiz-control.php:438
+msgid "toggle"
+msgstr "переключатель"
+
+#: traits/quiz-control.php:436
+msgid "Toggle for select"
+msgstr "Переключение для выбора"
+
+#: traits/quiz-control.php:313 traits/quiz-control.php:403
+msgid "Options"
+msgstr "Параметры"
+
+#: traits/quiz-control.php:301 traits/quiz-control.php:391
+#: traits/quiz-control.php:474 traits/quiz-control.php:617
+msgid "Select as answer?"
+msgstr "Выбрать в качестве ответа?"
+
+#: traits/quiz-control.php:253
+msgid "Multiple Answer"
+msgstr "Множественный ответ"
+
+#: traits/quiz-control.php:252
+msgid "Single Answer"
+msgstr "Одиночный ответ"
+
+#: traits/quiz-control.php:249
+msgid "Type : "
+msgstr "Тип : "
+
+#: traits/quiz-control.php:240
+msgid "Where do you want to option?"
+msgstr "Где Вы хотите выбрать?"
+
+#: traits/quiz-control.php:203
+msgid "Image select option display style."
+msgstr "Выбор стиля отображения изображения."
+
+#: traits/quiz-control.php:184
+msgid "Option display style."
+msgstr "Стиль отображения опций."
+
+#: traits/quiz-control.php:164
+msgid "Type your help text"
+msgstr "Введите свой текст помощи"
+
+#: traits/quiz-control.php:153 traits/quiz-control.php:224
+msgid "Enter placeholder"
+msgstr "Введите заполнитель"
+
+#: traits/quiz-control.php:150 traits/quiz-control.php:221
+#: traits/quiz-control.php:344
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: traits/quiz-control.php:139
+msgid "Enter negative point"
+msgstr "Введите отрицательный балл"
+
+#: traits/quiz-control.php:134
+msgid "Negative point"
+msgstr "Отрицательный момент"
+
+#: traits/quiz-control.php:104 traits/quiz-control.php:121
+msgid "Add negative point?"
+msgstr "Добавить отрицательный момент?"
+
+#: traits/quiz-control.php:93 traits/quiz-control.php:94
+msgid "Enter answer"
+msgstr "Введите ответ"
+
+#: traits/quiz-control.php:90
+msgid "Answer:"
+msgstr "Ответ:"
+
+#: traits/quiz-control.php:78
+msgid "Add answer for the question?"
+msgstr "Добавить ответ на вопрос?"
+
+#: traits/quiz-control.php:70
+msgid "Note: if the point and the negative point both are set at zero, we won't consider it a question."
+msgstr "Примечание: если точка и отрицательная точка установлены на ноль, мы не будем считать это вопросом."
+
+#: traits/quiz-control.php:68 traits/quiz-control.php:69
+msgid "Enter point"
+msgstr "Введите точку"
+
+#: traits/quiz-control.php:64
+msgid "Point"
+msgstr "Балл"
+
+#: traits/quiz-control.php:56 traits/quiz-control.php:57
+msgid "Enter question"
+msgstr "Введите вопрос"
+
+#: traits/quiz-control.php:55
+msgid "Question"
+msgstr "Вопрос"
+
+#: traits/quiz-control.php:43
+msgid "Enter name of the input"
+msgstr "Введите название ввода"
+
+#: core/forms/views/modal-editor.php:75
+msgid "Quiz summary will be shown to user after form submission with success message."
+msgstr "Итоги теста будут показаны пользователю после отправки формы с сообщением об успехе."
+
+#: core/forms/views/modal-editor.php:73
+msgid "Show Quiz Summary:"
+msgstr "Показать тест Резюме:"
+
+#: core/forms/views/modal-add-new-form.php:34
+msgid "Form Type"
+msgstr "Тип формы"
+
+#: core/forms/views/modal-add-new-form.php:8
+msgid "Create Form"
+msgstr "Создать форму"
+
+#: core/forms/api.php:367
+msgid "Not Authorized"
+msgstr "Не авторизовано"
+
+#: core/entries/meta-data.php:141
+msgid "Quiz Data"
+msgstr "Данные теста"
+
+#: controls/form-picker-modal.php:76 core/forms/views/modal-add-new-form.php:53
+msgid "Create From Scratch"
+msgstr "Создать с нуля"
+
+#: controls/form-picker-modal.php:70 controls/form-picker-modal.php:73
+#: core/forms/views/modal-add-new-form.php:47
+#: core/forms/views/modal-add-new-form.php:50
+msgid "Blank Template"
+msgstr "Пустой шаблон"
+
+#: controls/form-picker-modal.php:51 core/forms/views/modal-add-new-form.php:28
+msgid "Quiz Form"
+msgstr "Форма теста"
+
+#: controls/form-picker-modal.php:45 controls/form-picker-modal.php:50
+#: core/forms/views/modal-add-new-form.php:22
+#: core/forms/views/modal-add-new-form.php:27
+msgid "General Form"
+msgstr "Общая форма"
+
+#: widgets/select/select.php:290
+msgid "Options Wrapper"
+msgstr "Параметры Wrapper"
+
+#: widgets/email/email.php:171
+msgid "Error Message"
+msgstr "Сообщение об ошибке"
+
+#: core/integrations/crm/hubspot/loader.php:274
+msgid "Click Here To Connect Your HubSpot Account"
+msgstr "Нажмите здесь, чтобы подключить Вашу учётную запись HubSpot"
+
+#: core/integrations/crm/hubspot/loader.php:269
+msgid "sign up for a free HubSpot account here."
+msgstr "зарегистрируйтесь для получения бесплатной учётной записи HubSpot здесь."
+
+#: core/integrations/crm/hubspot/loader.php:269
+msgid "If you don't already have a HubSpot account, you can"
+msgstr "Если у Вас ещё нет учётной записи HubSpot, Вы можете"
+
+#: core/integrations/crm/hubspot/loader.php:268
+msgid "With MetForm, you can sync your form submissions seamlessly to HubSpot to build lists, email marketing campaigns and so much more."
+msgstr "С помощью MetForm Вы можете легко синхронизировать Ваши формы с HubSpot для создания списков, маркетинговых кампаний по электронной почте и многого другого."
+
+#: core/integrations/crm/hubspot/loader.php:267
+msgid "HubSpot is an all-in-one CRM and marketing platform that helps turn your website visitors into leads, leads into customers, and customers into raving fans."
+msgstr "HubSpot - это универсальная CRM и маркетинговая платформа, которая поможет превратить посетителей Вашего сайта в лидов, лидов - в клиентов, а клиентов - в восторженных поклонников."
+
+#: core/integrations/crm/hubspot/loader.php:261
+msgid "Disconnect HubSpot Account"
+msgstr "Отключить учётную запись HubSpot"
+
+#: core/integrations/crm/hubspot/loader.php:257
+msgid "Your HubSpot account is now connected with Metform! You can remove the access anytime using the below button."
+msgstr "Ваша учётная запись HubSpot теперь связана с MetForm! Вы можете удалить доступ в любое время, воспользовавшись кнопкой ниже."
+
+#: core/integrations/crm/hubspot/loader.php:227
+msgid "Enter Hubsopt token here"
+msgstr "Введите токен Hubsopt здесь"
+
+#: core/integrations/crm/hubspot/loader.php:173
+msgid "Enter HubSpot token here"
+msgstr "Введите токен HubSpot здесь"
+
+#: core/integrations/crm/hubspot/loader.php:46
+msgid "HubSpot"
+msgstr "HubSpot"
+
+#: core/integrations/crm/hubspot/loader.php:44
+msgid "All CRM and Marketing integrations info here"
+msgstr "Вся информация о CRM и маркетинговых интеграциях здесь"
+
+#: core/entries/action.php:864 core/entries/action.php:917
+msgid "Please setup your SMTP mail server."
+msgstr "Настройте свой почтовый SMTP-сервер."
+
+#: core/admin/views/settings.php:935 core/admin/views/settings.php:949
+msgid "Create Cancel Page"
+msgstr "Создать страницу отмены"
+
+#: core/admin/views/settings.php:929
+msgid "Handle canceled payment redirection page. Learn more about cancel page."
+msgstr "Страница перенаправления отмененного платежа. Узнайте больше об отмене страницы."
+
+#: core/admin/views/settings.php:913
+msgid "Select Cancel Page :"
+msgstr "Выберите Отменить страницу :"
+
+#: core/admin/views/settings.php:889 core/admin/views/settings.php:903
+msgid "Create Thank You Page"
+msgstr "Создайте страницу благодарности"
+
+#: core/admin/views/settings.php:885
+msgid "Here"
+msgstr "Здесь"
+
+#: core/admin/views/settings.php:885
+msgid "Handle successful payment redirection page. Learn more about Thank you page. "
+msgstr "Обработайте страницу успешной переадресации платежа. Узнайте больше о странице \"Спасибо\". "
+
+#: core/admin/views/settings.php:873 core/admin/views/settings.php:916
+msgid "Select a page"
+msgstr "Выберите страницу"
+
+#: core/admin/views/settings.php:870
+msgid "Select Thank You Page :"
+msgstr "Выберите страницу благодарности :"
+
+#: core/admin/views/settings.php:591
+msgid "that the submissions will be saved for 2 hours, after which the form submissions will be reset. "
+msgstr "что отправленные заявки будут сохранены в течение 2 часов, после чего отправленные формы будут сброшены. "
+
+#: core/admin/views/settings.php:591
+msgid "Please note "
+msgstr "Обратите внимание "
+
+#: core/admin/views/settings.php:590
+msgid "Turn this feature on if you want partial submissions to be saved for a form so that the user can complete the form submission later. "
+msgstr "Включите эту функцию, если Вы хотите сохранить частичную отправку формы, чтобы пользователь мог завершить отправку формы позже. "
+
+#: core/admin/views/settings.php:584
+msgid "Save Form Progress ?"
+msgstr "Сохранить прогресс формы?"
+
+#: widgets/file-upload/file-upload.php:211
+msgid ".stl"
+msgstr ".stl"
+
+#: widgets/file-upload/file-upload.php:210
+msgid ".stp"
+msgstr ".stp"
+
+#: core/entries/action.php:103
+msgid "You are trying to upload wrong file!"
+msgstr "Вы пытаетесь загрузить неправильный файл!"
+
+#: widgets/file-upload/file-upload.php:127
+msgid "Enable Multiple File Upload : "
+msgstr "Включить загрузку нескольких файлов : "
+
+#: traits/common-controls.php:975
+msgid "Get Value From URL?"
+msgstr "Получить значение из URL?"
+
+#: widgets/select/select.php:642
+msgid "Your CSV data is not formatted properly. CSV file must have format like: Label, Value, true/false(optional) default true"
+msgstr "Ваши данные CSV отформатированы неправильно. CSV-файл должен иметь такой формат, как: Этикетка, Значение, истина/ложь (необязательно) по умолчанию истина"
+
+#: widgets/select/select.php:194
+msgid "Enter a CSV File URL"
+msgstr "Введите URL файла CSV"
+
+#: widgets/select/select.php:181 widgets/select/select.php:195
+msgid "CSV file must have format like: Label, Value, true/false(optional)"
+msgstr "CSV-файл должен иметь такой формат, как: Этикетка, Значение, истина/ложь (опционально)"
+
+#: widgets/select/select.php:180
+msgid "Upload CSV File"
+msgstr "Загрузить CSV-файл"
+
+#: widgets/select/select.php:168
+msgid "Remote File URL"
+msgstr "URL удаленного файла"
+
+#: widgets/select/select.php:167
+msgid "Upload File"
+msgstr "Загрузить файл"
+
+#: widgets/select/select.php:164
+msgid "File Type"
+msgstr "Тип файла"
+
+#: widgets/select/select.php:123
+msgid "CSV File"
+msgstr "Файл CSV"
+
+#: widgets/select/select.php:122
+msgid "Custom"
+msgstr "Произвольно"
+
+#: traits/quiz-control.php:212 widgets/select/select.php:119
+msgid "Data Type"
+msgstr "Тип данных"
+
+#: core/forms/views/modal-editor.php:201
+msgid "Want to send a copy of submitted form to user ?"
+msgstr "Хотите отправить копию отправленной формы пользователю?"
+
+#: core/entries/action.php:527
+msgid "Problem with your RestApi integration."
+msgstr "Проблема с интеграцией RestApi."
+
+#: core/entries/action.php:429
+msgid "Problem with your Mail Poet integration."
+msgstr "Проблема с интеграцией Mail Poet."
+
+#: core/entries/action.php:415
+msgid "Problem with your Aweber integration."
+msgstr "Проблема с интеграцией с Aweber."
+
+#: core/entries/action.php:399
+msgid "Problem with convertKit."
+msgstr "Проблема с convertKit."
+
+#: core/entries/action.php:383
+msgid "Problem with your slack integration."
+msgstr "Проблема с интеграцией в Slack."
+
+#: core/entries/action.php:360
+msgid "Problem with your zapier integration."
+msgstr "Проблема с интеграцией в zapier."
+
+#: core/entries/action.php:339
+msgid "Problem with your GetResponse integration."
+msgstr "Проблема с интеграцией с GetResponse."
+
+#: core/entries/action.php:324
+msgid "Problem with your activeCampaign integration."
+msgstr "Проблема с интеграцией activeCampaign."
+
+#: core/entries/action.php:308
+msgid "Problem with your mailchimp integration."
+msgstr "Проблема с интеграцией с mailchimp."
+
+#: core/entries/action.php:151 core/entries/action.php:159
+msgid "Form validation failed"
+msgstr "Валидация формы не прошла"
+
+#: core/integrations/onboard/views/settings-sections/widgets.php:14
+msgid "You can disable the elements you are not using on your site. That will disable all associated assets of those widgets to improve your site loading speed."
+msgstr "Вы можете отключить элементы, которые не используете на своем сайте. Это отключит все связанные ресурсы этих виджетов, чтобы улучшить скорость загрузки сайта."
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:631
+msgid "Api Key"
+msgstr "Ключ API"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:619
+msgid "Google Map"
+msgstr "Google Карта"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:597
+msgid "Check connection"
+msgstr "Проверьте подключение"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:588
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:579
+msgid "Api key"
+msgstr "Ключ API"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:567
+msgid "Zoom Data"
+msgstr "Масштабирование данных"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:528
+msgid "This is need to calculate the remaining time for token"
+msgstr "Для этого нужно рассчитать оставшееся время для токена"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:525
+msgid "Token generation date"
+msgstr "Дата генерации токена"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:515
+msgid "Token expires time"
+msgstr "Срок действия токена истекает"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:495
+msgid "User ID"
+msgstr "ID пользователя"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:474
+msgid "Instragram User Data"
+msgstr "Данные пользователя Instragram"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:454
+msgid "Get Access Token"
+msgstr "Получить токен доступа"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:444
+#: core/integrations/onboard/views/settings-sections/usersettings.php:505
+msgid "Access Token"
+msgstr "Токен доступа"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:434
+msgid "Twitter Username"
+msgstr "Имя в Твитере"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:422
+msgid "Twitter User Data"
+msgstr "Данные пользователя Twitter"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:380
+msgid "Access token"
+msgstr "Токен доступа"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:363
+msgid "Dribbble User Data"
+msgstr "Имя пользователя в Dribbble"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:334
+msgid "Show Dialog Box"
+msgstr "Показать диалоговое окно"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:324
+msgid "Logged out user greeting"
+msgstr "Приветствие пользователя, вышедшего из системы"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:314
+msgid "Logged-in user greeting"
+msgstr "Приветствие пользователя, вошедшего в систему"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:282
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:260
+msgid "Yelp Page"
+msgstr "Страница Yelp"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:246
+msgid "Yelp Settings"
+msgstr "Настройки Yelp"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:158
+msgid "Page Token"
+msgstr "Токен страницы"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:152
+msgid "Refresh access token"
+msgstr "Обновить токен доступа"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:144
+#: core/integrations/onboard/views/settings-sections/usersettings.php:294
+msgid "Page ID"
+msgstr "ID страницы"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:130
+msgid "Facebook page review"
+msgstr "Обзор страницы Facebook"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:108
+#: core/integrations/onboard/views/settings-sections/usersettings.php:152
+#: core/integrations/onboard/views/settings-sections/usersettings.php:393
+#: core/integrations/onboard/views/settings-sections/usersettings.php:546
+msgid "Get access token"
+msgstr "Получить токен доступа"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:102
+#: core/integrations/onboard/views/settings-sections/usersettings.php:179
+#: core/integrations/onboard/views/settings-sections/usersettings.php:400
+#: core/integrations/onboard/views/settings-sections/usersettings.php:540
+msgid "Clear Cache"
+msgstr "Очистить кэш"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:88
+msgid "Page Access Token"
+msgstr "Токен доступа страницы"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:75
+msgid "Facebook app id"
+msgstr "Facebook app id"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:74
+msgid "Facebook Page ID"
+msgstr "ID страницы Facebook"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:60
+msgid "Facebook Page Feed"
+msgstr "Лента страницы Facebook"
+
+#: core/integrations/crm/hubspot/loader.php:170
+#: core/integrations/crm/hubspot/loader.php:224
+#: core/integrations/onboard/views/settings-sections/usersettings.php:33
+msgid "Token"
+msgstr "Token"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:20
+msgid "MailChimp Data"
+msgstr "Данные MailChimp"
+
+#: core/integrations/onboard/views/settings-sections/modules.php:23
+msgid "Widget Builder"
+msgstr "Конструктор виджетов"
+
+#: core/integrations/onboard/views/settings-sections/modules.php:20
+msgid "Header Footer"
+msgstr "Хедер и футер"
+
+#: core/integrations/onboard/views/settings-sections/modules.php:16
+msgid "You can disable the modules you are not using on your site. That will disable all associated assets of those modules to improve your site loading speed."
+msgstr "Вы можете отключить модули, которые не используете на своем сайте. Это отключит все связанные ресурсы этих модулей, чтобы улучшить скорость загрузки сайта."
+
+#: core/admin/views/settings.php:419
+#: core/integrations/onboard/views/settings-sections/dashboard.php:152
+msgid "Satisfied?"
+msgstr "Довольны?"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:142
+msgid "Feature a request"
+msgstr "Особенность запроса"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:140
+msgid "Maybe we’re missing something you can’t live without."
+msgstr "Может быть, нам не хватает чего-то, без чего вы не можете жить."
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:136
+msgid "Feature a Request Thumb"
+msgstr "Миниатюра Запроса функции"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:123
+msgid "Join support forum"
+msgstr "Присоединиться к форуму поддержки"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:119
+msgid "Support"
+msgstr "Поддержка"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:118
+msgid "Top-notch Friendly Support"
+msgstr "Высококлассная дружеская поддержка"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:91
+msgid "2. How to translate theme with WPML?"
+msgstr "2. Как перевести тему с помощью WPML?"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:83
+msgid "1. How to create a shop page in ElementsKit Lite?"
+msgstr "1. Как создать страницу магазина в ElementsKit Lite?"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:67
+msgid "watch more videos"
+msgstr "смотреть больше видео"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:54
+msgid "Mega Menu Builder"
+msgstr "Конструктор Mega меню"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:46
+msgid "Advanced Accordions"
+msgstr "Продвинутые аккордеоны"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:38
+msgid "Parallax Effects"
+msgstr "Эффекты параллакса"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:36
+#: core/integrations/onboard/views/settings-sections/dashboard.php:44
+#: core/integrations/onboard/views/settings-sections/dashboard.php:52
+msgid "Totorial Thumb"
+msgstr "Миниатюра Обучения"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:29
+#: core/integrations/onboard/views/settings-sections/dashboard.php:78
+msgid "Get started by spending some time with the documentation to get familiar with ElementsKit Lite."
+msgstr "Для начала ознакомления с ElementsKit Lite потратьте некоторое время на изучение документации."
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:27
+msgid "Tutorials"
+msgstr "Обучение"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:26
+msgid "Video Tutorials"
+msgstr "Видеоуроки"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:17
+msgid "Get started"
+msgstr "Приступить к работе"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:13
+msgid "Docs"
+msgstr "Документация"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:12
+msgid "Easy Documentation"
+msgstr "Простая документация"
+
+#: core/admin/views/settings.php:356
+#: core/integrations/onboard/views/settings-sections/dashboard.php:8
+#: core/integrations/onboard/views/settings-sections/dashboard.php:128
+msgid "Documentation Thumb"
+msgstr "Миниатюра Документации"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:28
+msgid "Explore PRO"
+msgstr "Обзор PRO"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:25
+msgid "10+ Advanced Features for Customizations"
+msgstr "10+ расширенных функций для настройки"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:24
+msgid "35+ Form Input Widgets"
+msgstr "35+ виджетов для ввода форм"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:23
+msgid "15+ Third-Party API Integrations"
+msgstr "15+ интеграций API сторонних производителей"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:20
+msgid "Data Within Dashboard"
+msgstr "Данные на консоли"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:19
+msgid "Popular CRM Integrations"
+msgstr "Популярные интеграции с CRM"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:18
+msgid "Required Fields Validation"
+msgstr "Валидация обязательных полей"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:17
+msgid "Smart Conditional Logic"
+msgstr "Умная условная логика"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:16
+msgid "Free Premium’ Features"
+msgstr "Бесплатные премиум-функции"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:7
+msgid "20% Discount"
+msgstr "Скидка 20%"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:6
+msgid " and get a "
+msgstr " и получите "
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:5
+msgid "2 hours"
+msgstr "2 часа"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:4
+msgid "Upgrade within the next"
+msgstr "Обновление в ближайшие"
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:4
+msgid "Take your website to the next level"
+msgstr "Поднимите свой сайт на новый уровень"
+
+#: core/integrations/onboard/views/onboard-steps/step-02.php:11
+msgid "Submit Your Best Email."
+msgstr "Отправьте свое лучшее письмо."
+
+#: core/integrations/onboard/views/onboard-steps/step-02.php:4
+msgid "The Best Form Builder Plugin for Elementor."
+msgstr "Лучший плагин для построения форм для Elementor."
+
+#: widgets/manifest.php:78
+msgid "Next Step"
+msgstr "Следующий шаг"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:29
+#: core/integrations/onboard/views/onboard-steps/step-02.php:16
+#: core/integrations/onboard/views/onboard-steps/step-03.php:172
+#: core/integrations/onboard/views/onboard-steps/step-04.php:29
+#: core/integrations/onboard/views/onboard-steps/step-05.php:32
+msgid "Back"
+msgstr "Назад"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:26
+#: core/integrations/onboard/views/onboard-steps/step-04.php:26
+msgid "What types of information do we gather?"
+msgstr "Какие типы информации мы собираем?"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:25
+#: core/integrations/onboard/views/onboard-steps/step-04.php:25
+msgid "We gather non-sensitive diagnostic data as well as information about plugin use. Your site's URL, WordPress and PHP versions, plugins and themes, as well as your email address, will be used to give you a discount coupon. This information enables us to ensure that this plugin remains consistent with the most common plugins and themes at all times. We pledge not to give you any spam, for sure."
+msgstr "Мы собираем нечувствительные диагностические данные, а также информацию об использовании плагинов. URL вашего сайта, версии WordPress и PHP, плагины и темы, а также ваш email будут использованы для предоставления вам купона на скидку. Эта информация позволяет нам гарантировать, что данный плагин всегда будет соответствовать наиболее распространенным плагинам и темам. Мы обязуемся не давать вам никакого спама."
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:22
+#: core/integrations/onboard/views/onboard-steps/step-04.php:22
+msgid "Share non-sensitive diagnostic data and details about plugin usage."
+msgstr "Делитесь нечувствительными диагностическими данными и сведениями об использовании плагинов."
+
+#: core/integrations/onboard/views/onboard-steps/step-04.php:4
+msgid "Check Out the Easy to Understand Video Tutorials to learn the detailed use of MetForm."
+msgstr "Ознакомьтесь с простыми для понимания видеоуроками, чтобы подробно изучить использование MetForm."
+
+#: core/integrations/onboard/views/layout-onboard.php:28
+msgid "Finalizing info"
+msgstr "Доработка информации"
+
+#: core/integrations/onboard/views/layout-onboard.php:27
+msgid "Finalizing"
+msgstr "Доработка"
+
+#: core/integrations/onboard/views/layout-onboard.php:23
+msgid "Surprise info"
+msgstr "Информация о сюрпризе"
+
+#: core/integrations/onboard/views/layout-onboard.php:22
+msgid "Surprise"
+msgstr "Сюрприз"
+
+#: core/integrations/onboard/views/layout-onboard.php:18
+msgid "Website Powerup info"
+msgstr "Информация о сайте"
+
+#: core/integrations/onboard/views/layout-onboard.php:13
+msgid "Sign Up info"
+msgstr "Информация о регистрации"
+
+#: core/integrations/onboard/views/layout-onboard.php:12
+msgid "Sign Up"
+msgstr "Подписаться"
+
+#: core/integrations/onboard/views/layout-onboard.php:7
+msgid "Tutorial info"
+msgstr "Учебная информация"
+
+#: core/integrations/onboard/views/layout-onboard.php:6
+msgid "Tutorial"
+msgstr "Руководство"
+
+#: core/integrations/onboard/controls/settings/switch.php:50
+msgid "View Demo"
+msgstr "Смотреть демонстрацию"
+
+#: core/integrations/onboard/classes/plugin-status.php:65
+#: utils/apps/apps.php:381
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: core/integrations/onboard/classes/plugin-status.php:60
+#: utils/apps/apps.php:376
+msgid "Activate Now"
+msgstr "Активировать сейчас"
+
+#: core/integrations/onboard/classes/plugin-status.php:57
+#: utils/apps/apps.php:373
+msgid "Activated"
+msgstr "Активировано"
+
+#: core/entries/hooks.php:32
+msgid "Email Verified"
+msgstr "Email проверен"
+
+#: widgets/date/date.php:178
+msgid "Set maximum date manually"
+msgstr "Установить макс даты вручную"
+
+#: widgets/date/date.php:163
+msgid "Set minimum date manually"
+msgstr "Установить мин даты вручную"
+
+#: widgets/date/date.php:151
+msgid "Set current date as minimum date"
+msgstr "Установить текущую дату в качестве мин даты"
+
+#: core/forms/views/modal-editor.php:563
+msgid "Enter here tag id. "
+msgstr "Введите здесь id тега. "
+
+#: core/forms/views/modal-editor.php:552
+msgid "Active campaign Tag ID:"
+msgstr "ID тега активной кампании:"
+
+#: core/forms/views/modal-editor.php:546
+msgid "Enter here list id. "
+msgstr "Введите здесь id списка. "
+
+#: core/forms/views/modal-editor.php:533
+msgid "Active campaign List ID:"
+msgstr "ID списка активной кампании:"
+
+#: core/forms/views/modal-editor.php:346
+msgid "Configure Google Sheet."
+msgstr "Настроить Google Sheet."
+
+#: core/forms/views/modal-editor.php:346
+msgid "Integrate google sheet with this form. "
+msgstr "Интеграция Google sheet с этой формой. "
+
+#: core/forms/views/modal-editor.php:344
+msgid "Google Sheet:"
+msgstr "Google Sheet:"
+
+#: core/entries/action.php:736
+msgid "ssl certificate or google oauth credentials problem"
+msgstr "проблема с ssl сертификатом или учетными данными google oauth"
+
+#: core/admin/views/settings.php:1031 core/admin/views/settings.php:1071
+msgid "Note: After 200 days your token will be expired, before the expiration of your token, generate a new token."
+msgstr "Примечание: Через 200 дней срок действия Вашего токена истечет, до истечения срока действия сгенерируйте новый токен."
+
+#: core/admin/views/settings.php:1028 core/admin/views/settings.php:1069
+msgid "Generate Access Token"
+msgstr "Сгенерировать код доступа"
+
+#: core/admin/views/settings.php:1024 core/admin/views/settings.php:1065
+msgid "Click on \"Generate Access Token\""
+msgstr "Щелкните \"Сгенерировать код доступа\""
+
+#: core/admin/views/settings.php:1023 core/admin/views/settings.php:1064
+msgid "Click on \"Save Changes\""
+msgstr "Нажмите на \"Сохранить изменения\""
+
+#: core/admin/views/settings.php:1022 core/admin/views/settings.php:1063
+msgid "After getting the App ID & App Secret, put those information"
+msgstr "После получения App ID & App Secret, поместите эту информацию"
+
+#: core/admin/views/settings.php:1021 core/admin/views/settings.php:1062
+msgid "Must add the following URL to the \"Valid OAuth redirect URIs\" field:"
+msgstr "Необходимо добавить следующий URL в поле \"Допустимые URI перенаправления OAuth\":"
+
+#: core/admin/views/settings.php:1020 core/admin/views/settings.php:1061
+msgid "Check how to create App/Project On Google developer account"
+msgstr "Узнайте, как создать аккаунт разработчика app/project в Google"
+
+#: core/admin/views/settings.php:1013
+msgid "Enter here your google secret id. "
+msgstr "Введите здесь свой google secret id. "
+
+#: core/admin/views/settings.php:1011
+msgid "Google OAuth Client Secret"
+msgstr "Google OAuth Client Secret"
+
+#: core/admin/views/settings.php:1010
+msgid "Google Client Secret:"
+msgstr "Google Client Secret:"
+
+#: core/admin/views/settings.php:1004
+msgid "Enter here your google client id. "
+msgstr "Введите здесь google client id. "
+
+#: core/admin/views/settings.php:1002
+msgid "Google OAuth Client Id"
+msgstr "Google OAuth Client Id"
+
+#: core/admin/views/settings.php:1001
+msgid "Google Client Id:"
+msgstr "Google Client Id:"
+
+#: core/admin/views/settings.php:135
+msgid "All sheets info here"
+msgstr "Информация обо всех листах здесь"
+
+#: core/admin/views/settings.php:134 core/admin/views/settings.php:991
+msgid "Google Sheet Integration"
+msgstr "Интеграция с Google Sheet"
+
+#. translators: File size limit in kilobytes for the MetForm plugin. %s is the
+#. dynamic file size limit.
+#: widgets/file-upload/file-upload.php:506
+msgid "File size cannot exceed %s kb"
+msgstr "Размер файла не может превышать %s Кб"
+
+#: widgets/file-upload/file-upload.php:502
+msgid "Invalid file extension"
+msgstr "Неверное расширение файла"
+
+#: core/forms/views/modal-editor.php:787
+msgid "Available Mailboxes"
+msgstr "Доступные почтовые ящики"
+
+#: core/forms/views/modal-editor.php:782
+msgid "Configure Helpscout."
+msgstr "Настроить Helpcout."
+
+#: core/forms/views/modal-editor.php:782
+msgid "Integrate Helpscout with this form. "
+msgstr "Интеграция Helpcout с этой формой. "
+
+#: core/forms/views/modal-editor.php:780
+msgid "Helpscout"
+msgstr "Helpscout"
+
+#: widgets/select/select.php:483
+msgid "Selected"
+msgstr "Выбрано"
+
+#: widgets/select/select.php:345
+msgid "Option"
+msgstr "Опция"
+
+#: utils/stories/views/template.php:137
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+#: traits/common-controls.php:487 widgets/gdpr-consent/gdpr-consent.php:288
+#: widgets/recaptcha/recaptcha.php:99
+#: widgets/simple-captcha/simple-captcha.php:263
+msgid "Warning Text Typography"
+msgstr "Оформление текста предупреждения"
+
+#: traits/common-controls.php:467 widgets/gdpr-consent/gdpr-consent.php:269
+#: widgets/recaptcha/recaptcha.php:83
+#: widgets/simple-captcha/simple-captcha.php:247
+msgid "Warning Text Color:"
+msgstr "Цвет текста предупреждения:"
+
+#: utils/pro-awareness/pro-awareness.php:159
+#: utils/pro-awareness/pro-awareness.php:174
+msgid "Default Title"
+msgstr "Заголовок по умолчанию"
+
+#: utils/stories/stories.php:255
+msgid "Wpmet Stories"
+msgstr "Wpmet истории"
+
+#: utils/stories/views/template.php:145
+msgid "Facebook Community"
+msgstr "Сообщество в Facebook"
+
+#: utils/stories/views/template.php:141
+msgid "Blog"
+msgstr "Блог"
+
+#: widgets/email/email.php:66
+msgid "Show Logged in Email"
+msgstr "Показать email пользователя"
+
+#: core/entries/meta-data.php:361
+msgid "Total"
+msgstr "Всего"
+
+#: core/entries/meta-data.php:354
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: core/entries/meta-data.php:348
+msgid "Order ID "
+msgstr "ID заказа "
+
+#: core/entries/meta-data.php:325
+msgid "Woocommerce Checkout"
+msgstr "Оформление заказа WooCommerce"
+
+#: core/forms/views/modal-editor.php:585
+msgid "Mailster Forms"
+msgstr "Mailster формы"
+
+#: core/forms/views/modal-editor.php:581
+msgid "Integrate Mailster with this form."
+msgstr "Интеграция Mailster с этой формой."
+
+#: core/forms/views/modal-editor.php:579
+msgid "Mailster:"
+msgstr "Mailster:"
+
+#: widgets/file-upload/file-upload.php:67
+msgid "No file chosen Text"
+msgstr "Текст Нет выбранного файла"
+
+#: widgets/file-upload/file-upload.php:59
+msgid "Choose file Text"
+msgstr "Текст Выберите файл"
+
+#: widgets/date/date.php:422
+msgid "Enable time 24hr?"
+msgstr "Включить 24 часовое время?"
+
+#: widgets/date/date.php:298
+msgid "Language change will be shown on preview."
+msgstr "Изменение языка будет показано в предпросмотре."
+
+#: widgets/date/date.php:297
+msgid "Localization"
+msgstr "Локализация"
+
+#: widgets/date/date.php:107
+msgid "Welsh"
+msgstr "Валлийский"
+
+#: widgets/date/date.php:106
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: widgets/date/date.php:105
+msgid "Ukrainian"
+msgstr "Украинский"
+
+#: widgets/date/date.php:104
+msgid "Turkish"
+msgstr "Турецкий"
+
+#: widgets/date/date.php:103
+msgid "Thai"
+msgstr "Тайский"
+
+#: widgets/date/date.php:102
+msgid "Swedish"
+msgstr "Шведский"
+
+#: widgets/date/date.php:101
+msgid "Spanish"
+msgstr "Испанский"
+
+#: widgets/date/date.php:100
+msgid "Slovenian"
+msgstr "Словенский"
+
+#: widgets/date/date.php:99
+msgid "Slovak"
+msgstr "Словацкий"
+
+#: widgets/date/date.php:98
+msgid "Sinhala"
+msgstr "Сингальский"
+
+#: widgets/date/date.php:97
+msgid "SerbianCyrillic"
+msgstr "Сербский кириллица"
+
+#: widgets/date/date.php:96
+msgid "Serbian"
+msgstr "Сербский"
+
+#: widgets/date/date.php:95
+msgid "Russian"
+msgstr "Русский"
+
+#: widgets/date/date.php:94
+msgid "Romanian"
+msgstr "Румынский"
+
+#: widgets/date/date.php:93
+msgid "Punjabi"
+msgstr "Панджаби"
+
+#: widgets/date/date.php:92
+msgid "Portuguese"
+msgstr "Португальский"
+
+#: widgets/date/date.php:91
+msgid "Polish"
+msgstr "Польский"
+
+#: widgets/date/date.php:90
+msgid "Persian"
+msgstr "Персидский"
+
+#: widgets/date/date.php:89
+msgid "Norwegian"
+msgstr "Норвежский"
+
+#: widgets/date/date.php:88
+msgid "Mongolian"
+msgstr "Монгольский"
+
+#: widgets/date/date.php:87
+msgid "MandarinTraditional"
+msgstr "Китайский традиционный"
+
+#: widgets/date/date.php:86
+msgid "Mandarin"
+msgstr "Китайский"
+
+#: widgets/date/date.php:85
+msgid "Malaysian"
+msgstr "Малазийский"
+
+#: widgets/date/date.php:84
+msgid "Macedonian"
+msgstr "Македонский"
+
+#: widgets/date/date.php:83
+msgid "Lithuanian"
+msgstr "Литовский"
+
+#: widgets/date/date.php:82
+msgid "Latvian"
+msgstr "Латышский"
+
+#: widgets/date/date.php:81
+msgid "Korean"
+msgstr "Корейский"
+
+#: widgets/date/date.php:80
+msgid "Khmer"
+msgstr "Кхмерский"
+
+#: widgets/date/date.php:79
+msgid "Kazakh"
+msgstr "Казахский"
+
+#: widgets/date/date.php:78
+msgid "Japanese"
+msgstr "Японский"
+
+#: widgets/date/date.php:77
+msgid "Italian"
+msgstr "Итальянский"
+
+#: widgets/date/date.php:76
+msgid "Indonesian"
+msgstr "Индонезийский"
+
+#: widgets/date/date.php:75
+msgid "Icelandic"
+msgstr "Исландский"
+
+#: widgets/date/date.php:74
+msgid "Hungarian"
+msgstr "Венгерский"
+
+#: widgets/date/date.php:73
+msgid "Hindi"
+msgstr "Хинди"
+
+#: widgets/date/date.php:72
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: widgets/date/date.php:71
+msgid "Greek"
+msgstr "Греческий"
+
+#: widgets/date/date.php:70
+msgid "German"
+msgstr "Немецкий"
+
+#: widgets/date/date.php:69
+msgid "Georgian"
+msgstr "Грузинский"
+
+#: widgets/date/date.php:68
+msgid "French"
+msgstr "Французский"
+
+#: widgets/date/date.php:67
+msgid "Finnish"
+msgstr "Финский"
+
+#: widgets/date/date.php:66
+msgid "Faroese"
+msgstr "Фарерский"
+
+#: widgets/date/date.php:65
+msgid "Estonian"
+msgstr "Эстонский"
+
+#: widgets/date/date.php:64
+msgid "Esperanto"
+msgstr "Эсперанто"
+
+#: widgets/date/date.php:63
+msgid "English"
+msgstr "Английский"
+
+#: widgets/date/date.php:62
+msgid "Dutch"
+msgstr "Голландский"
+
+#: widgets/date/date.php:61
+msgid "Danish"
+msgstr "Датский"
+
+#: widgets/date/date.php:60
+msgid "Czech"
+msgstr "Чешский"
+
+#: widgets/date/date.php:59
+msgid "Croatian"
+msgstr "Хорватский"
+
+#: widgets/date/date.php:58
+msgid "Catalan"
+msgstr "Каталонский"
+
+#: widgets/date/date.php:57
+msgid "Burmese"
+msgstr "Бирманский"
+
+#: widgets/date/date.php:56
+msgid "Bulgarian"
+msgstr "Болгарский"
+
+#: widgets/date/date.php:55
+msgid "Bosnian"
+msgstr "Боснийский"
+
+#: widgets/date/date.php:54
+msgid "Belarusian"
+msgstr "Беларусский"
+
+#: widgets/date/date.php:53
+msgid "Bangla"
+msgstr "Бангладешский"
+
+#: widgets/date/date.php:52
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: widgets/date/date.php:51
+msgid "Austria"
+msgstr "Австрия"
+
+#: widgets/date/date.php:50
+msgid "Arabic"
+msgstr "Арабский"
+
+#: widgets/date/date.php:49
+msgid "Albanian"
+msgstr "Албанский"
+
+#: traits/button-controls.php:57
+msgid "Justified"
+msgstr "По ширине"
+
+#: controls/form-editor-modal.php:15
+msgid "Update & Close"
+msgstr "Обновить и закрыть"
+
+#: core/forms/views/modal-editor.php:145
+msgid "Stop scrolling effect when submitting the form."
+msgstr "Остановить эффект прокрутки при отправке формы."
+
+#: core/forms/views/modal-editor.php:143
+msgid "Stop Vertical Scrolling:"
+msgstr "Остановить вертикальную прокрутку:"
+
+#: core/entries/hooks.php:29
+msgid "Referral"
+msgstr "Реферал (источник)"
+
+#: widgets/email/email.php:257
+msgid "Please enter a valid Email address"
+msgstr "Пожалуйста, введите действительный email"
+
+#: widgets/recaptcha/recaptcha.php:120
+msgid "reCAPTCHA is required."
+msgstr "reCAPTCHA обязательна."
+
+#: widgets/simple-captcha/simple-captcha.php:402
+msgid "Captcha didn't matched."
+msgstr "Captcha не совпала."
+
+#: widgets/range/range.php:122
+msgid "<strong>Important Note : </strong> For taking dual range input, You have to enter dual default value in the field Value (Exactly bottom of this notice field. ). Example: 10, 20"
+msgstr "<strong>Важное примечание: </strong> Для ввода двойного диапазона необходимо ввести двойное значение по умолчанию в поле Значение (Именно внизу этого поля уведомления. ). Пример: Min:10, Max:20"
+
+#: widgets/range/range.php:109
+msgid "Dual range input:"
+msgstr "Вход двойного диапазона:"
+
+#: widgets/checkbox/checkbox.php:202 widgets/date/date.php:142
+#: widgets/file-upload/file-upload.php:118
+#: widgets/gdpr-consent/gdpr-consent.php:115
+#: widgets/listing-optin/listing-optin.php:96
+#: widgets/multi-select/multi-select.php:160 widgets/radio/radio.php:207
+#: widgets/range/range.php:70 widgets/rating/rating.php:70
+#: widgets/select/select.php:223 widgets/switch/switch.php:89
+#: widgets/time/time.php:74 widgets/url/url.php:71
+msgid "Validation Type"
+msgstr "Тип проверки"
+
+#: core/admin/views/settings.php:433
+#: core/integrations/onboard/views/settings-sections/dashboard.php:159
+msgid "Rate Now Thumb"
+msgstr "Большой палец Оценить сейчас"
+
+#: core/admin/views/settings.php:427
+#: core/integrations/onboard/views/settings-sections/dashboard.php:154
+msgid "Rate it now"
+msgstr "Оцените сейчас"
+
+#: core/admin/views/settings.php:421
+msgid "review"
+msgstr "отзыв"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:152
+msgid "Don’t forget to rate our item."
+msgstr "Не забудьте оценить наш элемент."
+
+#: core/admin/views/settings.php:349
+#: core/integrations/onboard/views/settings-sections/dashboard.php:110
+msgid "View all faq’s"
+msgstr "Посмотреть все FAQ"
+
+#: core/admin/views/settings.php:338
+#: core/integrations/onboard/views/settings-sections/dashboard.php:99
+msgid "3. How to add custom css in specific section shortcode?"
+msgstr "3. Как добавить собственный CSS в шорткод определенного раздела?"
+
+#: core/admin/views/settings.php:327
+msgid "2. How to translate language with WPML?"
+msgstr "2. Как перевести язык с помощью WPML?"
+
+#: core/admin/views/settings.php:320 core/admin/views/settings.php:331
+#: core/admin/views/settings.php:342
+#: core/integrations/onboard/views/settings-sections/dashboard.php:86
+#: core/integrations/onboard/views/settings-sections/dashboard.php:94
+#: core/integrations/onboard/views/settings-sections/dashboard.php:102
+msgid "You will get 20+ complete homepages and total 450+ blocks in our layout library and we’re continuously updating the numbers there."
+msgstr "Вы получите 20+ готовых домашних страниц и в общей сложности 450+ блоков в нашей библиотеке макетов, и мы постоянно увеличиваем количество."
+
+#: core/admin/views/settings.php:316
+msgid "1. How to create a Invitation Form using MetForm?"
+msgstr "1. Как создать форму приглашения с помощью MetForm?"
+
+#: core/admin/views/settings.php:306
+#: core/integrations/onboard/views/settings-sections/dashboard.php:76
+msgid "FAQ"
+msgstr "FAQ"
+
+#: core/admin/views/settings.php:305
+#: core/integrations/onboard/views/settings-sections/dashboard.php:75
+msgid "General Knowledge Base"
+msgstr "Общая база знаний"
+
+#: core/admin/views/settings.php:267
+msgid "View Details"
+msgstr "Просмотр деталей"
+
+#: core/admin/views/settings.php:264 core/admin/views/settings.php:280
+#: core/admin/views/settings.php:294
+msgid "Store Entries"
+msgstr "Хранить записи"
+
+#: core/admin/views/settings.php:262 core/admin/views/settings.php:278
+#: core/admin/views/settings.php:292
+msgid "Hide Form After Submission"
+msgstr "Скрыть форму после отправки"
+
+#: core/admin/views/settings.php:261 core/admin/views/settings.php:277
+#: core/admin/views/settings.php:291
+msgid "Required Login"
+msgstr "Обязательная авторизация"
+
+#: core/admin/views/settings.php:260 core/admin/views/settings.php:276
+#: core/admin/views/settings.php:290
+msgid "Success Message"
+msgstr "Сообщение об успехе"
+
+#: core/admin/views/settings.php:257 core/admin/views/settings.php:273
+#: core/admin/views/settings.php:287
+msgid "Get started by spending some time with the documentation to get familiar with MetForm Get started by spending some time with the documentation to get notification in real time."
+msgstr "Для начала потратьте некоторое время на изучение документации, чтобы ознакомиться с MetForm. Изучите документацию, чтобы получать уведомления в режиме реального времени."
+
+#: core/admin/views/settings.php:245
+msgid "Modern Typography"
+msgstr "Современное оформление"
+
+#: core/admin/views/settings.php:242 core/admin/views/settings.php:245
+#: core/admin/views/settings.php:248
+msgid "Pro"
+msgstr "Pro"
+
+#: core/admin/views/settings.php:230
+#: core/integrations/onboard/views/onboard-steps/step-05.php:13
+msgid "PRO"
+msgstr "PRO"
+
+#: core/admin/views/settings.php:229
+msgid "What included with Free &"
+msgstr "Что включено в Free &"
+
+#: core/admin/views/settings.php:217
+msgid "Awesome Layout"
+msgstr "Потрясающий макет"
+
+#: core/admin/views/settings.php:210
+msgid "Create Faster"
+msgstr "Создавайте быстрее"
+
+#: core/admin/views/settings.php:203
+msgid "Dynamic Forms"
+msgstr "Динамические формы"
+
+#: core/admin/views/settings.php:196 core/admin/views/settings.php:248
+msgid "Perfectly Match"
+msgstr "Идеально сочетается"
+
+#: core/admin/views/settings.php:189
+msgid "Moden Typography"
+msgstr "Современное оформление"
+
+#: core/admin/views/settings.php:184 core/admin/views/settings.php:191
+#: core/admin/views/settings.php:198 core/admin/views/settings.php:205
+#: core/admin/views/settings.php:212 core/admin/views/settings.php:219
+msgid "Get started by spending some time with the documentation to get familiar with MetForm"
+msgstr "Для начала потратьте некоторое время на изучение документации, чтобы ознакомиться с MetForm"
+
+#: core/admin/views/settings.php:182 core/admin/views/settings.php:242
+msgid "Easy to use"
+msgstr "Легко использовать"
+
+#: core/admin/views/settings.php:174 core/admin/views/settings.php:234
+#: core/admin/views/settings.php:308
+msgid "Get started by spending some time with the documentation to get familiar with ElementsKit."
+msgstr "Начните работу, уделив некоторое время документации для ознакомления с ElementsKit."
+
+#: core/admin/views/settings.php:172 core/admin/views/settings.php:232
+msgid "features"
+msgstr "возможности"
+
+#: core/admin/views/settings.php:170
+msgid "Features"
+msgstr "Функции"
+
+#: core/admin/views/settings.php:169
+msgid "Top Notch"
+msgstr "Высший класс"
+
+#: core/forms/views/modal-editor.php:730
+msgid "Configure Zoho."
+msgstr "Настроить Zoho."
+
+#: core/forms/views/modal-editor.php:729
+msgid "Integrate Zoho contacts with this form. "
+msgstr "Интеграция Zoho контактов с этой формой. "
+
+#: core/forms/views/modal-editor.php:727
+msgid "Zoho Contact:"
+msgstr "Контакты Zoho:"
+
+#: core/forms/views/modal-editor.php:262
+msgid "Fetch HubSpot Forms"
+msgstr "Извлечение форм HubSpot"
+
+#: core/forms/views/modal-editor.php:255
+msgid "HubSpot Forms:"
+msgstr "Формы HubSpot:"
+
+#: core/forms/views/modal-editor.php:257
+msgid "Configure HubSpot."
+msgstr "Настроить HubSpot."
+
+#: core/forms/views/modal-editor.php:257
+msgid "Integrate hubspot with this form. "
+msgstr "Интеграция hubspot с этой формой. "
+
+#: core/forms/views/modal-editor.php:279
+msgid "HubSpot Contact:"
+msgstr "Контакты HubSpot:"
+
+#: core/forms/views/modal-editor.php:525
+msgid "Configure ActiveCampaign."
+msgstr "Настроить ActiveCampaign."
+
+#: core/forms/views/modal-editor.php:521
+msgid "Integrate ActiveCampaign with this form."
+msgstr "Интеграция ActiveCampaign с этой формой."
+
+#: core/forms/views/modal-editor.php:518
+msgid "ActiveCampaign:"
+msgstr "ActiveCampaign:"
+
+#: core/forms/views/modal-editor.php:501
+msgid "Enter here GetResponse list id. "
+msgstr "Введите здесь id списка GetResponse. "
+
+#: core/forms/views/modal-editor.php:500
+msgid "GetResponse contact list id"
+msgstr "ID списка контактов GetResponse"
+
+#: core/forms/views/modal-editor.php:492
+msgid "GetResponse List ID:"
+msgstr "ID списка GetResponse:"
+
+#: core/forms/views/modal-editor.php:486
+msgid "Configure GetResponse."
+msgstr "Настроить GetResponse."
+
+#: core/forms/views/modal-editor.php:483
+msgid "Integrate GetResponse with this form. "
+msgstr "Интеграция GetResponse с этой формой. "
+
+#: core/forms/views/modal-editor.php:480
+msgid "GetResponse:"
+msgstr "GetResponse:"
+
+#: core/forms/views/modal-editor.php:465
+msgid "Enter here ConvertKit form id. "
+msgstr "Введите здесь id формы ConvertKit. "
+
+#: core/forms/views/modal-editor.php:461
+msgid "ConvertKit Forms ID:"
+msgstr "ID форм ConvertKit:"
+
+#: core/forms/views/modal-editor.php:455
+msgid "Configure ConvertKit."
+msgstr "Настроить ConvertKit."
+
+#: core/forms/views/modal-editor.php:452
+msgid "Integrate convertKit with this form. "
+msgstr "Интеграция convertKit с этой формой. "
+
+#: core/forms/views/modal-editor.php:449
+msgid "ConvertKit:"
+msgstr "ConvertKit:"
+
+#: core/forms/views/modal-editor.php:437
+msgid "Enter here aweber list id. "
+msgstr "Введите здесь id списка aweber. "
+
+#: core/forms/views/modal-editor.php:432
+msgid "Aweber List ID:"
+msgstr "ID списка Aweber:"
+
+#: core/forms/views/modal-editor.php:425
+msgid "Configure aweber."
+msgstr "Настроить aweber."
+
+#: core/forms/views/modal-editor.php:422
+msgid "Integrate aweber with this form. "
+msgstr "Интеграция aweber с этой формой. "
+
+#: core/forms/views/modal-editor.php:419
+msgid "Aweber:"
+msgstr "Aweber:"
+
+#: core/forms/views/modal-editor.php:408 core/forms/views/modal-editor.php:438
+#: core/forms/views/modal-editor.php:467 core/forms/views/modal-editor.php:547
+#: core/forms/views/modal-editor.php:564
+msgid "Refresh List"
+msgstr "Обновить список"
+
+#: core/forms/views/modal-editor.php:401
+msgid "MailPoet List ID:"
+msgstr "ID списка MailPoet:"
+
+#: core/forms/views/modal-editor.php:394
+msgid "Configure MailPoet."
+msgstr "Настроить MailPoet."
+
+#: core/forms/views/modal-editor.php:391
+msgid "Integrate MailPoet with this form."
+msgstr "Интеграция MailPoet с этой формой."
+
+#: core/forms/views/modal-editor.php:388
+msgid "MailPoet:"
+msgstr "MailPoet:"
+
+#: core/forms/views/modal-editor.php:47
+msgid "CRM"
+msgstr "CRM"
+
+#: core/integrations/mail-chimp.php:53
+msgid "Your data inserted on ActiveCampaign."
+msgstr "Ваши данные вставлены в ActiveCampaign."
+
+#: core/admin/views/settings.php:534
+msgid "API:"
+msgstr "API:"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:15
+#: core/integrations/onboard/views/settings-sections/dashboard.php:121
+msgid "Get started by spending some time with the documentation to get familiar with ElementsKit Lite. Build awesome websites for you or your clients with ease."
+msgstr "Начните работу с ElementsKit Lite, потратив некоторое время на изучение документации. Создавайте потрясающие веб-сайты для себя или своих клиентов с легкостью."
+
+#: core/admin/views/settings.php:124
+msgid "All newsletter integration info here"
+msgstr "Вся информация об интеграции рассылки здесь"
+
+#: core/admin/views/settings.php:123 core/admin/views/settings.php:975
+msgid "Newsletter Integration"
+msgstr "Интеграция рассылки"
+
+#: core/admin/views/settings.php:113
+msgid "All payment info here"
+msgstr "Вся информация об оплате здесь"
+
+#: core/admin/views/settings.php:101
+msgid "All General info here"
+msgstr "Вся общая информация здесь"
+
+#: core/admin/views/settings.php:89
+msgid "All dashboard info here"
+msgstr "Вся информация о консоли здесь"
+
+#: core/forms/views/modal-editor.php:115
+msgid "Enter here title of this form entries."
+msgstr "Введите здесь заголовок записей этой формы."
+
+#: core/forms/views/modal-editor.php:113
+msgid "Entry Title"
+msgstr "Заголовок записи"
+
+#: core/forms/views/modal-form-template-item.php:26
+msgid "Demo"
+msgstr "Демо"
+
+#: core/forms/views/modal-form-template-item.php:22
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: widgets/widget-notice.php:23
+msgid "Unlock more possibilities"
+msgstr "Разблокировать больше возможностей"
+
+#: widgets/widget-notice.php:16
+msgid "Go Pro for More Features"
+msgstr "Перети на Pro, чтобы получить больше возможностей"
+
+#: widgets/simple-captcha/simple-captcha.php:414
+msgid "*"
+msgstr "*"
+
+#: widgets/gdpr-consent/gdpr-consent.php:20
+msgid "GDPR Consent"
+msgstr "Соглашение GDPR"
+
+#: widgets/summary/summary.php:116
+msgid "Summary will be shown on preview."
+msgstr "Сводка будет показана в предпросмотре."
+
+#: widgets/simple-captcha/simple-captcha.php:438
+msgid "Entry captcha from the picture"
+msgstr "Ввести капча с картинки"
+
+#: widgets/simple-captcha/simple-captcha.php:276
+msgid "Refresh Captcha"
+msgstr "Обновить капчу"
+
+#: widgets/simple-captcha/simple-captcha.php:102
+msgid "Select input and captcha display property."
+msgstr "Выберите параметры ввода и отображения капчи."
+
+#: widgets/simple-captcha/simple-captcha.php:100
+msgid "Inline"
+msgstr "В одну линию"
+
+#: widgets/simple-captcha/simple-captcha.php:99
+msgid "Block"
+msgstr "Блок"
+
+#: widgets/simple-captcha/simple-captcha.php:95
+msgid "Input captcha display"
+msgstr "Отображение капчи"
+
+#: widgets/simple-captcha/simple-captcha.php:74
+msgid "Label Position"
+msgstr "Положение ярлыка"
+
+#: widgets/simple-captcha/simple-captcha.php:26
+msgid "Simple Captcha"
+msgstr "Simple Captcha"
+
+#: widgets/recaptcha/recaptcha.php:56
+msgid "reCAPTCHA configure: "
+msgstr "настроить reCAPTCHA: "
+
+#: core/admin/views/settings.php:659 core/admin/views/settings.php:961
+#: core/admin/views/settings.php:1081 utils/render.php:83
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: core/admin/views/settings.php:783
+msgid "Enable this for testing your payment system. "
+msgstr "Включите для тестирования вашей платежной системы. "
+
+#: core/admin/views/settings.php:757
+msgid "Enter here your stripe image url. This image will show on stripe payment pop up modal. "
+msgstr "Введите здесь URL изображения stripe. Это изображение будет отображаться во всплывающем модальном окне оплаты stripe. "
+
+#: core/admin/views/settings.php:683
+msgid "Stripe"
+msgstr "Stripe"
+
+#: core/admin/views/settings.php:715
+msgid "Enable this for testing payment method. "
+msgstr "Включите для тестирования способа оплаты. "
+
+#: core/admin/views/settings.php:698
+msgid "Enter here your paypal email. "
+msgstr "Введите здесь свою электронную почту paypal. "
+
+#: core/admin/views/settings.php:680
+msgid "Paypal"
+msgstr "PayPal"
+
+#: core/admin/views/settings.php:538
+msgid "Create google map API key from google developer console. "
+msgstr "Создайте ключ API карты Google из консоли разработчика Google. "
+
+#: core/admin/views/settings.php:536
+msgid "Insert map API key"
+msgstr "Вставить API-ключ карты"
+
+#: core/admin/views/settings.php:531 core/admin/views/settings.php:547
+msgid "Map"
+msgstr "Карта"
+
+#: core/admin/views/settings.php:492 core/admin/views/settings.php:517
+msgid "Create google reCaptcha secret key from reCaptcha admin panel. "
+msgstr "Создайте google reCaptcha secret key из панели администратора reCaptcha. "
+
+#: core/admin/views/settings.php:490 core/admin/views/settings.php:515
+msgid "Insert secret key"
+msgstr "Вставить secret key"
+
+#: core/admin/views/settings.php:482 core/admin/views/settings.php:507
+msgid "Create google reCaptcha site key from reCaptcha admin panel. "
+msgstr "Создайте google reCaptcha site key из панели администратора reCaptcha. "
+
+#: core/admin/views/settings.php:480 core/admin/views/settings.php:505
+msgid "Insert site key"
+msgstr "Вставить site key"
+
+#: core/admin/views/settings.php:465
+msgid "Select google reCaptcha version which one want to use."
+msgstr "Выбрать версию google reCaptcha, которую нужно использовать."
+
+#: core/admin/views/settings.php:460
+msgid "reCAPTCHA V3"
+msgstr "reCAPTCHA V3"
+
+#: core/admin/views/settings.php:453
+msgid "Select version:"
+msgstr "Выбрать версию:"
+
+#: core/forms/views/modal-editor.php:712
+msgid "Configure stripe payment."
+msgstr "Настроить оплату stripe."
+
+#: core/forms/views/modal-editor.php:700
+msgid "Configure paypal payment."
+msgstr "Настроить оплату paypal."
+
+#: core/forms/views/modal-editor.php:318
+msgid "Configure Mail Chimp."
+msgstr "Настроить MailChimp."
+
+#: core/forms/views/modal-editor.php:318 core/forms/views/modal-editor.php:392
+#: core/forms/views/modal-editor.php:423 core/forms/views/modal-editor.php:453
+#: core/forms/views/modal-editor.php:484 core/forms/views/modal-editor.php:523
+#: core/forms/views/modal-editor.php:581
+msgid "The form must have at least one Email widget and it should be required. "
+msgstr "Форма должна иметь хотя бы один виджет Email, и он должен быть обязательным. "
+
+#: core/entries/action.php:173
+msgid "Google captcha token not found."
+msgstr "Токен Google captcha не найден."
+
+#: core/entries/action.php:594
+msgid " Please wait... Open a Stripe Popup Box."
+msgstr " Пожалуйста, подождите... Откройте всплывающее окно Stripe."
+
+#: core/entries/action.php:551
+msgid " Please wait... Redirecting to paypal."
+msgstr " Пожалуйста, подождите... Перенаправление на paypal."
+
+#: core/entries/action.php:230
+msgid "Enter correct captcha."
+msgstr "Введите правильную капчу."
+
+#: core/entries/action.php:221
+msgid "Time out of this captcha. Please reload or choose another one."
+msgstr "Истекло время для captcha. Пожалуйста, перезагрузите или выберите другую."
+
+#: core/forms/hooks.php:37
+msgid "Views/ Conversion"
+msgstr "Просмотры/ Конверсия"
+
+#: core/admin/views/settings.php:799
+msgid "Enter here your test secret key. "
+msgstr "Введите здесь свой тестовый secret key. "
+
+#: core/admin/views/settings.php:797
+msgid "Stripe test secret key"
+msgstr "Тестовый Stripe secret key"
+
+#: core/admin/views/settings.php:796
+msgid "Test secret key:"
+msgstr "Test secret key:"
+
+#: core/admin/views/settings.php:792
+msgid "Enter here your test publishiable key. "
+msgstr "Введите здесь свой тестовый publishiable key. "
+
+#: core/admin/views/settings.php:790
+msgid "Stripe test publishiable key"
+msgstr "Тестовый Stripe publishiable key"
+
+#: core/admin/views/settings.php:789
+msgid "Test publishiable key:"
+msgstr "Тестовый publishiable key:"
+
+#: core/admin/views/settings.php:773
+msgid "Enter here your stripe live secret key. "
+msgstr "Введите здесь свой stripe live secret key. "
+
+#: core/admin/views/settings.php:771
+msgid "Stripe live secret key"
+msgstr "Stripe live secret key"
+
+#: core/admin/views/settings.php:770
+msgid "Live secret key:"
+msgstr "Live secret key:"
+
+#: core/admin/views/settings.php:765
+msgid "Enter here your stripe live publishiable key. "
+msgstr "Введите здесь свой stripe live publishiable key. "
+
+#: core/admin/views/settings.php:763
+msgid "Stripe live publishiable key"
+msgstr "Stripe live publishiable key"
+
+#: core/admin/views/settings.php:762
+msgid "Live publishiable key:"
+msgstr "Live publishiable key:"
+
+#: core/admin/views/settings.php:755
+msgid "Stripe image url"
+msgstr "URL изображения Stripe"
+
+#: core/admin/views/settings.php:754
+msgid "Image url:"
+msgstr "URL изображения:"
+
+#: core/forms/views/modal-editor.php:712
+msgid "Integrate stripe payment with this form. "
+msgstr "Интеграция оплаты stripe с этой формой. "
+
+#: core/forms/views/modal-editor.php:710
+msgid "Stripe:"
+msgstr "Stripe:"
+
+#: core/forms/views/modal-editor.php:137
+msgid "Track form views."
+msgstr "Отслеживать показы формы."
+
+#: core/forms/views/modal-editor.php:135
+msgid "Count views:"
+msgstr "Количество просмотров:"
+
+#: traits/conditional-controls.php:65
+msgid "Action"
+msgstr "Действие"
+
+#: traits/conditional-controls.php:53
+msgid "OR"
+msgstr "ИЛИ"
+
+#: traits/conditional-controls.php:52
+msgid "AND"
+msgstr "И"
+
+#: core/admin/views/settings.php:457
+msgid "reCAPTCHA V2"
+msgstr "reCAPTCHA V2"
+
+#: widgets/summary/summary.php:20
+msgid "Summary"
+msgstr "Резюме"
+
+#: widgets/manifest.php:66
+msgid "Google Map Location"
+msgstr "Местоположение на карте Google"
+
+#: core/entries/action.php:858
+msgid "Mail not found."
+msgstr "Почта не найдена."
+
+#: core/entries/meta-data.php:93
+msgid "Entry ID"
+msgstr "ID записи"
+
+#: core/forms/action.php:108 core/forms/action.php:140
+msgid "You must enable \"store entries\" for integrating payment method."
+msgstr "Вы должны включить «хранить записи» для интеграции способа оплаты."
+
+#: core/forms/action.php:104
+msgid "You must active at least one field of these fields \"store entry/ Confirmation/ Notification/ MailChimp/ Zapier\". "
+msgstr "Вы должны активировать, по крайней мере, одно из этих полей \"записи магазина/ Подтверждение/ Уведомление/ MailChimp/ Zapier\". "
+
+#: core/forms/action.php:78 core/forms/action.php:100
+msgid "Form settings inserted"
+msgstr "Вставленные параметры формы"
+
+#: core/admin/views/settings.php:711 core/admin/views/settings.php:779
+msgid "Enable sandbox mode:"
+msgstr "Включить режим песочницы:"
+
+#: core/admin/views/settings.php:706
+msgid "Enter here your paypal token. This is optional. "
+msgstr "Введите здесь свой токен PayPal. Это необязательно. "
+
+#: core/admin/views/settings.php:704
+msgid "Paypal token"
+msgstr "PayPal токен"
+
+#: core/admin/views/settings.php:703
+msgid "Paypal token:"
+msgstr "PayPal токен:"
+
+#: core/admin/views/settings.php:696
+msgid "Paypal email"
+msgstr "Paypal email"
+
+#: core/admin/views/settings.php:695
+msgid "Paypal email:"
+msgstr "PayPal email:"
+
+#: core/forms/views/modal-editor.php:699
+msgid "Integrate paypal payment with this form. "
+msgstr "Интеграция оплаты PayPal с этой формой. "
+
+#: core/forms/views/modal-editor.php:697
+msgid "Paypal:"
+msgstr "Paypal:"
+
+#: core/admin/views/settings.php:112 core/admin/views/settings.php:674
+#: core/entries/meta-data.php:387 core/forms/views/modal-editor.php:45
+msgid "Payment"
+msgstr "Платеж"
+
+#: core/entries/action.php:43
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: traits/common-controls.php:247 traits/common-controls.php:249
+msgid "Warning message"
+msgstr "Предупреждение"
+
+#: traits/common-controls.php:155 traits/common-controls.php:177
+msgid "By expression based"
+msgstr "По выражениям"
+
+#: traits/common-controls.php:151
+msgid "By Word length"
+msgstr "По длине слова"
+
+#: traits/common-controls.php:147
+msgid "By character length"
+msgstr "По длине символов"
+
+#: widgets/switch/switch.php:197
+msgid "Inactive"
+msgstr "Неактивно"
+
+#: widgets/switch/switch.php:67
+msgid "Inactive Text"
+msgstr "Текст Неактивно"
+
+#: widgets/switch/switch.php:58
+msgid "Active Text"
+msgstr "Текст Активно"
+
+#: traits/common-controls.php:88 traits/quiz-control.php:44
+msgid "Name is must required. Enter name without space or any special character. use only underscore/ hyphen (_/-) for multiple word. Name must be different."
+msgstr "Имя обязательно. Введите имя без пробела или какого-либо специального символа. используйте только подчеркивание/ дефис (_/-) для нескольких слов. Имя должно быть другим."
+
+#: widgets/form.php:71
+msgid "Select Form: "
+msgstr "Выбрать форму: "
+
+#: traits/common-controls.php:415 widgets/gdpr-consent/gdpr-consent.php:251
+#: widgets/simple-captcha/simple-captcha.php:231
+msgid "Required Indicator Color:"
+msgstr "Цвет индикатора обязательного поля:"
+
+#: traits/common-controls.php:250 widgets/checkbox/checkbox.php:449
+#: widgets/date/date.php:720 widgets/email/email.php:256
+#: widgets/file-upload/file-upload.php:499
+#: widgets/gdpr-consent/gdpr-consent.php:493
+#: widgets/listing-fname/listing-fname.php:171
+#: widgets/listing-lname/listing-lname.php:171
+#: widgets/listing-optin/listing-optin.php:333
+#: widgets/multi-select/multi-select.php:272 widgets/number/number.php:154
+#: widgets/password/password.php:170 widgets/radio/radio.php:471
+#: widgets/range/range.php:451 widgets/rating/rating.php:323
+#: widgets/select/select.php:583 widgets/switch/switch.php:590
+#: widgets/telephone/telephone.php:155 widgets/text/text.php:173
+#: widgets/textarea/textarea.php:178 widgets/time/time.php:187
+#: widgets/url/url.php:164
+msgid "This field is required."
+msgstr "Обязательное поле."
+
+#: traits/common-controls.php:236
+msgid "Ex: [a-zA-Z]+ "
+msgstr "Напр: [a-zA-Z]+ "
+
+#: traits/common-controls.php:233
+msgid "Expression for validate "
+msgstr "Выражение для проверки "
+
+#: traits/common-controls.php:162 traits/common-controls.php:174
+msgid "Validation type"
+msgstr "Тип проверки"
+
+#: core/forms/views/modal-editor.php:303
+msgid "GET"
+msgstr "GET"
+
+#: core/forms/views/modal-editor.php:302
+msgid "POST"
+msgstr "POST"
+
+#: core/forms/views/modal-editor.php:297
+msgid "Enter rest api url/webhook here."
+msgstr "Ввежите здесь rest api url/webhook."
+
+#: core/forms/views/modal-editor.php:296
+msgid "Rest api url/webhook"
+msgstr "Rest api url/webhook"
+
+#: core/forms/views/modal-editor.php:295
+msgid "URL/Webhook:"
+msgstr "URL/Webhook:"
+
+#: core/forms/views/modal-editor.php:290
+msgid "Send entry data to third party api/webhook"
+msgstr "Отправка вводных данных на сторонний api/webhook"
+
+#: core/forms/views/modal-editor.php:288
+msgid "REST API:"
+msgstr "REST API:"
+
+#: widgets/file-upload/file-upload.php:320
+msgid "Bottom"
+msgstr "Снизу"
+
+#: widgets/file-upload/file-upload.php:306
+msgid "File Name:"
+msgstr "Имя файла:"
+
+#: widgets/file-upload/file-upload.php:291
+msgid "Icon Spacing"
+msgstr "Расстояние между значками"
+
+#: widgets/file-upload/file-upload.php:263
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: widgets/file-upload/file-upload.php:85
+msgid "File Upload Icon Position"
+msgstr "Положение значка загрузки файла"
+
+#: widgets/file-upload/file-upload.php:76
+msgid "File Upload Icon:"
+msgstr "Значок загрузки файла:"
+
+#: widgets/date/date.php:410
+msgid "Want to input time with it ?"
+msgstr "Хотите ввести время с его помощью?"
+
+#: widgets/date/date.php:202
+msgid "Disable date List"
+msgstr "Список отключенных дат"
+
+#: widgets/date/date.php:191
+msgid "Disable date : "
+msgstr "Отключить дату : "
+
+#: widgets/checkbox/checkbox.php:152 widgets/multi-select/multi-select.php:111
+#: widgets/radio/radio.php:157 widgets/select/select.php:112
+msgid "Make this option default selected"
+msgstr "Сделать этот параметр выбранным по умолчанию"
+
+#: traits/quiz-control.php:292 traits/quiz-control.php:382
+#: widgets/checkbox/checkbox.php:145 widgets/multi-select/multi-select.php:104
+#: widgets/radio/radio.php:150 widgets/select/select.php:105
+msgid "Select it default ? "
+msgstr "Выбрать его по умолчанию? "
+
+#: widgets/checkbox/checkbox.php:410 widgets/gdpr-consent/gdpr-consent.php:455
+#: widgets/listing-optin/listing-optin.php:295 widgets/radio/radio.php:432
+msgid "Typography for text"
+msgstr "Оформление для текста"
+
+#: widgets/checkbox/checkbox.php:397 widgets/gdpr-consent/gdpr-consent.php:442
+#: widgets/listing-optin/listing-optin.php:282 widgets/radio/radio.php:419
+msgid "Typography for icon"
+msgstr "Типографика для иконки"
+
+#: widgets/checkbox/checkbox.php:358 widgets/gdpr-consent/gdpr-consent.php:403
+#: widgets/listing-optin/listing-optin.php:243 widgets/radio/radio.php:379
+msgid "Horizontal position of icon"
+msgstr "Горизонтальное положение значка"
+
+#: widgets/checkbox/checkbox.php:332 widgets/gdpr-consent/gdpr-consent.php:377
+#: widgets/listing-optin/listing-optin.php:217 widgets/radio/radio.php:353
+msgid "Checked"
+msgstr "Отмечено"
+
+#: traits/conditional-controls.php:135
+msgid "E.g 100, name, anything"
+msgstr "Напр, 100, имя, что угодно"
+
+#: traits/conditional-controls.php:134
+msgid "Enter value for set"
+msgstr "Введите значение для набора"
+
+#: traits/conditional-controls.php:132
+msgid "Value for set"
+msgstr "Значение для набора"
+
+#: traits/conditional-controls.php:120
+msgid "50"
+msgstr "50"
+
+#: traits/conditional-controls.php:117
+msgid "Match value"
+msgstr "Значение соответствия"
+
+#: traits/conditional-controls.php:108
+msgid "smaller than equal"
+msgstr "менее чем, равно"
+
+#: traits/conditional-controls.php:107
+msgid "smaller than"
+msgstr "менее чем"
+
+#: traits/conditional-controls.php:106
+msgid "greater than equal"
+msgstr "более чем, равно"
+
+#: traits/conditional-controls.php:105
+msgid "greater than"
+msgstr "более чем"
+
+#: traits/conditional-controls.php:104
+msgid "not equals"
+msgstr "не равно"
+
+#: traits/conditional-controls.php:103
+msgid "equals"
+msgstr "равно"
+
+#: traits/conditional-controls.php:102
+msgid "empty"
+msgstr "пусто"
+
+#: traits/conditional-controls.php:101
+msgid "not empty"
+msgstr "не пусто"
+
+#: traits/conditional-controls.php:97
+msgid "Match ( comparison )"
+msgstr "Соответствие (сравнение)"
+
+#: traits/conditional-controls.php:90
+msgid "Input field name"
+msgstr "Название поля ввода"
+
+#: traits/conditional-controls.php:87
+msgid "If"
+msgstr "Если"
+
+#: traits/conditional-controls.php:47
+msgid "Condition match criteria"
+msgstr "Критерии соответствия условий"
+
+#: traits/conditional-controls.php:36
+msgid "This feature only works on the frontend."
+msgstr "Эта функция работает только на странице сайта."
+
+#: traits/conditional-controls.php:25
+msgid "Conditional logic"
+msgstr "Условная логика"
+
+#: widgets/form-basic.php:12
+msgid "MetForm Basic"
+msgstr "MetForm основное"
+
+#: widgets/range/range.php:133 widgets/range/range.php:145
+msgid "Default Value"
+msgstr "Значение по-умолчанию"
+
+#: widgets/date/date.php:483
+msgid "Calendar Typography"
+msgstr "Оформление календаря"
+
+#: widgets/telephone/telephone.php:21
+msgid "Telephone"
+msgstr "Телефон"
+
+#: controls/form-picker-utils.php:40
+msgid "No content is added yet."
+msgstr "Контент еще не добавлен."
+
+#: controls/form-picker-utils.php:33
+msgid "Edit Form Content"
+msgstr "Редактировать контент формы"
+
+#: controls/form-picker-modal.php:93
+msgid "Save & close"
+msgstr "Сохранить и закрыть"
+
+#: controls/form-picker-modal.php:92 core/forms/views/modal-add-new-form.php:71
+msgid "Edit form"
+msgstr "Редактировать форму"
+
+#: controls/form-picker-modal.php:37 core/forms/views/modal-add-new-form.php:14
+msgid "Enter a form name"
+msgstr "Введите название формы"
+
+#: controls/form-picker-modal.php:24
+msgid "Create new form"
+msgstr "Создать новую форму"
+
+#: controls/form-picker-modal.php:23
+msgid "New"
+msgstr "Новая"
+
+#: controls/form-picker-modal.php:13
+msgid "Select saved form"
+msgstr "Выбрать сохраненную форму"
+
+#: controls/form-picker-modal.php:12
+msgid "Select Form"
+msgstr "Выбрать форму"
+
+#: controls/form-editor-modal.php:14
+msgid "Form settings"
+msgstr "Настройки формы"
+
+#: plugin.php:616
+msgid "Update Elementor"
+msgstr "Обновить Elementor"
+
+#. translators: MetForm plugin version requirement. %s is the required
+#. Elementor version.
+#: plugin.php:604 plugin.php:621
+msgid "MetForm requires Elementor version %1$s+, which is currently NOT RUNNING."
+msgstr "MetForm требует версии Elementor %1$s, которая в настоящее время НЕ ЗАПУЩЕНА."
+
+#: plugin.php:600
+msgid "Install Elementor"
+msgstr "Установить Elementor"
+
+#: plugin.php:593
+msgid "Activate Elementor"
+msgstr "Активировать Elementor"
+
+#: traits/button-controls.php:497
+msgid "Vertical Align"
+msgstr "Вертикальное выравнивание"
+
+#: traits/button-controls.php:454
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: traits/button-controls.php:411 traits/button-controls.php:436
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: traits/button-controls.php:333 traits/button-controls.php:356
+msgctxt "Border Control"
+msgid "Color"
+msgstr "Цвет"
+
+#: traits/button-controls.php:307
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Ширина"
+
+#: traits/button-controls.php:295 widgets/switch/switch.php:249
+#: widgets/switch/switch.php:333 widgets/switch/switch.php:430
+#: widgets/switch/switch.php:514
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "Выпуклость"
+
+#: traits/button-controls.php:294 widgets/switch/switch.php:248
+#: widgets/switch/switch.php:332 widgets/switch/switch.php:429
+#: widgets/switch/switch.php:513
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "Штриховой пунктир"
+
+#: traits/button-controls.php:293 widgets/switch/switch.php:247
+#: widgets/switch/switch.php:331 widgets/switch/switch.php:428
+#: widgets/switch/switch.php:512
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "Точечный пунктир"
+
+#: traits/button-controls.php:292 widgets/switch/switch.php:246
+#: widgets/switch/switch.php:330 widgets/switch/switch.php:427
+#: widgets/switch/switch.php:511
+msgctxt "Border Control"
+msgid "Double"
+msgstr "Двойная"
+
+#: traits/button-controls.php:291 widgets/switch/switch.php:245
+#: widgets/switch/switch.php:329 widgets/switch/switch.php:426
+#: widgets/switch/switch.php:510
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "Сплошная"
+
+#: traits/button-controls.php:290 traits/common-controls.php:146
+#: traits/common-controls.php:177 widgets/switch/switch.php:244
+#: widgets/switch/switch.php:328 widgets/switch/switch.php:425
+#: widgets/switch/switch.php:509
+msgid "None"
+msgstr "Отсутствует"
+
+#: traits/button-controls.php:287
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "Тип границы"
+
+#: traits/button-controls.php:145
+msgid "Input List"
+msgstr "Список ввода"
+
+#: traits/button-controls.php:136
+msgid "Input Class"
+msgstr "Класс ввода"
+
+#: traits/button-controls.php:119
+msgid "Input Name : "
+msgstr "Имя ввода: "
+
+#: traits/button-controls.php:108
+msgid "ID"
+msgstr "ID"
+
+#: traits/button-controls.php:106
+msgid "id"
+msgstr "id"
+
+#: traits/button-controls.php:99
+msgid "Class Name"
+msgstr "Название класса"
+
+#: traits/button-controls.php:97
+msgid "Class"
+msgstr "Класс"
+
+#: traits/button-controls.php:86 traits/quiz-control.php:236
+#: traits/quiz-control.php:520 widgets/file-upload/file-upload.php:90
+msgid "After"
+msgstr "После"
+
+#: traits/button-controls.php:85 traits/quiz-control.php:237
+#: traits/quiz-control.php:519 widgets/file-upload/file-upload.php:89
+msgid "Before"
+msgstr "Перед"
+
+#: traits/button-controls.php:81 traits/quiz-control.php:515
+msgid "Icon Position"
+msgstr "Позиция значка"
+
+#: traits/button-controls.php:53 widgets/file-upload/file-upload.php:319
+#: widgets/simple-message/simple-message.php:90
+msgid "Right"
+msgstr "Справа"
+
+#: traits/button-controls.php:49 widgets/simple-message/simple-message.php:86
+msgid "Center"
+msgstr "По центру"
+
+#: traits/button-controls.php:41
+msgid "Button alignment"
+msgstr "Выравнивание кнопки"
+
+#: traits/common-controls.php:681 traits/common-controls.php:740
+#: traits/common-controls.php:798 widgets/file-upload/file-upload.php:352
+#: widgets/file-upload/file-upload.php:383 widgets/select/select.php:438
+#: widgets/select/select.php:472 widgets/select/select.php:506
+msgid "Background"
+msgstr "Фон"
+
+#: traits/common-controls.php:209 widgets/range/range.php:79
+msgid "Min Length"
+msgstr "Мин длина"
+
+#: traits/common-controls.php:220 widgets/range/range.php:89
+msgid "Max Length"
+msgstr "Макс длина"
+
+#: traits/common-controls.php:140
+msgid "Is this field is required for submit the form?. Make it \"Yes\"."
+msgstr "Требуется ли это поле для отправки формы? Выберите \"Да\"."
+
+#: traits/common-controls.php:134
+msgid "Required ?"
+msgstr "Обязательно ?"
+
+#: traits/common-controls.php:112 traits/quiz-control.php:347
+msgid "Enter here place holder"
+msgstr "Введите здесь заполнитель"
+
+#: traits/common-controls.php:109
+msgid "Place holder"
+msgstr "Заполнитель"
+
+#: traits/common-controls.php:58 widgets/simple-captcha/simple-captcha.php:110
+msgid "Label : "
+msgstr "Этикетка : "
+
+#: widgets/file-upload/file-upload.php:209
+msgid ".csv"
+msgstr ".csv"
+
+#: widgets/file-upload/file-upload.php:208
+msgid ".zip"
+msgstr ".zip"
+
+#: widgets/file-upload/file-upload.php:207
+msgid ".3g2"
+msgstr ".3g2"
+
+#: widgets/file-upload/file-upload.php:206
+msgid ".3gp"
+msgstr ".3gp"
+
+#: widgets/file-upload/file-upload.php:205
+msgid ".ogv"
+msgstr ".ogv"
+
+#: widgets/file-upload/file-upload.php:204
+msgid ".mpg"
+msgstr ".mpg"
+
+#: widgets/file-upload/file-upload.php:203
+msgid ".avi"
+msgstr ".avi"
+
+#: widgets/file-upload/file-upload.php:202
+msgid ".wmv"
+msgstr ".wmv"
+
+#: widgets/file-upload/file-upload.php:201
+msgid ".mov"
+msgstr ".mov"
+
+#: widgets/file-upload/file-upload.php:200
+msgid ".m4v"
+msgstr ".m4v"
+
+#: widgets/file-upload/file-upload.php:199
+msgid ".mp4"
+msgstr ".mp4"
+
+#: widgets/file-upload/file-upload.php:198
+msgid ".wav"
+msgstr ".wav"
+
+#: widgets/file-upload/file-upload.php:197
+msgid ".ogg"
+msgstr ".ogg"
+
+#: widgets/file-upload/file-upload.php:196
+msgid ".m4a"
+msgstr ".m4a"
+
+#: widgets/file-upload/file-upload.php:195
+msgid ".mp3"
+msgstr ".mp3"
+
+#: widgets/file-upload/file-upload.php:194
+msgid ".psd"
+msgstr ".psd"
+
+#: widgets/file-upload/file-upload.php:193
+msgid ".xlsx"
+msgstr ".xlsx"
+
+#: widgets/file-upload/file-upload.php:192
+msgid ".xls"
+msgstr ".xls"
+
+#: widgets/file-upload/file-upload.php:191
+msgid ".odt"
+msgstr ".odt"
+
+#: widgets/file-upload/file-upload.php:190
+msgid ".ppsx"
+msgstr ".ppsx"
+
+#: widgets/file-upload/file-upload.php:189
+msgid ".pps"
+msgstr ".pps"
+
+#: widgets/file-upload/file-upload.php:188
+msgid ".pptx"
+msgstr ".pptx"
+
+#: widgets/file-upload/file-upload.php:187
+msgid ".ppt"
+msgstr ".ppt"
+
+#: widgets/file-upload/file-upload.php:186
+msgid ".docx"
+msgstr ".docx"
+
+#: widgets/file-upload/file-upload.php:185
+msgid ".doc"
+msgstr ".doc"
+
+#: widgets/file-upload/file-upload.php:184
+msgid ".pdf"
+msgstr ".pdf"
+
+#: widgets/file-upload/file-upload.php:183
+msgid ".ico"
+msgstr ".ico"
+
+#: widgets/file-upload/file-upload.php:182
+msgid ".png"
+msgstr ".png"
+
+#: widgets/file-upload/file-upload.php:181
+msgid ".gif"
+msgstr ".gif"
+
+#: widgets/file-upload/file-upload.php:180
+msgid ".jpeg"
+msgstr ".jpeg"
+
+#: widgets/file-upload/file-upload.php:179
+msgid ".jpg"
+msgstr ".jpg"
+
+#: widgets/file-upload/file-upload.php:175
+msgid "File Types : "
+msgstr "Типы файлов : "
+
+#: widgets/file-upload/file-upload.php:153
+msgid "128"
+msgstr "128"
+
+#: widgets/file-upload/file-upload.php:149
+msgid "Maximum File Size (KB) : "
+msgstr "Максимальный размер файла (KB) : "
+
+#: widgets/file-upload/file-upload.php:138
+msgid "File Size Limit : "
+msgstr "Ограничение размера файла : "
+
+#: widgets/file-upload/file-upload.php:20
+msgid "File Upload"
+msgstr "Загрузка файла"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:13
+#: widgets/manifest.php:226
+msgid "Metform"
+msgstr "Metform"
+
+#: widgets/text/text.php:21
+msgid "Text"
+msgstr "Текст"
+
+#: widgets/form-basic.php:58
+msgid "Select Form : "
+msgstr "Выбрать форму : "
+
+#: widgets/textarea/textarea.php:21
+msgid "Textarea"
+msgstr "Текстовая область"
+
+#: widgets/password/password.php:16
+msgid "Password"
+msgstr "Пароль"
+
+#: widgets/range/range.php:338
+msgid "Counter"
+msgstr "Счётчик"
+
+#: widgets/range/range.php:100
+msgid "Steps"
+msgstr "Шаги"
+
+#: widgets/range/range.php:20 widgets/range/range.php:247
+msgid "Range Slider"
+msgstr "Слайдер диапазона"
+
+#: widgets/url/url.php:20
+msgid "URL"
+msgstr "URL"
+
+#: widgets/date/date.php:383
+msgid "YY.DD"
+msgstr "ГГ.ДД"
+
+#: widgets/date/date.php:382
+msgid "DD.YY"
+msgstr "ДД.ГГ"
+
+#: widgets/date/date.php:381
+msgid "YY-DD"
+msgstr "ГГ-ДД"
+
+#: widgets/date/date.php:380
+msgid "DD-YY"
+msgstr "ДД-ГГ"
+
+#: widgets/date/date.php:349
+msgid "YY.MM"
+msgstr "ГГ.ММ"
+
+#: widgets/date/date.php:348
+msgid "MM.YY"
+msgstr "ММ.ГГ"
+
+#: widgets/date/date.php:347
+msgid "YY-MM"
+msgstr "ГГ-ММ"
+
+#: widgets/date/date.php:346
+msgid "MM-YY"
+msgstr "ММ-ГГ"
+
+#: widgets/date/date.php:315
+msgid "DD.MM"
+msgstr "ДД.ММ"
+
+#: widgets/date/date.php:314
+msgid "MM.DD"
+msgstr "ММ.ДД"
+
+#: widgets/date/date.php:313
+msgid "DD-MM"
+msgstr "ДД-ММ"
+
+#: widgets/date/date.php:312
+msgid "MM-DD"
+msgstr "ММ-ДД"
+
+#: widgets/date/date.php:270
+msgid "MM.DD.YYYY"
+msgstr "MM.ДД.ГГГГ"
+
+#: widgets/date/date.php:269
+msgid "DD.MM.YYYY"
+msgstr "ДД.MM.ГГГГ"
+
+#: widgets/date/date.php:268
+msgid "YYYY.MM.DD"
+msgstr "ГГГГ.MM.ДД"
+
+#: widgets/date/date.php:267
+msgid "MM-DD-YYYY"
+msgstr "ММ-ДД-ГГГГ"
+
+#: widgets/date/date.php:266
+msgid "DD-MM-YYYY"
+msgstr "ДД-ММ-ГГГГ"
+
+#: widgets/date/date.php:265
+msgid "YYYY-MM-DD"
+msgstr "ГГГГ-ММ-ДД"
+
+#: widgets/date/date.php:261 widgets/date/date.php:308
+#: widgets/date/date.php:342 widgets/date/date.php:376
+msgid "Date format : "
+msgstr "Формат даты: "
+
+#: widgets/date/date.php:249
+msgid "Date input ?"
+msgstr "Ввод даты ?"
+
+#: widgets/date/date.php:237
+msgid "Month input ?"
+msgstr "Ввод месяца ?"
+
+#: widgets/date/date.php:225
+msgid "Year input ?"
+msgstr "Ввод года ?"
+
+#: widgets/date/date.php:213
+msgid "Range date input ?"
+msgstr "Ввод диапазона дат ?"
+
+#: widgets/date/date.php:32
+msgid "Date"
+msgstr "Дата"
+
+#: traits/button-controls.php:72 traits/quiz-control.php:499
+#: widgets/button/button.php:116
+msgid "Icon"
+msgstr "Значок"
+
+#: widgets/button/button.php:104
+msgid "Shadow"
+msgstr "Тень"
+
+#: widgets/button/button.php:77
+msgid "Button"
+msgstr "Кнопка"
+
+#: widgets/button/button.php:64
+msgid "Hidden"
+msgstr "Скрыто"
+
+#: widgets/button/button.php:24
+msgid "Submit Button"
+msgstr "Кнопка Отправить"
+
+#: core/entries/hooks.php:80 traits/common-controls.php:137
+#: traits/common-controls.php:978 traits/quiz-control.php:304
+#: traits/quiz-control.php:394 traits/quiz-control.php:477
+#: traits/quiz-control.php:620 widgets/checkbox/checkbox.php:150
+#: widgets/date/date.php:154 widgets/date/date.php:216
+#: widgets/date/date.php:228 widgets/date/date.php:240
+#: widgets/date/date.php:252 widgets/date/date.php:413
+#: widgets/date/date.php:425 widgets/email/email.php:69
+#: widgets/email/email.php:97 widgets/multi-select/multi-select.php:109
+#: widgets/radio/radio.php:155 widgets/range/range.php:112
+#: widgets/select/select.php:110 widgets/switch/switch.php:69
+#: widgets/time/time.php:86
+msgid "No"
+msgstr "Нет"
+
+#: core/entries/hooks.php:78 traits/common-controls.php:136
+#: traits/common-controls.php:977 traits/quiz-control.php:303
+#: traits/quiz-control.php:393 traits/quiz-control.php:476
+#: traits/quiz-control.php:619 widgets/checkbox/checkbox.php:149
+#: widgets/date/date.php:153 widgets/date/date.php:215
+#: widgets/date/date.php:227 widgets/date/date.php:239
+#: widgets/date/date.php:251 widgets/date/date.php:412
+#: widgets/date/date.php:424 widgets/email/email.php:68
+#: widgets/email/email.php:96 widgets/multi-select/multi-select.php:108
+#: widgets/radio/radio.php:154 widgets/range/range.php:111
+#: widgets/select/select.php:109 widgets/switch/switch.php:60
+#: widgets/time/time.php:85
+msgid "Yes"
+msgstr "Да"
+
+#: widgets/time/time.php:83
+msgid "Use time 24H"
+msgstr "Использовать 24-часовое время"
+
+#: widgets/time/time.php:24
+msgid "Time"
+msgstr "Время"
+
+#: widgets/radio/radio.php:403
+msgid "Add space after radio"
+msgstr "Добавить пространство после radio"
+
+#: widgets/radio/radio.php:336 widgets/radio/radio.php:360
+msgid "Radio Color"
+msgstr "Цвет radio"
+
+#: widgets/radio/radio.php:164
+msgid "Radio Options"
+msgstr "Параметры radio"
+
+#: widgets/radio/radio.php:116
+msgid "Radio Option Text"
+msgstr "Текст параметра radio"
+
+#: widgets/radio/radio.php:105
+msgid "Before Radio"
+msgstr "Перед radio"
+
+#: widgets/radio/radio.php:104
+msgid "After Radio"
+msgstr "После radio"
+
+#: widgets/radio/radio.php:94
+msgid "Radio option display style."
+msgstr "Стиль отображения параметров radio."
+
+#: widgets/radio/radio.php:29 widgets/radio/radio.php:264
+msgid "Radio"
+msgstr "Селективная кнопка"
+
+#: widgets/email/email.php:26
+msgid "Email"
+msgstr "Email"
+
+#: widgets/select/select.php:132
+msgid "Dropdown List"
+msgstr "Выпадающий список"
+
+#: widgets/select/select.php:21 widgets/select/select.php:278
+msgid "Select"
+msgstr "Выбрать"
+
+#: widgets/listing-lname/listing-lname.php:20
+msgid "Last Name (Listing)"
+msgstr "Фамилия"
+
+#: widgets/listing-fname/listing-fname.php:20
+msgid "First Name (Listing)"
+msgstr "Имя"
+
+#: widgets/gdpr-consent/gdpr-consent.php:94
+#: widgets/listing-optin/listing-optin.php:76
+msgid "Select option name that will be show to user."
+msgstr "Выберите нзвание параметра, которое будет отображаться пользователю."
+
+#: widgets/listing-optin/listing-optin.php:74
+msgid "Subscribe to ours newsletter."
+msgstr "Подпишитесь на нашу рассылку."
+
+#: traits/common-controls.php:72
+msgid "Name : "
+msgstr "Имя: "
+
+#: widgets/listing-optin/listing-optin.php:20
+msgid "Opt in ( Listing )"
+msgstr "Opt in"
+
+#: traits/common-controls.php:276 traits/common-controls.php:878
+#: widgets/range/range.php:416 widgets/rating/rating.php:288
+#: widgets/select/select.php:335 widgets/switch/switch.php:178
+msgid "Box Shadow"
+msgstr "Тень блока"
+
+#: traits/button-controls.php:372 traits/common-controls.php:291
+#: traits/common-controls.php:847 widgets/file-upload/file-upload.php:439
+#: widgets/range/range.php:324 widgets/range/range.php:403
+#: widgets/rating/rating.php:237 widgets/select/select.php:298
+#: widgets/select/select.php:377
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: traits/button-controls.php:254 traits/common-controls.php:765
+msgid "Focus"
+msgstr "Фокус"
+
+#: traits/button-controls.php:224 traits/button-controls.php:347
+#: traits/button-controls.php:429 traits/common-controls.php:706
+#: widgets/file-upload/file-upload.php:363 widgets/select/select.php:449
+msgid "Hover"
+msgstr "При наведении"
+
+#: traits/common-controls.php:284 traits/common-controls.php:694
+#: traits/common-controls.php:752 traits/common-controls.php:812
+#: widgets/button/button.php:92 widgets/file-upload/file-upload.php:431
+#: widgets/rating/rating.php:191 widgets/rating/rating.php:224
+#: widgets/select/select.php:326 widgets/select/select.php:405
+msgid "Border"
+msgstr "Рамка"
+
+#: traits/common-controls.php:650 traits/common-controls.php:713
+#: traits/common-controls.php:772 widgets/rating/rating.php:175
+#: widgets/rating/rating.php:208
+msgid "Input Color"
+msgstr "Цвет поля ввода"
+
+#: traits/button-controls.php:195 traits/button-controls.php:323
+#: traits/button-controls.php:404 traits/common-controls.php:643
+#: widgets/checkbox/checkbox.php:308 widgets/file-upload/file-upload.php:332
+#: widgets/gdpr-consent/gdpr-consent.php:353
+#: widgets/listing-optin/listing-optin.php:193 widgets/radio/radio.php:329
+#: widgets/rating/rating.php:168 widgets/select/select.php:415
+msgid "Normal"
+msgstr "Обычный"
+
+#: widgets/rating/rating.php:79
+msgid "Number of rating star : "
+msgstr "Количество звезд рейтинга : "
+
+#: widgets/rating/rating.php:20
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: widgets/range/range.php:216 widgets/range/range.php:274
+#: widgets/range/range.php:370 widgets/switch/switch.php:161
+#: widgets/textarea/textarea.php:114
+msgid "Height"
+msgstr "Высота"
+
+#: traits/common-controls.php:323 traits/common-controls.php:515
+#: widgets/gdpr-consent/gdpr-consent.php:157 widgets/range/range.php:201
+#: widgets/range/range.php:256 widgets/range/range.php:355
+#: widgets/simple-captcha/simple-captcha.php:143 widgets/switch/switch.php:144
+msgid "Width"
+msgstr "Ширина"
+
+#: widgets/switch/switch.php:20
+msgid "Switch"
+msgstr "Переключатель"
+
+#: widgets/checkbox/checkbox.php:381 widgets/gdpr-consent/gdpr-consent.php:426
+#: widgets/listing-optin/listing-optin.php:266
+msgid "Add space after checkbox"
+msgstr "Добавить пространство после чекбокса"
+
+#: widgets/checkbox/checkbox.php:315 widgets/checkbox/checkbox.php:339
+#: widgets/gdpr-consent/gdpr-consent.php:360
+#: widgets/gdpr-consent/gdpr-consent.php:384
+#: widgets/listing-optin/listing-optin.php:200
+#: widgets/listing-optin/listing-optin.php:224
+msgid "Checkbox Color"
+msgstr "Цвет чекбокса"
+
+#: traits/button-controls.php:202 traits/button-controls.php:231
+#: traits/button-controls.php:261 widgets/checkbox/checkbox.php:290
+#: widgets/gdpr-consent/gdpr-consent.php:335
+#: widgets/listing-optin/listing-optin.php:175 widgets/radio/radio.php:312
+#: widgets/switch/switch.php:229 widgets/switch/switch.php:410
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: traits/common-controls.php:400 traits/common-controls.php:592
+#: traits/common-controls.php:625 widgets/checkbox/checkbox.php:278
+#: widgets/email/email.php:215 widgets/file-upload/file-upload.php:418
+#: widgets/gdpr-consent/gdpr-consent.php:234
+#: widgets/gdpr-consent/gdpr-consent.php:323
+#: widgets/listing-optin/listing-optin.php:163 widgets/radio/radio.php:300
+#: widgets/rating/rating.php:147 widgets/select/select.php:365
+#: widgets/simple-captcha/simple-captcha.php:216
+#: widgets/simple-captcha/simple-captcha.php:296
+#: widgets/simple-captcha/simple-captcha.php:345
+#: widgets/simple-message/simple-message.php:137
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: traits/button-controls.php:157 traits/button-controls.php:480
+#: traits/common-controls.php:386 traits/common-controls.php:578
+#: traits/common-controls.php:609 traits/common-controls.php:959
+#: widgets/checkbox/checkbox.php:267 widgets/email/email.php:204
+#: widgets/file-upload/file-upload.php:406
+#: widgets/gdpr-consent/gdpr-consent.php:220
+#: widgets/gdpr-consent/gdpr-consent.php:312
+#: widgets/listing-optin/listing-optin.php:152 widgets/radio/radio.php:289
+#: widgets/rating/rating.php:135 widgets/select/select.php:353
+#: widgets/simple-captcha/simple-captcha.php:202
+#: widgets/simple-captcha/simple-captcha.php:284
+#: widgets/simple-captcha/simple-captcha.php:333
+#: widgets/simple-message/simple-message.php:126 widgets/switch/switch.php:290
+#: widgets/switch/switch.php:471
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: traits/button-controls.php:177 traits/common-controls.php:373
+#: traits/common-controls.php:565 traits/common-controls.php:834
+#: traits/common-controls.php:890 traits/common-controls.php:933
+#: widgets/email/email.php:194 widgets/gdpr-consent/gdpr-consent.php:207
+#: widgets/range/range.php:347 widgets/rating/rating.php:275
+#: widgets/simple-captcha/simple-captcha.php:189
+#: widgets/simple-message/simple-message.php:119 widgets/switch/switch.php:205
+#: widgets/switch/switch.php:387
+msgid "Typography"
+msgstr "Типографика"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:304
+#: traits/common-controls.php:355 traits/common-controls.php:547
+#: traits/common-controls.php:903 traits/common-controls.php:944
+#: widgets/email/email.php:179 widgets/file-upload/file-upload.php:339
+#: widgets/file-upload/file-upload.php:370
+#: widgets/gdpr-consent/gdpr-consent.php:189 widgets/select/select.php:422
+#: widgets/select/select.php:456 widgets/select/select.php:490
+#: widgets/simple-captcha/simple-captcha.php:171
+#: widgets/simple-captcha/simple-captcha.php:308
+#: widgets/simple-message/simple-message.php:104 widgets/switch/switch.php:213
+#: widgets/switch/switch.php:395
+msgid "Color"
+msgstr "Цвет"
+
+#: widgets/gdpr-consent/gdpr-consent.php:134
+#: widgets/listing-optin/listing-optin.php:115
+msgid "Input Label"
+msgstr "Ярлык ввода"
+
+#: traits/common-controls.php:123 widgets/simple-captcha/simple-captcha.php:126
+msgid "Type your help text here"
+msgstr "Введите текст справки здесь"
+
+#: traits/common-controls.php:120 traits/quiz-control.php:161
+#: widgets/simple-captcha/simple-captcha.php:123
+msgid "Help Text : "
+msgstr "Текст справки : "
+
+#: widgets/checkbox/checkbox.php:159
+msgid "Checkbox Options"
+msgstr "Параметры чекбокса"
+
+#: widgets/checkbox/checkbox.php:134 widgets/radio/radio.php:139
+#: widgets/rating/rating.php:201 widgets/switch/switch.php:380
+msgid "Active"
+msgstr "Активный"
+
+#: traits/quiz-control.php:284 traits/quiz-control.php:456
+#: traits/quiz-control.php:600 widgets/checkbox/checkbox.php:131
+#: widgets/radio/radio.php:136
+msgid "Option Status"
+msgstr "Статус параметра"
+
+#: widgets/checkbox/checkbox.php:125 widgets/radio/radio.php:130
+msgid "Select option value that will be store/mail to desired person."
+msgstr "Выберите значение параметра, которое будет храниться/отправляться нужному человеку."
+
+#: traits/quiz-control.php:275 traits/quiz-control.php:277
+#: traits/quiz-control.php:364 traits/quiz-control.php:446
+#: traits/quiz-control.php:591 traits/quiz-control.php:593
+#: widgets/checkbox/checkbox.php:121 widgets/checkbox/checkbox.php:123
+#: widgets/radio/radio.php:126 widgets/radio/radio.php:128
+msgid "Option Value"
+msgstr "Значение параметра"
+
+#: traits/quiz-control.php:269 traits/quiz-control.php:359
+#: widgets/checkbox/checkbox.php:115 widgets/radio/radio.php:120
+msgid "Select option text that will be show to user."
+msgstr "Выберите текст параметра, который будет отображаться пользователю."
+
+#: traits/quiz-control.php:265 traits/quiz-control.php:267
+#: traits/quiz-control.php:355 widgets/checkbox/checkbox.php:113
+#: widgets/radio/radio.php:118
+msgid "Option Text"
+msgstr "Текст параметра"
+
+#: widgets/checkbox/checkbox.php:111 widgets/gdpr-consent/gdpr-consent.php:89
+#: widgets/listing-optin/listing-optin.php:72
+msgid "Checkbox Option Text"
+msgstr "Текст параметра чекбокса"
+
+#: widgets/checkbox/checkbox.php:103 widgets/gdpr-consent/gdpr-consent.php:83
+#: widgets/listing-optin/listing-optin.php:66 widgets/radio/radio.php:108
+msgid "Where do you want to label?"
+msgstr "Где вы хотите поставить метку?"
+
+#: widgets/checkbox/checkbox.php:100 widgets/gdpr-consent/gdpr-consent.php:80
+#: widgets/listing-optin/listing-optin.php:63
+msgid "Before Checkbox"
+msgstr "Перед чекбоксом"
+
+#: widgets/checkbox/checkbox.php:99 widgets/gdpr-consent/gdpr-consent.php:79
+#: widgets/listing-optin/listing-optin.php:62
+msgid "After Checkbox"
+msgstr "После чекбоксом"
+
+#: traits/quiz-control.php:233 widgets/checkbox/checkbox.php:96
+#: widgets/gdpr-consent/gdpr-consent.php:76
+#: widgets/listing-optin/listing-optin.php:59 widgets/radio/radio.php:101
+msgid "Option Text Position : "
+msgstr "Положение текста параметра : "
+
+#: widgets/checkbox/checkbox.php:89 widgets/gdpr-consent/gdpr-consent.php:69
+msgid "Checkbox option display style. "
+msgstr "Стиль отображения параметра чекбокса. "
+
+#: traits/quiz-control.php:176 traits/quiz-control.php:197
+#: widgets/checkbox/checkbox.php:83 widgets/gdpr-consent/gdpr-consent.php:63
+#: widgets/radio/radio.php:88
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: traits/quiz-control.php:175 traits/quiz-control.php:196
+#: widgets/checkbox/checkbox.php:82 widgets/gdpr-consent/gdpr-consent.php:62
+#: widgets/radio/radio.php:87
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: traits/quiz-control.php:172 traits/quiz-control.php:193
+#: widgets/checkbox/checkbox.php:78 widgets/gdpr-consent/gdpr-consent.php:58
+#: widgets/radio/radio.php:83
+msgid "Option Display : "
+msgstr "Отображение параметров : "
+
+#: traits/common-controls.php:87
+msgid "Enter here name of the input"
+msgstr "Введите здесь название поля ввода"
+
+#: traits/common-controls.php:61 widgets/simple-captcha/simple-captcha.php:113
+msgid "Enter here label of input"
+msgstr "Введите здесь ярлык поля ввода"
+
+#: traits/common-controls.php:50 widgets/simple-captcha/simple-captcha.php:87
+msgid "Select label position. where you want to see it. top of the input or left of the input."
+msgstr "Выберите положение ярлыка. где вы хотите его видеть. Сверху или слева от поля ввода."
+
+#: traits/button-controls.php:45 traits/common-controls.php:42
+#: widgets/simple-captcha/simple-captcha.php:79
+#: widgets/simple-message/simple-message.php:82
+msgid "Left"
+msgstr "Слева"
+
+#: traits/common-controls.php:41 widgets/file-upload/file-upload.php:91
+#: widgets/range/range.php:290 widgets/simple-captcha/simple-captcha.php:78
+msgid "Top"
+msgstr "Сверху"
+
+#: traits/common-controls.php:37 widgets/file-upload/file-upload.php:315
+msgid "Position"
+msgstr "Позиция"
+
+#: traits/common-controls.php:30 widgets/simple-captcha/simple-captcha.php:67
+msgid "for adding label on input turn it on. Don't want to use label? turn it off."
+msgstr "для добавления ярлыка поля ввода включите его. Не хотите использовать ярлык? Выключите."
+
+#: traits/common-controls.php:27 traits/quiz-control.php:489
+#: widgets/simple-captcha/simple-captcha.php:64
+msgid "Hide"
+msgstr "Скрыть"
+
+#: traits/common-controls.php:26 traits/quiz-control.php:488
+#: widgets/simple-captcha/simple-captcha.php:63
+msgid "Show"
+msgstr "Показать"
+
+#: traits/common-controls.php:24 widgets/simple-captcha/simple-captcha.php:61
+msgid "Show Label"
+msgstr "Показать этикетку"
+
+#: widgets/checkbox/checkbox.php:33 widgets/checkbox/checkbox.php:259
+#: widgets/gdpr-consent/gdpr-consent.php:304
+#: widgets/listing-optin/listing-optin.php:144
+msgid "Checkbox"
+msgstr "Флажок"
+
+#: widgets/date/date.php:646 widgets/email/email.php:159
+#: widgets/listing-fname/listing-fname.php:119
+#: widgets/listing-lname/listing-lname.php:119
+#: widgets/multi-select/multi-select.php:226 widgets/number/number.php:117
+#: widgets/password/password.php:117 widgets/select/select.php:521
+#: widgets/simple-captcha/simple-captcha.php:373
+#: widgets/telephone/telephone.php:118 widgets/text/text.php:136
+#: widgets/textarea/textarea.php:141 widgets/time/time.php:141
+#: widgets/url/url.php:127
+msgid "Place Holder"
+msgstr "Заполнитель"
+
+#: widgets/number/number.php:20
+msgid "Number"
+msgstr "Число"
+
+#: widgets/recaptcha/recaptcha.php:158 widgets/recaptcha/recaptcha.php:193
+msgid "reCAPTCHA will be shown on preview."
+msgstr "reCAPTCHA будет показана в предпросмотре."
+
+#: widgets/recaptcha/recaptcha.php:17
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: widgets/recaptcha/recaptcha.php:66
+msgid "Add Extra Class Name : "
+msgstr "Добавить имя дополнительного класса : "
+
+#: widgets/checkbox/checkbox.php:424 widgets/date/date.php:658
+#: widgets/email/email.php:229 widgets/file-upload/file-upload.php:454
+#: widgets/gdpr-consent/gdpr-consent.php:468
+#: widgets/listing-fname/listing-fname.php:131
+#: widgets/listing-lname/listing-lname.php:131
+#: widgets/listing-optin/listing-optin.php:308
+#: widgets/multi-select/multi-select.php:238 widgets/number/number.php:129
+#: widgets/password/password.php:129 widgets/radio/radio.php:446
+#: widgets/range/range.php:427 widgets/rating/rating.php:298
+#: widgets/select/select.php:533 widgets/simple-captcha/simple-captcha.php:358
+#: widgets/summary/summary.php:76 widgets/switch/switch.php:565
+#: widgets/telephone/telephone.php:130 widgets/text/text.php:148
+#: widgets/textarea/textarea.php:153 widgets/time/time.php:153
+#: widgets/url/url.php:139
+msgid "Help Text"
+msgstr "Текст справки"
+
+#: widgets/date/date.php:472 widgets/email/email.php:147
+#: widgets/file-upload/file-upload.php:253
+#: widgets/listing-fname/listing-fname.php:107
+#: widgets/listing-lname/listing-lname.php:107
+#: widgets/multi-select/multi-select.php:214 widgets/number/number.php:105
+#: widgets/password/password.php:105 widgets/rating/rating.php:127
+#: widgets/simple-captcha/simple-captcha.php:325 widgets/switch/switch.php:136
+#: widgets/telephone/telephone.php:106 widgets/text/text.php:124
+#: widgets/textarea/textarea.php:106 widgets/time/time.php:129
+#: widgets/url/url.php:115
+msgid "Input"
+msgstr "Ввод"
+
+#: traits/button-controls.php:19 traits/quiz-control.php:31
+#: traits/quiz-control.php:52 widgets/checkbox/checkbox.php:221
+#: widgets/checkbox/checkbox.php:231 widgets/date/date.php:445
+#: widgets/email/email.php:118 widgets/file-upload/file-upload.php:226
+#: widgets/listing-fname/listing-fname.php:80
+#: widgets/listing-lname/listing-lname.php:80
+#: widgets/multi-select/multi-select.php:178
+#: widgets/multi-select/multi-select.php:186 widgets/number/number.php:78
+#: widgets/password/password.php:78 widgets/radio/radio.php:226
+#: widgets/radio/radio.php:236 widgets/range/range.php:166
+#: widgets/rating/rating.php:100 widgets/recaptcha/recaptcha.php:75
+#: widgets/select/select.php:241 widgets/select/select.php:250
+#: widgets/simple-captcha/simple-captcha.php:135 widgets/summary/summary.php:61
+#: widgets/switch/switch.php:108 widgets/telephone/telephone.php:79
+#: widgets/text/text.php:86 widgets/text/text.php:96
+#: widgets/textarea/textarea.php:79 widgets/time/time.php:102
+#: widgets/url/url.php:88
+msgid "Label"
+msgstr "Этикетка"
+
+#: core/admin/base.php:72 traits/button-controls.php:32
+#: widgets/checkbox/checkbox.php:191 widgets/date/date.php:132
+#: widgets/email/email.php:85 widgets/file-upload/file-upload.php:108
+#: widgets/gdpr-consent/gdpr-consent.php:105
+#: widgets/listing-fname/listing-fname.php:60
+#: widgets/listing-lname/listing-lname.php:60
+#: widgets/listing-optin/listing-optin.php:86
+#: widgets/multi-select/multi-select.php:150 widgets/number/number.php:60
+#: widgets/password/password.php:60 widgets/radio/radio.php:196
+#: widgets/range/range.php:60 widgets/rating/rating.php:60
+#: widgets/select/select.php:213 widgets/switch/switch.php:78
+#: widgets/telephone/telephone.php:61 widgets/text/text.php:66
+#: widgets/textarea/textarea.php:61 widgets/time/time.php:64
+#: widgets/url/url.php:61
+msgid "Settings"
+msgstr "Настройки"
+
+#: traits/quiz-control.php:334 traits/quiz-control.php:424
+#: traits/quiz-control.php:552 traits/quiz-control.php:647
+#: widgets/checkbox/checkbox.php:180 widgets/multi-select/multi-select.php:139
+#: widgets/radio/radio.php:185 widgets/select/select.php:153
+msgid "You can add/edit here your selector options."
+msgstr "Вы можете добавить/редактировать здесь ваши параметры селектора."
+
+#: widgets/multi-select/multi-select.php:118
+msgid "Multi Select List"
+msgstr "Список множественного выбора"
+
+#: widgets/checkbox/checkbox.php:139 widgets/multi-select/multi-select.php:98
+#: widgets/radio/radio.php:144 widgets/select/select.php:99
+msgid "Want to make a option? which user can see the option but can't select it. make it disable."
+msgstr "Хотите сделать опцию, которую пользователь может видеть, но не может выбрать? Сделайте ее выключенной."
+
+#: widgets/checkbox/checkbox.php:135 widgets/multi-select/multi-select.php:96
+#: widgets/radio/radio.php:140 widgets/select/select.php:97
+msgid "Disable"
+msgstr "Отключить"
+
+#: traits/conditional-controls.php:33 widgets/multi-select/multi-select.php:95
+#: widgets/select/select.php:96
+msgid "Enable"
+msgstr "Включить"
+
+#: traits/quiz-control.php:374 widgets/multi-select/multi-select.php:91
+#: widgets/select/select.php:92
+msgid "Status"
+msgstr "Статус"
+
+#: traits/quiz-control.php:368 widgets/multi-select/multi-select.php:85
+#: widgets/select/select.php:86
+msgid "Select list value that will be store/mail to desired person."
+msgstr "Выберите значение списка, которое будет храниться/отправляться нужному человеку."
+
+#: traits/button-controls.php:127 traits/quiz-control.php:366
+#: widgets/multi-select/multi-select.php:83 widgets/select/select.php:84
+msgid "Input Value"
+msgstr "Значение ввода"
+
+#: widgets/multi-select/multi-select.php:81 widgets/select/select.php:82
+msgid "Input Field Value"
+msgstr "Значение поля ввода"
+
+#: widgets/multi-select/multi-select.php:76 widgets/select/select.php:76
+msgid "Select list text that will be show to user."
+msgstr "Выберите текст списка, который будет показан пользователю."
+
+#: traits/quiz-control.php:357 widgets/multi-select/multi-select.php:74
+#: widgets/select/select.php:74
+msgid "Input Text"
+msgstr "Текст ввода"
+
+#: widgets/multi-select/multi-select.php:72 widgets/select/select.php:72
+msgid "Input Field Text"
+msgstr "Текст поля ввода"
+
+#: widgets/button/button.php:48 widgets/checkbox/checkbox.php:58
+#: widgets/checkbox/checkbox.php:68 widgets/date/date.php:120
+#: widgets/email/email.php:58 widgets/file-upload/file-upload.php:49
+#: widgets/form-basic.php:49 widgets/gdpr-consent/gdpr-consent.php:48
+#: widgets/listing-fname/listing-fname.php:48
+#: widgets/listing-lname/listing-lname.php:48
+#: widgets/listing-optin/listing-optin.php:48
+#: widgets/multi-select/multi-select.php:51
+#: widgets/multi-select/multi-select.php:61 widgets/number/number.php:48
+#: widgets/password/password.php:48 widgets/radio/radio.php:61
+#: widgets/radio/radio.php:72 widgets/range/range.php:48
+#: widgets/rating/rating.php:48 widgets/recaptcha/recaptcha.php:48
+#: widgets/select/select.php:51 widgets/select/select.php:61
+#: widgets/simple-captcha/simple-captcha.php:53
+#: widgets/simple-message/simple-message.php:49 widgets/summary/summary.php:48
+#: widgets/switch/switch.php:48 widgets/telephone/telephone.php:49
+#: widgets/text/text.php:51 widgets/textarea/textarea.php:49
+#: widgets/time/time.php:52 widgets/url/url.php:49
+msgid "Content"
+msgstr "Содержимое"
+
+#: widgets/multi-select/multi-select.php:21
+msgid "Multi Select"
+msgstr "Множественный выбор"
+
+#: core/forms/views/modal-editor.php:823
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: core/forms/views/modal-editor.php:821
+msgid "Edit content"
+msgstr "Изменить содержимое"
+
+#: core/admin/views/settings.php:488 core/admin/views/settings.php:513
+msgid "Secret key:"
+msgstr "Secret key:"
+
+#: core/admin/views/settings.php:482 core/admin/views/settings.php:492
+#: core/admin/views/settings.php:507 core/admin/views/settings.php:517
+#: core/admin/views/settings.php:538 core/admin/views/settings.php:698
+#: core/admin/views/settings.php:706 core/admin/views/settings.php:765
+#: core/admin/views/settings.php:773 core/admin/views/settings.php:792
+#: core/admin/views/settings.php:799 core/admin/views/settings.php:1004
+#: core/admin/views/settings.php:1013
+msgid "Create from here"
+msgstr "Создать отсюда"
+
+#: core/admin/views/settings.php:478 core/admin/views/settings.php:503
+msgid "Site key:"
+msgstr "Site key:"
+
+#: core/forms/views/modal-editor.php:639
+msgid "create from here"
+msgstr "создать отсюда"
+
+#: core/forms/views/modal-editor.php:638
+msgid "Slack webhook"
+msgstr "Slack webhook"
+
+#: core/forms/views/modal-editor.php:637
+msgid "Slack webhook:"
+msgstr "Slack webhook:"
+
+#: core/forms/views/modal-editor.php:633
+msgid "slack info."
+msgstr "slack информация."
+
+#: core/forms/views/modal-editor.php:633
+msgid "Integrate slack with this form. "
+msgstr "Интеграция slack с этой формой. "
+
+#: core/forms/views/modal-editor.php:631
+msgid "Slack:"
+msgstr "Slack:"
+
+#: core/forms/views/modal-editor.php:621
+msgid "Enter here zapier web hook."
+msgstr "Введите здесь zapier web hook."
+
+#: core/forms/views/modal-editor.php:620
+msgid "Zapier webhook"
+msgstr "Zapier webhook"
+
+#: core/forms/views/modal-editor.php:619
+msgid "Zapier webhook:"
+msgstr "Zapier webhook:"
+
+#: core/forms/views/modal-editor.php:615
+msgid "Integrate zapier with this form. "
+msgstr "Интеграция zapier с этой формой. "
+
+#: core/forms/views/modal-editor.php:613
+msgid "Zapier:"
+msgstr "Zapier:"
+
+#: core/forms/views/modal-editor.php:407
+msgid "Enter here MailPoet list id. "
+msgstr "Введите здесь id списка MailPoet. "
+
+#: core/forms/views/modal-editor.php:334
+msgid "Mailchimp contact list id"
+msgstr "ID списка контактов Mailchimp"
+
+#: core/forms/views/modal-editor.php:323
+msgid "MailChimp List ID:"
+msgstr "ID списка MailChimp:"
+
+#: core/forms/views/modal-editor.php:318
+msgid "Integrate mailchimp with this form. "
+msgstr "Интеграция mailchimp с этой формой. "
+
+#: core/forms/views/modal-editor.php:316
+msgid "Mail Chimp:"
+msgstr "MailChimp:"
+
+#: core/forms/views/modal-editor.php:245
+msgid "Enter here your email body. Which will be send to admin."
+msgstr "Введите здесь текст email. Который будет отправлен администратору."
+
+#: core/forms/views/modal-editor.php:244
+msgid "Admin note!"
+msgstr "Примечание администратора!"
+
+#: core/forms/views/modal-editor.php:243
+msgid "Admin Note : "
+msgstr "Примечание администратора : "
+
+#: core/forms/views/modal-editor.php:239
+msgid "Enter email where admin can reply/ you want to get reply."
+msgstr "Введите email, на который администратор может ответить / вы хотите получить ответ."
+
+#: core/forms/views/modal-editor.php:238
+msgid "Email reply to"
+msgstr "Email для ответа"
+
+#: core/forms/views/modal-editor.php:233
+msgid "Enter the email by which you want to send email to admin."
+msgstr "Введите email, по которому вы хотите отправить письмо администратору."
+
+#: core/forms/views/modal-editor.php:232
+msgid "Email from"
+msgstr "Письмо From (От кого)"
+
+#: core/forms/views/modal-editor.php:227
+msgid " for multiple email addresses please use \",\" separator."
+msgstr " для нескольких адресов электронной почты используйте разделитель\",\"."
+
+#: core/forms/views/modal-editor.php:227
+msgid "Enter admin email where you want to send mail."
+msgstr "Введите email админа, на который вы хотите отправить письмо."
+
+#: core/forms/views/modal-editor.php:226
+msgid "example@mail.com, example@email.com"
+msgstr "example@mail.com, example@email.com"
+
+#: core/forms/views/modal-editor.php:225
+msgid "Email To:"
+msgstr "Email To (Кому):"
+
+#: core/forms/views/modal-editor.php:215
+msgid "Want to send a submission copy to admin by email? Active this one."
+msgstr "Хотите отправить копию заявки администратору по email? Активируйте это."
+
+#: core/forms/views/modal-editor.php:213
+msgid "Notification mail to admin :"
+msgstr "Уведомление по почте для админа :"
+
+#: core/forms/views/modal-editor.php:195
+msgid "Enter here your message to include it in email body. Which will be send to user."
+msgstr "Введите здесь ваше сообщение, чтобы включить его в email. Которое будет отправлено пользователю."
+
+#: core/forms/views/modal-editor.php:194
+msgid "Thank you message!"
+msgstr "Сообщение Спасибо!"
+
+#: core/forms/views/modal-editor.php:193
+msgid "Thank you message :"
+msgstr "Сообщение Спасибо :"
+
+#: core/forms/views/modal-editor.php:189
+msgid "Enter email where user can reply/ you want to get reply."
+msgstr "Введите email, на который пользователь может ответить или вы хотите получить ответ."
+
+#: core/forms/views/modal-editor.php:188
+msgid "Reply to email"
+msgstr "Ответ на email"
+
+#: core/forms/views/modal-editor.php:187 core/forms/views/modal-editor.php:237
+msgid "Email Reply To:"
+msgstr "Email для ответа:"
+
+#: core/forms/views/modal-editor.php:183
+msgid "Enter the email by which you want to send email to user."
+msgstr "Введите email, по которому вы хотите отправить письмо пользователю."
+
+#: core/forms/views/modal-editor.php:182
+msgid "From email"
+msgstr "Email from (От кого)"
+
+#: core/forms/views/modal-editor.php:181 core/forms/views/modal-editor.php:231
+msgid "Email From:"
+msgstr "Email From (От кого):"
+
+#: core/forms/views/modal-editor.php:177 core/forms/views/modal-editor.php:221
+msgid "Enter here email subject."
+msgstr "Введите здесь тему письма."
+
+#: core/forms/views/modal-editor.php:176 core/forms/views/modal-editor.php:220
+msgid "Email subject"
+msgstr "Тема письма"
+
+#: core/forms/views/modal-editor.php:175 core/forms/views/modal-editor.php:219
+msgid "Email Subject:"
+msgstr "Тема письма:"
+
+#: core/forms/views/modal-editor.php:166 core/forms/views/modal-editor.php:615
+msgid "The form must have at least one Email widget and it should be required."
+msgstr "Форма должна иметь хотя бы один виджет Email, и он должен быть обязательным."
+
+#: core/forms/views/modal-editor.php:165
+msgid "Want to send a submission copy to user by email? Active this one. "
+msgstr "Хотите отправить пользователю копию заявки по email? Активируйте это. "
+
+#: core/forms/views/modal-editor.php:162
+msgid "Confirmation mail to user :"
+msgstr "Письмо с подтверждением пользователю :"
+
+#: core/forms/views/modal-editor.php:151
+msgid "Users will be redirected to the this link after submission."
+msgstr "Пользователи будут перенаправлены на эту ссылку после отправки."
+
+#: core/forms/views/modal-editor.php:150
+msgid "Redirection link"
+msgstr "Ссылка перенаправления"
+
+#: core/forms/views/modal-editor.php:149
+msgid "Redirect To:"
+msgstr "Перенаправить на:"
+
+#: core/forms/views/modal-editor.php:129
+msgid "Limit the total number of submissions for this form."
+msgstr "Ограничьте общее количество заявок для этой формы."
+
+#: core/forms/views/modal-editor.php:123
+msgid "Limit Total Entries:"
+msgstr "Ограничьте общее количество записей:"
+
+#: core/forms/views/modal-editor.php:109
+msgid "Save submitted form data to database."
+msgstr "Сохраните данные отправленной формы в базе данных."
+
+#: core/forms/views/modal-editor.php:107
+msgid "Store Entries:"
+msgstr "Хранить записи:"
+
+#: core/forms/views/modal-editor.php:100
+msgid "After submission, hide the form for preventing multiple submission."
+msgstr "После отправки скройте форму, чтобы предотвратить многократную отправку."
+
+#: core/forms/views/modal-editor.php:98
+msgid "Hide Form After Submission:"
+msgstr "Скрыть форму после отправки:"
+
+#: core/forms/views/modal-editor.php:92
+msgid "Store user's browser data (ip, browser name, etc)"
+msgstr "Хранить данные браузера пользователя (ip, название браузера и т.д.)"
+
+#: core/forms/views/modal-editor.php:90
+msgid "Capture User Browser Data:"
+msgstr "Сбор данных браузера пользователя:"
+
+#: core/forms/views/modal-editor.php:84
+msgid "Without login, users can't submit the form."
+msgstr "Без входа в систему пользователи не смогут отправить форму."
+
+#: core/forms/views/modal-editor.php:82
+msgid "Required Login:"
+msgstr "Обязательная авторизация:"
+
+#: core/forms/views/modal-editor.php:66
+msgid "This message will be shown after a successful submission."
+msgstr "Это сообщение будет показано после успешной отправки."
+
+#: core/forms/builder.php:38 core/forms/views/modal-editor.php:65
+msgid "Thank you! Form submitted successfully."
+msgstr "Спасибо! Форма, отправлена успешно."
+
+#: core/forms/views/modal-editor.php:64
+msgid "Success Message:"
+msgstr "Сообщение об успехе:"
+
+#: core/forms/views/modal-editor.php:60
+msgid "This is the form title"
+msgstr "Это заголовок формы"
+
+#: core/forms/views/modal-editor.php:59
+msgid "New Form # "
+msgstr "Новая форма # "
+
+#: core/forms/views/modal-editor.php:58
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: core/forms/views/modal-editor.php:42
+msgid "Integration"
+msgstr "Интеграция"
+
+#: core/forms/views/modal-editor.php:40
+msgid "Notification"
+msgstr "Уведомление"
+
+#: core/forms/views/modal-editor.php:38
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+#: core/admin/views/settings.php:100 core/forms/views/modal-editor.php:36
+msgid "General"
+msgstr "Общее"
+
+#: core/forms/views/modal-editor.php:30
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: core/forms/cpt.php:517
+msgid "metform form"
+msgstr "форма metform"
+
+#: core/forms/cpt.php:507
+msgid "Filter froms list"
+msgstr "Фильтровать из списка"
+
+#: core/forms/cpt.php:506
+msgid "Forms list navigation"
+msgstr "Навигация по списку форм"
+
+#: core/forms/cpt.php:505
+msgid "Forms list"
+msgstr "Список форм"
+
+#: core/forms/cpt.php:504
+msgid "Uploaded to this form"
+msgstr "Загружено в эту форму"
+
+#: core/forms/cpt.php:503
+msgid "Insert into form"
+msgstr "Вставить в форму"
+
+#: core/forms/cpt.php:496
+msgid "Search Forms"
+msgstr "Поиск форм"
+
+#: core/forms/cpt.php:495
+msgid "View Forms"
+msgstr "Просмотреть формы"
+
+#: core/forms/cpt.php:494
+msgid "View Form"
+msgstr "Просмотреть форму"
+
+#: core/forms/cpt.php:493
+msgid "Update Form"
+msgstr "Обновить форму"
+
+#: core/forms/cpt.php:492
+msgid "Edit Form"
+msgstr "Редактировать форму"
+
+#: core/forms/cpt.php:491
+msgid "New Form"
+msgstr "Новая форма"
+
+#: core/forms/cpt.php:489
+msgid "Add New Form"
+msgstr "Добавить новую форму"
+
+#: core/forms/cpt.php:488 core/forms/cpt.php:516
+msgid "Forms"
+msgstr "Формы"
+
+#: core/forms/cpt.php:486
+msgid "Form Attributes"
+msgstr "Атрибуты форм"
+
+#: core/forms/cpt.php:485
+msgid "Form Archives"
+msgstr "Архивы форм"
+
+#: core/forms/cpt.php:483 core/forms/cpt.php:484 widgets/form.php:55
+msgid "Form"
+msgstr "Форма"
+
+#: core/forms/cpt.php:482
+msgctxt "Post Type Singular Name"
+msgid "Form"
+msgstr "Форма"
+
+#: core/forms/cpt.php:481
+msgctxt "Post Type General Name"
+msgid "Forms"
+msgstr "Формы"
+
+#: core/forms/hooks.php:62
+msgid "Export CSV"
+msgstr "Экспорт в CSV"
+
+#: core/forms/hooks.php:35
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: core/integrations/slack.php:46
+msgid "Your data inserted on slack."
+msgstr "Ваши данные вставлены в slack."
+
+#: core/entries/meta-data.php:286
+msgid "This file is not uploaded."
+msgstr "Этот файл не загружен."
+
+#: core/entries/meta-data.php:284
+msgid "View"
+msgstr "Просмотр"
+
+#: core/entries/form-data.php:521 core/entries/meta-data.php:283
+msgid "Download"
+msgstr "Скачать"
+
+#: core/entries/meta-data.php:215
+msgid "Files"
+msgstr "Файлы"
+
+#: core/entries/meta-data.php:201
+msgid "Browser data not captured."
+msgstr "Данные браузера не захвачены."
+
+#: core/entries/meta-data.php:169
+msgid "Browser Data"
+msgstr "Данные браузера"
+
+#: core/entries/meta-data.php:138
+msgid "Data"
+msgstr "Данные"
+
+#: core/entries/meta-data.php:87
+msgid "Form Name "
+msgstr "Название формы "
+
+#: core/entries/meta-data.php:64
+msgid "Info"
+msgstr "Информация"
+
+#: core/entries/action.php:907
+msgid "Admin mail not found to send email."
+msgstr "Почта администратора не найдена для отправки email."
+
+#: core/entries/action.php:250
+msgid "Form submission limit exceeded."
+msgstr "Превышен лимит отправки формы."
+
+#: core/entries/action.php:240
+msgid "You must be logged in to submit form."
+msgstr "Вы должны войти в систему, чтобы отправить форму."
+
+#: core/integrations/google-recaptcha.php:38
+#: core/integrations/google-recaptcha.php:71
+msgid "Captcha is not verified."
+msgstr "Captcha не проверена."
+
+#: core/entries/action.php:167 core/entries/action.php:197
+msgid "Please solve the recaptcha."
+msgstr "Пожалуйста, решите recaptcha."
+
+#: core/entries/action.php:80 core/entries/action.php:85
+#: core/entries/action.php:141
+msgid "Unauthorized submission."
+msgstr "Неавторизованная отправка."
+
+#: traits/common-controls.php:84 traits/quiz-control.php:40
+msgid "Name"
+msgstr "Имя"
+
+#: core/entries/cpt.php:45
+msgid "metform-entry"
+msgstr "metform-entry"
+
+#: core/entries/cpt.php:44
+msgid "Form entry"
+msgstr "Запись в форме"
+
+#: core/entries/cpt.php:40
+msgid "Filter from entry list"
+msgstr "Фильтр из списка записей"
+
+#: core/entries/cpt.php:39
+msgid "Form entries list navigation"
+msgstr "Навигация по списку записей формы"
+
+#: core/entries/cpt.php:38
+msgid "Form entries list"
+msgstr "Список записей формы"
+
+#: core/entries/cpt.php:37
+msgid "Uploaded to this item"
+msgstr "Загружено в этот элемент"
+
+#: core/entries/cpt.php:36
+msgid "Insert into item"
+msgstr "Вставить в элемент"
+
+#: core/entries/cpt.php:35 core/forms/cpt.php:502
+msgid "Use as featured image"
+msgstr "Использовать как изображение записи"
+
+#: core/entries/cpt.php:34 core/forms/cpt.php:501
+msgid "Remove featured image"
+msgstr "Удалить изображение записи"
+
+#: core/entries/cpt.php:33 core/forms/cpt.php:500
+msgid "Set featured image"
+msgstr "Задать изображение"
+
+#: core/entries/cpt.php:32 core/forms/cpt.php:499
+msgid "Featured Image"
+msgstr "Изображение записи"
+
+#: core/entries/cpt.php:31 core/forms/cpt.php:498
+msgid "Not found in Trash"
+msgstr "Не найден в корзине"
+
+#: core/entries/cpt.php:30 core/forms/cpt.php:497
+msgid "Not found"
+msgstr "Не найдено"
+
+#: core/entries/cpt.php:29
+msgid "Search Item"
+msgstr "Искать элемент"
+
+#: core/entries/cpt.php:28
+msgid "View Items"
+msgstr "Просмотр элементов"
+
+#: core/entries/cpt.php:27
+msgid "View Item"
+msgstr "Просмотр элемента"
+
+#: core/entries/cpt.php:26
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+#: core/entries/cpt.php:25
+msgid "Edit Item"
+msgstr "Изменить элемент"
+
+#: core/entries/cpt.php:24
+msgid "New Item"
+msgstr "Новый элемент"
+
+#: core/entries/cpt.php:23 core/forms/cpt.php:490
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: core/entries/cpt.php:22
+msgid "Add New Item"
+msgstr "Добавить новый элемент"
+
+#: core/entries/cpt.php:21 core/forms/hooks.php:36
+msgid "Entries"
+msgstr "Записи"
+
+#: core/entries/cpt.php:20 core/forms/cpt.php:487
+msgid "Parent Item:"
+msgstr "Родительский элемент:"
+
+#: core/entries/cpt.php:19
+msgid "Entry Attributes"
+msgstr "Атрибуты записей"
+
+#: core/entries/cpt.php:18
+msgid "Entry Archives"
+msgstr "Архив записей"
+
+#: core/entries/cpt.php:16 core/entries/cpt.php:17
+msgid "Entry"
+msgstr "Запись"
+
+#: core/entries/cpt.php:15
+msgctxt "Post Type Singular Name"
+msgid "Entry"
+msgstr "Запись"
+
+#: core/entries/cpt.php:14
+msgctxt "Post Type General Name"
+msgid "Entries"
+msgstr "Записи"
+
+#: core/entries/hooks.php:27 core/forms/views/modal-add-new-form.php:13
+msgid "Form Name"
+msgstr "Название формы"
+
+#: controls/form-picker-utils.php:33
+msgid "Edit"
+msgstr "Изменить"
+
+#: controls/form-editor-modal.php:46
+msgid "Loading"
+msgstr "Загрузка"
+
+#: controls/form-editor-modal.php:20 controls/form-editor-modal.php:21
+#: controls/form-picker-modal.php:95
+msgid "Close"
+msgstr "Закрыть"
+
+#. Plugin Name of the plugin
+#: metform.php controls/form-editor-modal.php:12 plugin.php:575 plugin.php:576
+#: widgets/form.php:30
+msgid "MetForm"
+msgstr "MetForm"
+
+#. Author URI of the plugin
+#: metform.php
+msgid "https://wpmet.com"
+msgstr "https://wpmet.com"
+
+#. Author of the plugin
+#: metform.php
+msgid "Wpmet"
+msgstr "Wpmet"
+
+#. Description of the plugin
+#: metform.php
+msgid "Most flexible and design friendly form builder for Elementor"
+msgstr "Самый гибкий и удобный конструктор форм для Elementor"

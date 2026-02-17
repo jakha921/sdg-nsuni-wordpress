@@ -1,0 +1,70 @@
+{
+	"name": "wp-menu-custom-fields",
+	"version": "1.1.0",
+	"description": "Adds custom fields on nav menu edit screen and shows it on site menu.",
+	"author": "rtCamp",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"prod": "cross-env NODE_ENV=production webpack --mode production --progress",
+		"dev": "cross-env NODE_ENV=development webpack --watch --mode development --progress",
+		"clean": "rm -rf build/*",
+		"lint-css": "npx stylelint src/sass/**/*.scss --syntax scss",
+		"lint-js": "npx eslint src/js/",
+		"language:make-po": "wp i18n make-pot ../ --exclude=\"assets\" ../languages/wp-menu-custom-fields.po",
+		"language": "run-s \"language:*\"",
+		"test": "jest  --verbose"
+	},
+	"dependencies": {
+		"webfontloader": "^1.6.28"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.19.3",
+		"@babel/preset-env": "^7.19.4",
+		"autoprefixer": "^9.8.8",
+		"babel-loader": "^8.2.5",
+		"clean-webpack-plugin": "^3.0.0",
+		"cross-env": "^7.0.3",
+		"css-loader": "^3.6.0",
+		"css-mqpacker": "^7.0.0",
+		"cssnano": "^4.1.11",
+		"eslint": "^6.8.0",
+		"eslint-config-wordpress": "^2.0.0",
+		"eslint-loader": "^3.0.4",
+		"file-loader": "^5.1.0",
+		"foundation-sites": "^6.7.5",
+		"jest": "^25.5.4",
+		"mini-css-extract-plugin": "^0.9.0",
+		"node-sass": "^4.14.1",
+		"npm-run-all": "^4.1.5",
+		"optimize-css-assets-webpack-plugin": "^5.0.8",
+		"postcss-assets": "^5.0.0",
+		"postcss-loader": "^3.0.0",
+		"postcss-pxtorem": "^5.0.0",
+		"postcss-scss": "^2.1.1",
+		"prompt-sync": "^4.2.0",
+		"replace-in-file": "^5.0.2",
+		"sass-loader": "^8.0.2",
+		"serialize-javascript": "^3.1.0",
+		"style-loader": "^1.3.0",
+		"stylelint": "^13.13.1",
+		"stylelint-config-wordpress": "^16.0.0",
+		"stylelint-webpack-plugin": "^1.2.3",
+		"uglifyjs-webpack-plugin": "^2.2.0",
+		"webpack": "^4.46.0",
+		"webpack-cli": "^3.3.12"
+	},
+	"browserslist": [
+		"defaults"
+	],
+	"jest": {
+		"testPathIgnorePatterns": [
+			"<rootDir>/node_modules/"
+		],
+		"coverageDirectory": "<rootDir>/.jest-coverage/",
+		"setupFilesAfterEnv": [
+			"<rootDir>/test.setup.js"
+		],
+		"automock": false
+	}
+}

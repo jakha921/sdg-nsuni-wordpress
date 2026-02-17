@@ -1,0 +1,70 @@
+.reactheme-breadcrumb {
+    // Layouts Variation
+    $smlg-device: 'only screen and (max-width: 1199px)';
+    $extra-device: 'only screen and (min-width: 1600px) and (max-width: 1919px)';
+    $laptop-device: 'only screen and (min-width: 1200px) and (max-width: 1599px)';
+    $lg-layout: 'only screen and (min-width: 992px) and (max-width: 1199px)';
+    $md-layout:'only screen and (min-width: 768px) and (max-width: 991px)';
+    $sm-layout:'only screen and (max-width: 767px)';
+    $large-mobile: 'only screen and (max-width: 575px)';
+    $small-mobile: 'only screen and (max-width: 479px)';
+    position: relative;
+    &::before {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        content: "";
+        left: 0;
+        top: 0;
+        z-index: 1;
+    }
+    .breadcrumb-inner {
+        position: relative;
+        z-index: 2;
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        align-content: center;
+        @media #{$lg-layout} {
+            height: 200px !important;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .page-title {
+            margin: 0;
+            text-align: center;
+            @media #{$smlg-device} {
+                font-size: 54px;
+            }
+            @media #{$lg-layout} {
+                font-size: 44px;
+            }
+            @media #{$md-layout} {
+                font-size: 36px;
+                line-height: 56px;
+            }
+            @media #{$sm-layout} {
+                font-size: 30px;
+                line-height: 45px;
+            }
+            @media #{$large-mobile} {
+                font-size: 26px;
+                line-height: 36px;
+            }
+            @media #{$small-mobile} {
+                font-size: 24px;
+                line-height: 30px;
+            }
+        }
+        .breadcrumb-path, .breadcrumb-path a {
+            .breadcrumb-separator {
+                margin: 0 5px;
+                svg {
+                    height: 14px;
+                    width: auto;
+                    fill: currentColor;
+                }
+            }
+        }
+    }
+}

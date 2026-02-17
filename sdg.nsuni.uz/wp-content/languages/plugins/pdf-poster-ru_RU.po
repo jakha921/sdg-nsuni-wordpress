@@ -1,0 +1,788 @@
+# Translation of Plugins - PDF Poster – Display PDF Files with Custom Viewer - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - PDF Poster – Display PDF Files with Custom Viewer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-08-14 05:27:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - PDF Poster – Display PDF Files with Custom Viewer - Stable (latest release)\n"
+
+#: inc/admin.php:48 inc/admin.php:49
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: inc/Field/MetaBox.php:86
+msgid "Show file name on top"
+msgstr "Показать имя файла сверху"
+
+#: inc/Field/MetaBox.php:189
+msgid "Jump To Page"
+msgstr "Перейти на страницу"
+
+#. Plugin URI of the plugin
+#: pdf-poster.php
+msgid "https://bplugins.com/products/pdf-poster/"
+msgstr "https://bplugins.com/products/pdf-poster/"
+
+#. Author URI of the plugin
+#: pdf-poster.php
+msgid "https://profiles.wordpress.org/abuhayat"
+msgstr "https://profiles.wordpress.org/abuhayat"
+
+#: admin/framework/fields/background/background.php:219
+msgid "Cover"
+msgstr "Обложка"
+
+#: admin/framework/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr "&#8658; слева направо"
+
+#: admin/framework/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr "&#8659; сверху вниз"
+
+#: admin/framework/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr "Активена"
+
+#: admin/framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr "Добавить галерею"
+
+#: admin/framework/fields/icon/icon.php:20
+#: admin/framework/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: admin/framework/fields/link/link.php:20
+msgid "Add Link"
+msgstr "Добавить ссылку"
+
+#: admin/framework/fields/group/group.php:52
+#: admin/framework/fields/group/group.php:107
+#: admin/framework/fields/repeater/repeater.php:48
+#: admin/framework/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr "Вы уверены, что хотите удалить этот пункт?"
+
+#: admin/framework/classes/admin-options.class.php:517
+#: admin/framework/classes/admin-options.class.php:640
+msgid "Are you sure to reset this section options?"
+msgstr "Вы уверены к сбросу настроек этого раздела?"
+
+#: admin/framework/classes/setup.class.php:606
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: admin/framework/fields/background/background.php:221
+msgid "Auto"
+msgstr "Авто"
+
+#: admin/framework/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr "Привязка фона"
+
+#: admin/framework/fields/background/background.php:235
+msgid "Background Origin"
+msgstr "Источник фона"
+
+#: admin/framework/fields/background/background.php:161
+msgid "Background Position"
+msgstr "Положение фона"
+
+#: admin/framework/fields/background/background.php:218
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: admin/framework/fields/border/border.php:27
+#: admin/framework/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr "снизу"
+
+#: admin/framework/classes/comment-options.class.php:202
+#: admin/framework/classes/metabox-options.class.php:281
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin/framework/fields/typography/typography.php:172
+msgid "Center"
+msgstr "Центр"
+
+#: admin/framework/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr "Внизу по центру"
+
+#: admin/framework/fields/background/background.php:165
+msgid "Center Top"
+msgstr "Вверху по центру"
+
+#: admin/framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr "Очистить"
+
+#: admin/framework/fields/background/background.php:278
+msgid "Color"
+msgstr "Цвет"
+
+#: admin/framework/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr "Осветление основы"
+
+#: admin/framework/fields/background/background.php:238
+#: admin/framework/fields/background/background.php:255
+msgid "Content Box"
+msgstr "Блок контента"
+
+#: admin/framework/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr "Пользовательский стиль"
+
+#: admin/framework/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr "Пользовательские веб-шрифты"
+
+#: admin/framework/fields/typography/typography.php:119
+#: admin/framework/fields/typography/typography.php:132
+#: admin/framework/fields/typography/typography.php:145
+#: admin/framework/fields/typography/typography.php:160
+#: admin/framework/fields/typography/typography.php:176
+#: admin/framework/fields/typography/typography.php:189
+#: admin/framework/fields/typography/typography.php:203
+#: admin/framework/fields/typography/typography.php:221
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/framework/classes/admin-options.class.php:241
+#: admin/framework/classes/admin-options.class.php:257
+msgid "Default settings restored."
+msgstr "Настройки по умолчанию восстановлены."
+
+#: admin/framework/fields/background/background.php:108
+msgid "Direction"
+msgstr "Направление"
+
+#: admin/framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr "Отключить"
+
+#: admin/framework/fields/border/border.php:53
+#: admin/framework/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr "Точечный пунктир"
+
+#: admin/framework/fields/border/border.php:54
+#: admin/framework/fields/typography/typography.php:215
+msgid "Double"
+msgstr "Двойной"
+
+#: admin/framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr "Изменить галерею"
+
+#: admin/framework/fields/link/link.php:21
+msgid "Edit Link"
+msgstr "Изменить ссылку"
+
+#: admin/framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr "Включен"
+
+#: admin/framework/classes/admin-options.class.php:169
+msgid "Error while saving the changes."
+msgstr "Ошибка при сохранении изменений."
+
+#: admin/framework/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr "Экспортировать и скачать"
+
+#: admin/framework/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr "Фокус"
+
+#: admin/framework/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: admin/framework/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: admin/framework/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: admin/framework/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: admin/framework/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr "Вариант шрифта"
+
+#: admin/framework/fields/background/background.php:72
+#: admin/framework/fields/date/date.php:31
+#: admin/framework/fields/datetime/datetime.php:36
+msgid "From"
+msgstr "От кого"
+
+#: admin/framework/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr "Направление градиента"
+
+#: admin/framework/fields/border/border.php:57
+msgid "Groove"
+msgstr "Выпуклость"
+
+#: admin/framework/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr "высота"
+
+#: admin/framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr "Импорт"
+
+#: admin/framework/fields/typography/typography.php:175
+msgid "Initial"
+msgstr "Исходный"
+
+#: admin/framework/fields/typography/typography.php:174
+msgid "Justify"
+msgstr "По ширине"
+
+#: admin/framework/fields/map/map.php:24
+msgid "Latitude"
+msgstr "Широта"
+
+#: admin/framework/fields/border/border.php:28
+#: admin/framework/fields/spacing/spacing.php:28
+msgid "left"
+msgstr "cлева"
+
+#: admin/framework/fields/typography/typography.php:171
+msgid "Left"
+msgstr "Слева"
+
+#: admin/framework/fields/background/background.php:163
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: admin/framework/fields/background/background.php:275
+msgid "Lighten"
+msgstr "Осветление"
+
+#: admin/framework/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr "Зачёркивание"
+
+#: admin/framework/fields/map/map.php:25
+msgid "Longitude"
+msgstr "Долгота"
+
+#: admin/framework/fields/background/background.php:279
+msgid "Luminosity"
+msgstr "Яркость"
+
+#: admin/framework/classes/admin-options.class.php:616
+#: admin/framework/classes/comment-options.class.php:184
+#: admin/framework/classes/metabox-options.class.php:263
+#: admin/framework/fields/button_set/button_set.php:56
+#: admin/framework/fields/checkbox/checkbox.php:82
+#: admin/framework/fields/radio/radio.php:75
+#: admin/framework/fields/select/select.php:113
+#: admin/framework/functions/actions.php:41
+msgid "No data available."
+msgstr "Данные отсутствуют."
+
+#: admin/framework/fields/background/background.php:273
+msgid "Overlay"
+msgstr "Наложение"
+
+#: admin/framework/classes/setup.class.php:607
+msgid "Please enter %s or more characters"
+msgstr "Пожалуйста, введите %s или более символов"
+
+#: admin/framework/classes/admin-options.class.php:518
+#: admin/framework/classes/admin-options.class.php:641
+#: admin/framework/classes/comment-options.class.php:201
+#: admin/framework/classes/metabox-options.class.php:280
+#: admin/framework/fields/backup/backup.php:31
+msgid "Reset"
+msgstr "Сбросить"
+
+#: admin/framework/classes/admin-options.class.php:518
+#: admin/framework/classes/admin-options.class.php:641
+msgid "Reset All"
+msgstr "Сбросить все"
+
+#: admin/framework/classes/admin-options.class.php:517
+#: admin/framework/classes/admin-options.class.php:640
+msgid "Reset Section"
+msgstr "Сбросить раздел"
+
+#: admin/framework/fields/border/border.php:58
+msgid "ridge"
+msgstr "грани"
+
+#: admin/framework/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr "Внизу справа"
+
+#: admin/framework/fields/background/background.php:169
+msgid "Right Center"
+msgstr "По центру справа"
+
+#: admin/framework/fields/background/background.php:168
+msgid "Right Top"
+msgstr "Вверху справа"
+
+#: admin/framework/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr "Безопасные веб-шрифты"
+
+#: admin/framework/fields/background/background.php:277
+msgid "Saturation"
+msgstr "Насыщенность"
+
+#: admin/framework/classes/admin-options.class.php:516
+#: admin/framework/classes/admin-options.class.php:639
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/framework/classes/admin-options.class.php:516
+#: admin/framework/classes/admin-options.class.php:639
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#: admin/framework/fields/background/background.php:272
+msgid "Screen"
+msgstr "Экран"
+
+#: inc/Field/Settings.php:19
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/framework/classes/admin-options.class.php:328
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: admin/framework/classes/admin-options.class.php:229
+msgid "Settings successfully imported."
+msgstr "Настройки успешно импортированы."
+
+#: admin/framework/fields/border/border.php:51
+#: admin/framework/fields/typography/typography.php:214
+msgid "Solid"
+msgstr "Сплошной"
+
+#: admin/framework/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: admin/framework/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: admin/framework/functions/validate.php:50
+#: admin/framework/functions/validate.php:126
+msgid "This field is required."
+msgstr "Это обязательное поле."
+
+#: admin/framework/fields/media/media.php:25
+#: admin/framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/framework/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: admin/framework/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr "Волнистая"
+
+#: admin/framework/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr "ширина"
+
+#: admin/framework/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr "Интервал между словами"
+
+#: admin/framework/classes/shortcode-options.class.php:210
+#: admin/framework/fields/group/group.php:23 inc/admin.php:38
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: admin/framework/fields/border/border.php:29
+#: admin/framework/fields/spacing/spacing.php:29
+msgid "all"
+msgstr "все"
+
+#: admin/framework/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr "Все малые прописные"
+
+#: admin/framework/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr "Повторение фона"
+
+#: admin/framework/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr "Семейство шрифтов Backup"
+
+#: admin/framework/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr "Веб-шрифты Google"
+
+#: admin/framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr "Удалить значок"
+
+#: admin/framework/fields/link/link.php:22
+msgid "Remove Link"
+msgstr "Удалить ссылку"
+
+#: admin/framework/classes/admin-options.class.php:513
+#: admin/framework/fields/icon/icon.php:57
+#: admin/framework/fields/map/map.php:23
+msgid "Search..."
+msgstr "Поиск..."
+
+#: admin/framework/classes/setup.class.php:608
+msgid "Searching..."
+msgstr "Идёт поиск..."
+
+#: admin/framework/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr "&#8664; угол сверху направо"
+
+#: admin/framework/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr "&#8665; угол сверху налево"
+
+#: admin/framework/classes/admin-options.class.php:518
+#: admin/framework/classes/admin-options.class.php:641
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr "Вы уверены, что хотите сбросить все настройки до значений по умолчанию?"
+
+#: admin/framework/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr "Режим наложения фона"
+
+#: admin/framework/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: admin/framework/fields/background/background.php:274
+msgid "Darken"
+msgstr "Затемнить"
+
+#: admin/framework/fields/border/border.php:52
+#: admin/framework/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr "Пунктирная"
+
+#: admin/framework/classes/setup.class.php:778
+#: admin/framework/classes/setup.class.php:782
+msgid "Field not found!"
+msgstr "Поле не найдено!"
+
+#: admin/framework/fields/border/border.php:55
+msgid "Inset"
+msgstr "Вставка"
+
+#: admin/framework/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: admin/framework/fields/background/background.php:162
+msgid "Left Top"
+msgstr "Слева сверху"
+
+#: admin/framework/fields/group/group.php:41
+#: admin/framework/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr "Ошибка: конфликт ID поля."
+
+#: admin/framework/classes/shortcode-options.class.php:247
+#: admin/framework/functions/actions.php:16
+#: admin/framework/functions/actions.php:68
+#: admin/framework/functions/actions.php:106
+#: admin/framework/functions/actions.php:141
+#: admin/framework/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr "Ошибка: некорректная верификация одноразового кода (nonce)."
+
+#: admin/framework/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr "Ошибка: неверный ID элемента."
+
+#: admin/framework/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr "Ошибка: ответ не является допустимым ответом JSON."
+
+#: admin/framework/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr "Ошибка: у вас нет на это разрешения."
+
+#: admin/framework/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr "Межбуквенный интервал"
+
+#: admin/framework/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: admin/framework/fields/typography/typography.php:144
+#: admin/framework/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr "Загрузить дополнительные стили"
+
+#: admin/framework/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: admin/framework/fields/background/background.php:271
+msgid "Multiply"
+msgstr "Многослойный"
+
+#: admin/framework/fields/background/background.php:270
+#: admin/framework/fields/link_color/link_color.php:36
+#: admin/framework/fields/typography/typography.php:186
+msgid "Normal"
+msgstr "Обычный"
+
+#: admin/framework/fields/background/background.php:36
+#: admin/framework/fields/media/media.php:59
+msgid "Not selected"
+msgstr "Не выбрано"
+
+#: admin/framework/classes/setup.class.php:710
+msgid "Oops! Not allowed."
+msgstr "Упс! Не разрешено."
+
+#: admin/framework/functions/validate.php:14
+#: admin/framework/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите корректный адрес e-mail."
+
+#: admin/framework/functions/validate.php:32
+#: admin/framework/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr "Введите действительный номер."
+
+#: admin/framework/functions/validate.php:68
+#: admin/framework/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr "Введите корректный URL."
+
+#: admin/framework/fields/background/background.php:185
+msgid "Repeat"
+msgstr "Повтор"
+
+#: admin/framework/fields/border/border.php:26
+#: admin/framework/fields/spacing/spacing.php:26
+msgid "right"
+msgstr "справа"
+
+#: admin/framework/fields/typography/typography.php:173
+msgid "Right"
+msgstr "Справа"
+
+#: admin/framework/classes/admin-options.class.php:511
+msgid "show all settings"
+msgstr "показать все настройки"
+
+#: admin/framework/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr "Маленькие заглавные буквы"
+
+#: admin/framework/fields/typography/typography.php:158
+msgid "Subset"
+msgstr "Подмножество"
+
+#: admin/framework/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: admin/framework/classes/comment-options.class.php:202
+#: admin/framework/classes/metabox-options.class.php:281
+msgid "update post"
+msgstr "обновлённая запись"
+
+#: admin/framework/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr "Посещён"
+
+#: admin/framework/fields/group/group.php:141
+#: admin/framework/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr "You cannot add more."
+
+#: admin/framework/fields/group/group.php:142
+#: admin/framework/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr "Больше удалить нельзя."
+
+#: admin/framework/classes/admin-options.class.php:509
+msgid "You have unsaved changes, save your changes!"
+msgstr "У вас есть несохраненные изменения, сохранить изменения!"
+
+#: inc/PostType/PDFPoster.php:119
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/PostType/PDFPoster.php:57 inc/PostType/PDFPoster.php:58
+msgid "Add New Pdf"
+msgstr "Добавить новый файл"
+
+#: admin/framework/fields/background/background.php:166
+msgid "Center Center"
+msgstr "По центру"
+
+#: inc/PostType/PDFPoster.php:59
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/framework/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: admin/framework/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr "Повтор по горизонтали"
+
+#: admin/framework/fields/media/media.php:26
+#: admin/framework/fields/upload/upload.php:25
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/PostType/PDFPoster.php:62
+msgid "Search Pdf"
+msgstr "Поиск Pdf"
+
+#: admin/framework/fields/background/background.php:203
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: inc/PostType/PDFPoster.php:63
+msgid "Sorry, we couldn't find the Pdf file you are looking for."
+msgstr "К сожалению, нам не удалось найти нужный файл Pdf."
+
+#: admin/framework/fields/background/background.php:220
+msgid "Contain"
+msgstr "Вместить"
+
+#: admin/framework/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr "При наведении"
+
+#: admin/framework/fields/background/background.php:186
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: admin/framework/classes/setup.class.php:609
+msgid "No results found."
+msgstr "Результаты не найдены."
+
+#: admin/framework/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr "Выключить"
+
+#: admin/framework/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr "Выбрать шрифт"
+
+#. Plugin Name of the plugin
+#: pdf-poster.php inc/admin.php:27 inc/admin.php:28
+#: inc/PostType/PDFPoster.php:55 inc/PostType/PDFPoster.php:115
+#: build/blocks/selector/index.js:1
+msgid "PDF Poster"
+msgstr "PDF Poster"
+
+#: inc/PostType/PDFPoster.php:56
+msgid "Pdf Poster"
+msgstr "Pdf Poster"
+
+#: admin/framework/functions/actions.php:72
+#: admin/framework/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr "Ошибка: неверный ключ."
+
+#: inc/PostType/PDFPoster.php:60
+msgid "New Pdf"
+msgstr "Новый PDF"
+
+#: admin/framework/fields/border/border.php:59
+#: admin/framework/fields/typography/typography.php:199
+#: admin/framework/fields/typography/typography.php:213
+msgid "None"
+msgstr "Пусто"
+
+#: admin/framework/fields/switcher/switcher.php:20
+msgid "On"
+msgstr "Включить"
+
+#: inc/PostType/PDFPoster.php:116
+msgid "Supports"
+msgstr "Поддержка"
+
+#: admin/framework/fields/background/background.php:204
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: admin/framework/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr "Повтор по вертикали"
+
+#: inc/PostType/PDFPoster.php:61
+msgid "View Pdf"
+msgstr "Просмотр PDF"
+
+#. Author of the plugin
+#: pdf-poster.php
+msgid "bPlugins"
+msgstr "bPlugins"
+
+#: admin/framework/fields/background/background.php:252
+msgid "Background Clip"
+msgstr "Обрезка фона"
+
+#: admin/framework/fields/border/border.php:25
+#: admin/framework/fields/spacing/spacing.php:25
+msgid "top"
+msgstr "сверху"
+
+#: admin/framework/fields/border/border.php:56
+msgid "Outset"
+msgstr "Выпуклый"
+
+#: admin/framework/fields/checkbox/checkbox.php:23
+msgid "Check/Uncheck All"
+msgstr "Установить/снять отметку со всех"
+
+#: admin/framework/fields/typography/typography.php:219
+msgid "Overline"
+msgstr "Надчёркнутый"
+
+#: admin/framework/fields/background/background.php:236
+#: admin/framework/fields/background/background.php:254
+msgid "Padding Box"
+msgstr "Внутренний отступ блока"
+
+#: admin/framework/fields/background/background.php:237
+#: admin/framework/fields/background/background.php:253
+msgid "Border Box"
+msgstr "Рамка блока"
+
+#: inc/Field/MetaBox.php:181
+msgid "Horizontal Scrollbar"
+msgstr "Горизонтальная полоса прокрутки"
+
+#: inc/Field/MetaBox.php:101
+msgid "Fullscreen Button Text"
+msgstr "Текст полноэкранной кнопки"

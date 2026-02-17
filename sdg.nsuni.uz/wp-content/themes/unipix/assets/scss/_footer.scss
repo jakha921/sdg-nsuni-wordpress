@@ -1,0 +1,63 @@
+/* ---------------------------
+    Footer Css 
+------------------------------*/
+
+.reactheme-footer {
+    background: var(--color-secondary);
+    font-size: 16px;
+    color: var(--color-white);
+    position: relative;
+ 
+}
+.error404 {
+    .reactheme-footer {
+        margin: 0
+    }
+}
+.footer-bottom {    
+    background: var(--color-secondary);
+    .copyright_border {
+        padding: 20px 0;
+        text-align: center;    
+        color:var(--color-white); 
+        .copyright{
+            text-align: center;          
+        }
+    }
+    .copyright {
+        a{
+            color: var(--color-primary);
+            font-weight: 700;
+        }
+        p{
+            margin: 0;
+            line-height: 35px;
+        }
+    }
+}
+#top-to-bottom {
+    text-align: center;
+    bottom: 0;
+    cursor: pointer;
+    position: fixed;
+    right: 28px;
+    z-index: 10;
+    display: none;
+    text-align: center;
+    transform: translateY(20px);
+    transition: all 0.5s ease 0s;
+    opacity: 0;
+    width: 46px;
+    height: 46px;
+    line-height: 46px;
+    background: var(--color-primary);
+    border-radius: 100px;
+    i {
+        
+        color: var(--color-white);
+    }
+}
+.scroll_visible {   
+    transform: translateY(-35px) !important;
+    opacity: 1 !important;
+}

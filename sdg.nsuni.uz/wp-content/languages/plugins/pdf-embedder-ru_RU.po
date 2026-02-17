@@ -1,0 +1,417 @@
+# Translation of Plugins - PDF Embedder - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - PDF Embedder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-07 11:32:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - PDF Embedder - Stable (latest release)\n"
+
+#: src/Admin/MediaLibrary.php:147
+msgid "Not Secured PDF."
+msgstr "Не защищенный PDF."
+
+#: src/Admin/MediaLibrary.php:143
+msgid "Secured PDF"
+msgstr "Защищенный PDF."
+
+#: src/Admin/MediaLibrary.php:103
+msgid "PDF Downloads / Views"
+msgstr "PDF скачивание / просмотры"
+
+#. translators: %s - URL to wp-pdf.com page.
+#: src/Admin/MediaLibrary.php:92
+msgid "Not tracked. <a href=\"%s\" target=\"_blank\">Learn more</a>"
+msgstr "Не отслеживается. <a href=\"%s\" target=\"_blank\">Узнать больше</a>"
+
+#: src/Admin/MediaLibrary.php:86
+msgid "PDF Secured"
+msgstr "PDF защищен"
+
+#: src/Admin/MediaLibrary.php:80
+msgid "Yes"
+msgstr "Да"
+
+#. translators: %s - URL to the settings page.
+#: src/Admin/MediaLibrary.php:69 src/Admin/MediaLibrary.php:151
+msgid "<a href=\"%s\">Learn more</a>"
+msgstr "<a href=\"%s\">Узнать больше</a>"
+
+#: src/Admin/MediaLibrary.php:66
+msgid "No"
+msgstr "Нет"
+
+#: block/build/block.json
+msgctxt "block title"
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: block/build/block.json
+msgctxt "block keyword"
+msgid "pdfs"
+msgstr "pdf файл"
+
+#: block/build/block.json
+msgctxt "block keyword"
+msgid "pdf embed"
+msgstr "внедрить pdf"
+
+#: block/build/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "pdf"
+
+#: block/build/block.json
+msgctxt "block description"
+msgid "Embed PDF files straight into your content."
+msgstr "Внедряйте PDF файлы прямо в ваше содержимое сайта."
+
+#: src/Admin/Pages/Settings.php:124 block/build/index.js:2
+msgid "Always visible"
+msgstr "Всегда отображается"
+
+#: src/Options.php:300
+msgid "Unspecified error. Please review all the settings and try again."
+msgstr "Неизвестная ошибка. Пожалуйста, проверьте все настройки и попробуйте еще раз."
+
+#: src/Admin/WPorgReview.php:106
+msgid "I already did"
+msgstr "Я уже это сделал"
+
+#: src/Admin/WPorgReview.php:105
+msgid "Nope, maybe later"
+msgstr "Я сделаю это позже"
+
+#: src/Admin/WPorgReview.php:105
+msgid "Dismiss for one month"
+msgstr "Скрыть на один месяц"
+
+#: src/Admin/WPorgReview.php:104
+msgid "Ok, you deserve it"
+msgstr "Плагин заслуживает это"
+
+#. translators: %s - status.
+#: src/Admin/Partners.php:91
+msgid "Status: %s"
+msgstr "Статус: %s"
+
+#: src/Admin/Partners.php:69
+msgid "Inactive"
+msgstr "Неактивен"
+
+#: src/Admin/Partners.php:65
+msgid "Active"
+msgstr "Активен"
+
+#: src/Admin/Partners.php:63
+msgid "Install Plugin"
+msgstr "Установить плагин"
+
+#: src/Admin/Partners.php:61
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: src/Admin/License.php:90
+msgid "License key was not provided."
+msgstr "Лицензионный ключ не был предоставлен."
+
+#: src/Admin/License.php:89
+msgid "License key has been disabled."
+msgstr "Лицензионный ключ заблокирован."
+
+#: src/Admin/License.php:88
+msgid "License key is not active for this website."
+msgstr "Лицензионный ключ неактивен для этого сайта."
+
+#: src/Admin/License.php:87
+msgid "License key is not permitted for this website."
+msgstr "Лицензионный ключ неразрешен для этого сайта."
+
+#: src/Admin/License.php:86
+msgid "License key has expired."
+msgstr "Срок действия лицензионного ключа истек."
+
+#: src/Admin/License.php:85
+msgid "License key does not exist in our system."
+msgstr "Данный лицензионный ключ отсутствует в нашей системе."
+
+#: src/Admin/License.php:84
+msgid "License key failed to activate."
+msgstr "Во время активации этого лицензионного ключа произошла ошибка."
+
+#: src/Admin/Admin.php:572
+msgid "Premium"
+msgstr "Premium"
+
+#: src/Admin/Education/SettingsTopBar.php:96
+msgid "Dismiss this message"
+msgstr "Скрыть это сообщение"
+
+#: requirements.php:33
+msgid "<strong>Note:</strong> The PDF Embedder plugin is disabled on your site until you fix the issue."
+msgstr "<strong>Внимание:</strong> Плагин PDF Embedder не работает на вашем сайте пока вы не исправите проблему."
+
+#. translators: %s - WPBeginner URL for recommended WordPress hosting.
+#: requirements.php:17
+msgid "Your site is running an <strong>insecure version</strong> of PHP that is no longer supported. Please contact your web hosting provider to update your PHP version or switch to a <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">recommended WordPress hosting company</a>."
+msgstr "На вашем сайте установлена <strong>небезопасная версия</strong> PHP, которая больше не поддерживается. Обратитесь к поставщику веб-хостинга, чтобы обновить версию PHP, или начните использовать на <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">рекомендованную WordPress хостинговую компанию</a>."
+
+#: src/Admin/Admin.php:367
+msgid "Docs"
+msgstr "Документация"
+
+#: src/Admin/Admin.php:365
+msgid "Support"
+msgstr "Поддержка"
+
+#: src/Admin/Admin.php:359
+msgid "Made with ♥ by the WP PDF Team"
+msgstr "Сделано с ♥ командой WP PDF"
+
+#: src/Admin/Admin.php:369
+msgid "Free Plugins"
+msgstr "Бесплатные плагины"
+
+#: src/Admin/Admin.php:417
+msgid "Allow Usage Tracking"
+msgstr "Разрешить отслеживание использования"
+
+#: src/Admin/Admin.php:410
+msgid "Miscellaneous"
+msgstr "Разное"
+
+#: src/Admin/Pages/Settings.php:102
+msgid "No Toolbar"
+msgstr "Без панели инструментов"
+
+#: src/Admin/Pages/Settings.php:38
+msgid "PDF Embedder Configuration"
+msgstr "Настройка PDF Embedder"
+
+#: src/Admin/Pages/About.php:23
+msgid "About"
+msgstr "О плагине"
+
+#: src/Admin/Admin.php:171
+msgid "Proceed"
+msgstr "Продолжить"
+
+#: src/Admin/Admin.php:170
+msgid "Installing..."
+msgstr "Установка..."
+
+#: src/Admin/Admin.php:168
+msgid "Install"
+msgstr "Установить"
+
+#: src/Admin/Admin.php:167
+msgid "Status: Inactive"
+msgstr "Статус: Неактивный"
+
+#: src/Admin/Admin.php:166
+msgid "Deactivating..."
+msgstr "Деактивация…"
+
+#: src/Admin/Admin.php:164 src/Admin/Partners.php:67
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: src/Admin/Admin.php:162
+msgid "Activating..."
+msgstr "Активация..."
+
+#: src/Admin/Admin.php:161 src/Admin/Partners.php:71
+msgid "Activate"
+msgstr "Активировать"
+
+#: src/Admin/Admin.php:160
+msgid "Status: Active"
+msgstr "Статус: Активный"
+
+#: deprecated/install_skin.php:77
+msgid "There was an error installing the plugin. Please try again."
+msgstr "Произошла ошибка при установке плагина. Попробуйте еще раз."
+
+#: src/Options.php:292
+msgid "Width must be \"max\" or an integer (number of pixels). This setting is reset to \"max\"."
+msgstr "Ширина должна быть \"max\" или целое число (количество пикселей). При неправильном значении настройки сбрасываются на \"max\"."
+
+#: src/Options.php:293
+msgid "Height must be \"max\" or an integer (number of pixels). This setting is reset to \"max\"."
+msgstr "Высота должна быть \"max\" или целое число (количество пикселей). При неправильном значении настройки сбрасываются на \"max\"."
+
+#. Description of the plugin
+#: pdf_embedder.php
+msgid "Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required. Compatible with Gutenberg Editor WordPress"
+msgstr "Встраивайте PDF-файлы прямо в посты и страницы с возможностью изменения ширины и высоты. Не требуются сторонние сервисы. Совместимость с редактором Gutenberg WordPress"
+
+#. translators: %s - URL to wp-pdf.com page.
+#: src/Admin/MediaLibrary.php:168
+msgid "Track downloads and views with <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>."
+msgstr "Отслеживайте скачивания и просмотры с <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>."
+
+#: src/Admin/Pages/Mobile.php:37
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "PDF Embedder Premium оптимизирован для мобильных устройств"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: pdf_embedder.php
+msgid "https://wp-pdf.com"
+msgstr "https://wp-pdf.com"
+
+#: src/Admin/Pages/Settings.php:99 block/build/index.js:2
+msgid "Both"
+msgstr "И сверху, и снизу"
+
+#: src/Admin/License.php:93
+msgid "Unspecified error"
+msgstr "Необозначенная ошибка"
+
+#. translators: %s - URL to wp-pdf.com doc.
+#: src/Admin/Pages/Settings.php:135
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "Для выбранных документов вы можете переопределить эти настройки по-умолчанию, изменяя параметры в шорткоде - читайте в <a href=\"%s\" target=\"_blank\">инструкцию</a>."
+
+#: src/Admin/Admin.php:571 src/Admin/Pages/Settings.php:24
+msgid "Settings"
+msgstr "Настройки"
+
+#: src/Admin/Pages/Secure.php:37
+msgid "Protect your PDFs using PDF Embedder Premium"
+msgstr "Защитите ваши PDF файлы, используя PDF Embedder Premium"
+
+#: src/Admin/Admin.php:594
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: src/Admin/Pages/Settings.php:96 block/build/index.js:2
+msgid "Bottom"
+msgstr "Внизу"
+
+#: src/Admin/Pages/Settings.php:89
+msgid "Toolbar Location"
+msgstr "Расположение панели навигации"
+
+#: src/Admin/Pages/Settings.php:93 block/build/index.js:2
+msgid "Top"
+msgstr "Вверху"
+
+#: src/Admin/Pages/Settings.php:65 block/build/index.js:2
+msgid "Height"
+msgstr "Высота"
+
+#: src/Admin/Pages/Settings.php:77 block/build/index.js:2
+msgid "Enter <code>max</code> or an integer number of pixels."
+msgstr "Введите <code>max</code> или целое число пикселей"
+
+#: src/Admin/Pages/Settings.php:51
+msgid "Default Viewer Settings"
+msgstr "Настройки просмотра по умолчанию"
+
+#: src/Admin/Pages/Settings.php:56 block/build/index.js:2
+msgid "Width"
+msgstr "Ширина"
+
+#: src/Admin/Pages/Settings.php:42
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "Для использования этого плагина, просто вставьте PDF так же, как вы обычно добавляете изображения в свои записи и на страницы - но в этот раз используя PDF."
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: pdf_embedder.php src/Admin/Admin.php:122 src/Admin/Admin.php:130
+#: src/Admin/MediaLibrary.php:28 block/build/index.js:2
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: src/Admin/Admin.php:121 src/Admin/Admin.php:129
+msgid "PDF Embedder settings"
+msgstr "Настройки PDF Embedder"
+
+#: src/Plugin.php:176 block/build/index.js:2
+msgid "View in Full Screen"
+msgstr "Просмотр на полном экране"
+
+#: src/Plugin.php:175
+msgid "PDF page width or height are invalid"
+msgstr "Неправильная высота или ширина страницы PDF"
+
+#: src/Plugin.php:174
+msgid "Click here for more info"
+msgstr "Нажмите здесь для получения более подробной информации"
+
+#. translators: %s - number of PDF files.
+#: src/Admin/MediaLibrary.php:213
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "PDF <span class=\"count\">(%s)</span>"
+msgstr[1] "PDF <span class=\"count\">(%s)</span>"
+msgstr[2] "PDF <span class=\"count\">(%s)</span>"
+
+#: src/Admin/Pages/Settings.php:163
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: src/Admin/MediaLibrary.php:211
+msgid "Manage PDFs"
+msgstr "Управление PDF-файлами"
+
+#: src/Admin/Pages/Mobile.php:23 block/build/index.js:2
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: src/Admin/MediaLibrary.php:210
+msgid "PDFs"
+msgstr "PDFs"
+
+#: src/Plugin.php:173
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "Ошибка: ссылка на файл PDF должна указывать на тот же самый домен, где находится текущая страница."
+
+#: src/Admin/Pages/Settings.php:45
+msgid "From the post editor, click Add Media, and then drag-and-drop your PDF file into the media library. When you insert the PDF into your post, it will automatically embed using the plugin's viewer."
+msgstr "В редакторе записи щёлкните на \"Добавить медиафайл\", а затем перетащите ваш файл PDF в библиотеку изображений. Когда вы вставите ваш PDF в запись, он автоматически будет внедрён с использованием средств просмотра этого плагина."
+
+#: src/Plugin.php:172
+msgid "Full Screen"
+msgstr "На весь экран"
+
+#: src/Plugin.php:171
+msgid "Download PDF"
+msgstr "Скачать PDF"
+
+#: src/Plugin.php:167
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: src/Plugin.php:168
+msgid "Zoom In"
+msgstr "Увеличить"
+
+#: src/Plugin.php:170
+msgid "Zoom Out"
+msgstr "Уменьшить"
+
+#: src/Admin/Admin.php:573 src/Admin/Pages/Secure.php:23 src/Plugin.php:169
+msgid "Secure"
+msgstr "Защита"
+
+#: src/Plugin.php:166
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: src/Plugin.php:165 block/build/index.js:2
+msgid "Zoom"
+msgstr "Масштабирование"
+
+#: src/Plugin.php:164
+msgid "Page"
+msgstr "Страница"
+
+#: src/Plugin.php:163
+msgid "Loading..."
+msgstr "Загрузка..."
